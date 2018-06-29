@@ -46,3 +46,13 @@ config/brandon3055/contributors\.json
 config/jei/worldSettings\.cfg
 
 config/AppliedEnergistics2/VersionChecker\.cfg
+
+OpenComputersMod-1\.7\.2\.67-lua52-native\.64\.dll
+
+OpenComputersMod-1\.7\.2\.67-lua53-native\.64\.dll
+
+TombManyGraves/
+
+\.mixin\.out/
+
+fonts/
