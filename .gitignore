@@ -58,3 +58,7 @@ TombManyGraves/
 fonts/
 
 mods/
+
+valkyrielib/
+
+*.dll
