@@ -1,4 +1,4 @@
-22273 nodes in total
+22334 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -5983,6 +5983,20 @@ ftbutilities.claims.block.edit.voidcraft.voidinfuser: OP
 ftbutilities.claims.block.edit.voidcraft.voidinfuserinert: OP
 ftbutilities.claims.block.edit.voidcraft.voidmacerator: OP
 ftbutilities.claims.block.edit.waystones.waystone: OP
+ftbutilities.claims.block.edit.wirelessutils.angled_slime: OP
+ftbutilities.claims.block.edit.wirelessutils.directional_ae_network: OP
+ftbutilities.claims.block.edit.wirelessutils.directional_charger: OP
+ftbutilities.claims.block.edit.wirelessutils.directional_condenser: OP
+ftbutilities.claims.block.edit.wirelessutils.directional_desublimator: OP
+ftbutilities.claims.block.edit.wirelessutils.directional_rs_network: OP
+ftbutilities.claims.block.edit.wirelessutils.infinite_wireless_transmitter: OP
+ftbutilities.claims.block.edit.wirelessutils.positional_ae_network: OP
+ftbutilities.claims.block.edit.wirelessutils.positional_charger: OP
+ftbutilities.claims.block.edit.wirelessutils.positional_condenser: OP
+ftbutilities.claims.block.edit.wirelessutils.positional_desublimator: OP
+ftbutilities.claims.block.edit.wirelessutils.positional_rs_network: OP
+ftbutilities.claims.block.edit.wirelessutils.powered_air: OP
+ftbutilities.claims.block.edit.wirelessutils.powered_redstone_wire: OP
 ftbutilities.claims.block.edit.woot.anvil: OP
 ftbutilities.claims.block.edit.woot.cell: OP
 ftbutilities.claims.block.edit.woot.controller: OP
@@ -11775,6 +11789,20 @@ ftbutilities.claims.block.interact.voidcraft.voidinfuser: OP
 ftbutilities.claims.block.interact.voidcraft.voidinfuserinert: OP
 ftbutilities.claims.block.interact.voidcraft.voidmacerator: OP
 ftbutilities.claims.block.interact.waystones.waystone: OP
+ftbutilities.claims.block.interact.wirelessutils.angled_slime: OP
+ftbutilities.claims.block.interact.wirelessutils.directional_ae_network: OP
+ftbutilities.claims.block.interact.wirelessutils.directional_charger: OP
+ftbutilities.claims.block.interact.wirelessutils.directional_condenser: OP
+ftbutilities.claims.block.interact.wirelessutils.directional_desublimator: OP
+ftbutilities.claims.block.interact.wirelessutils.directional_rs_network: OP
+ftbutilities.claims.block.interact.wirelessutils.infinite_wireless_transmitter: OP
+ftbutilities.claims.block.interact.wirelessutils.positional_ae_network: OP
+ftbutilities.claims.block.interact.wirelessutils.positional_charger: OP
+ftbutilities.claims.block.interact.wirelessutils.positional_condenser: OP
+ftbutilities.claims.block.interact.wirelessutils.positional_desublimator: OP
+ftbutilities.claims.block.interact.wirelessutils.positional_rs_network: OP
+ftbutilities.claims.block.interact.wirelessutils.powered_air: OP
+ftbutilities.claims.block.interact.wirelessutils.powered_redstone_wire: OP
 ftbutilities.claims.block.interact.woot.anvil: OP
 ftbutilities.claims.block.interact.woot.cell: OP
 ftbutilities.claims.block.interact.woot.controller: OP
@@ -20034,6 +20062,7 @@ ftbutilities.claims.item.randomthings.contactlever: ALL
 ftbutilities.claims.item.randomthings.creativeplayerinterface: ALL
 ftbutilities.claims.item.randomthings.customworkbench: ALL
 ftbutilities.claims.item.randomthings.diaphanousblock: ALL
+ftbutilities.claims.item.randomthings.diviningrod: ALL
 ftbutilities.claims.item.randomthings.dungeonchestgenerator: ALL
 ftbutilities.claims.item.randomthings.dyeingmachine: ALL
 ftbutilities.claims.item.randomthings.emeraldcompass: ALL
@@ -20127,6 +20156,7 @@ ftbutilities.claims.item.randomthings.specialchest: ALL
 ftbutilities.claims.item.randomthings.spectreanchor: ALL
 ftbutilities.claims.item.randomthings.spectreaxe: ALL
 ftbutilities.claims.item.randomthings.spectreblock: ALL
+ftbutilities.claims.item.randomthings.spectrecharger: ALL
 ftbutilities.claims.item.randomthings.spectrecoil_ender: ALL
 ftbutilities.claims.item.randomthings.spectrecoil_genesis: ALL
 ftbutilities.claims.item.randomthings.spectrecoil_normal: ALL
@@ -22140,6 +22170,37 @@ ftbutilities.claims.item.wct.wct: ALL
 ftbutilities.claims.item.wct.wct_creative: ALL
 ftbutilities.claims.item.wct.wft: ALL
 ftbutilities.claims.item.wct.wft_creative: ALL
+ftbutilities.claims.item.wirelessutils.angled_slime: ALL
+ftbutilities.claims.item.wirelessutils.base_augment: ALL
+ftbutilities.claims.item.wirelessutils.capacity_augment: ALL
+ftbutilities.claims.item.wirelessutils.charged_pearl: ALL
+ftbutilities.claims.item.wirelessutils.conversion_upgrade: ALL
+ftbutilities.claims.item.wirelessutils.directional_ae_network: ALL
+ftbutilities.claims.item.wirelessutils.directional_charger: ALL
+ftbutilities.claims.item.wirelessutils.directional_condenser: ALL
+ftbutilities.claims.item.wirelessutils.directional_desublimator: ALL
+ftbutilities.claims.item.wirelessutils.directional_rs_network: ALL
+ftbutilities.claims.item.wirelessutils.ender_coil: ALL
+ftbutilities.claims.item.wirelessutils.fluxed_pearl: ALL
+ftbutilities.claims.item.wirelessutils.glasses: ALL
+ftbutilities.claims.item.wirelessutils.infinite_wireless_transmitter: ALL
+ftbutilities.claims.item.wirelessutils.inventory_augment: ALL
+ftbutilities.claims.item.wirelessutils.invert_augment: ALL
+ftbutilities.claims.item.wirelessutils.level_upgrade: ALL
+ftbutilities.claims.item.wirelessutils.machine_panel: ALL
+ftbutilities.claims.item.wirelessutils.positional_ae_network: ALL
+ftbutilities.claims.item.wirelessutils.positional_card: ALL
+ftbutilities.claims.item.wirelessutils.positional_charger: ALL
+ftbutilities.claims.item.wirelessutils.positional_condenser: ALL
+ftbutilities.claims.item.wirelessutils.positional_desublimator: ALL
+ftbutilities.claims.item.wirelessutils.positional_rs_network: ALL
+ftbutilities.claims.item.wirelessutils.quenched_pearl: ALL
+ftbutilities.claims.item.wirelessutils.range_augment: ALL
+ftbutilities.claims.item.wirelessutils.scorched_pearl: ALL
+ftbutilities.claims.item.wirelessutils.slot_augment: ALL
+ftbutilities.claims.item.wirelessutils.stabilized_ender_pearl: ALL
+ftbutilities.claims.item.wirelessutils.transfer_augment: ALL
+ftbutilities.claims.item.wirelessutils.world_augment: ALL
 ftbutilities.claims.item.woot.anvil: ALL
 ftbutilities.claims.item.woot.builder: ALL
 ftbutilities.claims.item.woot.cell: ALL
@@ -22518,6 +22579,7 @@ command.trigger
 command.twilightforest.tffeature
 command.valkyrielib.removeowner
 command.weather
+command.wirelessutils.wu_debug
 command.woot.woot.dev.debug
 command.woot.woot.dev.power
 command.woot.woot.dev.teleport
@@ -22527,6 +22589,8 @@ command.woot.woot.dump.mobs
 command.woot.woot.dump.policy
 command.woot.woot.dump.structure
 command.woot.woot.dump.tartarus
+command.woot.woot.flush
+command.woot.woot.give
 command.worldborder
 command.xnet.xnetcheck
 command.xnet.xnetdump
