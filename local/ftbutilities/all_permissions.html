@@ -46,26 +46,6 @@ false
 <p>Allow to edit gamerules via Admin Panel</p>
 </td></tr>
 <tr>
-<td><code>block.tap</code></td>
-<td><code>bool</code></td>
-<td class='true' colspan='2'><code>true</code></td>
-<td title='
-true 
-false 
-'>
-<p>Node for taping blocks with the tree tap</p>
-</td></tr>
-<tr>
-<td><code>block.wrench</code></td>
-<td><code>bool</code></td>
-<td class='true' colspan='2'><code>true</code></td>
-<td title='
-true 
-false 
-'>
-<p>Node for wrenching blocks</p>
-</td></tr>
-<tr>
 <td><code>command</code></td>
 <td><code>bool</code></td>
 <td class='false'><code>false</code></td>
@@ -826,6 +806,26 @@ true
 false 
 '>
 <p>Permission to open the GUI(s) of Ender IO's item_redstone_xor_filter</p>
+</td></tr>
+<tr>
+<td><code>enderio.gui.item_soul_filter_big</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to open the GUI(s) of Ender IO's item_soul_filter_big</p>
+</td></tr>
+<tr>
+<td><code>enderio.gui.item_soul_filter_normal</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to open the GUI(s) of Ender IO's item_soul_filter_normal</p>
 </td></tr>
 <tr>
 <td><code>enderio.gui.item_species_item_filter</code></td>
@@ -3831,28 +3831,6 @@ false
 '>
 <p>/warp Warmup Timer</p>
 </td></tr>
-<tr>
-<td><code>pneumaticcraft.amadron.addperiodictrade</code></td>
-<td><code>bool</code></td>
-<td class='false'><code>false</code></td>
-<td class='true'><code>true</code></td>
-<td title='
-true 
-false 
-'>
-<p>Allow player to add a custom periodic offer via the Amadron Tablet</p>
-</td></tr>
-<tr>
-<td><code>pneumaticcraft.amadron.addstatictrade</code></td>
-<td><code>bool</code></td>
-<td class='false'><code>false</code></td>
-<td class='true'><code>true</code></td>
-<td title='
-true 
-false 
-'>
-<p>Allow player to add a custom static offer via the Amadron Tablet</p>
-</td></tr>
 </table><br><table><tr><th>Available command nodes</th><th>Usage</th></tr>
 <tr><td><code>command.advancement</code></td><td>/advancement &lt;grant|revoke|test&gt; &lt;player&gt;</td></tr>
 <tr><td><code>command.appliedenergistics2.ae2</code></td><td>Commands provided by Applied Energistics 2 - use /ae2 list for a list, and /ae2 help _____ for help with a command.</td></tr>
@@ -3882,7 +3860,7 @@ false
 <tr><td><code>command.cofhworld.cofhworld.list</code></td><td>Lists all CoFHWorld features</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>Reloads CoFHWorld configuration</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.version</code></td><td>cofhworld.version.usage</td></tr>
-<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blocks | bugs | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | jeiCategories | json | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | wiki | zslint</td></tr>
+<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | exportzs | hand | help | inventory | jeiCategories | json | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
 <tr><td><code>command.cyclicmagic.enderchest</code></td><td class='error' title='Invalid usage language key!'>/enderchest</td></tr>
 <tr><td><code>command.cyclicmagic.gethome</code></td><td class='error' title='Invalid usage language key!'>/gethome</td></tr>
@@ -3912,7 +3890,6 @@ false
 <tr><td><code>command.enderstorage.enderstorage.help</code></td><td class='error' title='Invalid usage language key!'>Displays help for /EnderStorage commands.</td></tr>
 <tr><td><code>command.entitydata</code></td><td>/entitydata &lt;entity&gt; &lt;dataTag&gt;</td></tr>
 <tr><td><code>command.execute</code></td><td>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;command&gt;<br>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; detect &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; &lt;dataValue|-1|state|*&gt; &lt;command&gt;</td></tr>
-<tr><td><code>command.externaltweaker.exttweaker</code></td><td class='error' title='Invalid usage language key!'>null</td></tr>
 <tr><td><code>command.extrautils2.xudebug</code></td><td>xudebug</td></tr>
 <tr><td><code>command.farmingforblockheads.farmingforblockheads</code></td><td class='error' title='Invalid usage language key!'>/farmingforblockheads reload</td></tr>
 <tr><td><code>command.fill</code></td><td>/fill &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;block&gt; [dataValue|state] [oldBlockHandling] [dataTag]</td></tr>
@@ -4007,6 +3984,15 @@ false
 <tr><td><code>command.gendustry.givesample</code></td><td>/givesample &lt;species&gt; &lt;chromosome&gt; &lt;allele&gt;</td></tr>
 <tr><td><code>command.gendustry.givetemplate</code></td><td>/givetemplate &lt;uid&gt;</td></tr>
 <tr><td><code>command.give</code></td><td>/give &lt;player&gt; &lt;item&gt; [amount] [data] [dataTag]</td></tr>
+<tr><td><code>command.hammercore.hc_buildstr</code></td><td class='error' title='Invalid usage language key!'>Use /hc_buildstr &lt;structure, use TAB&gt;<br>/hc_buildstr &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;structure, use TAB&gt;</td></tr>
+<tr><td><code>command.hammercore.hc_export</code></td><td class='error' title='Invalid usage language key!'>/hc_export &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;name&gt; [save air]</td></tr>
+<tr><td><code>command.hammercore.hc_loadchunk</code></td><td class='error' title='Invalid usage language key!'>Use /hc_loadchunk &lt;dim:int&gt; &lt;chunk x:int&gt; &lt;chunk z:int&gt; &lt;time:string(or -1t for unlimited time)&gt;</td></tr>
+<tr><td><code>command.hammercore.hc_lying_item</code></td><td class='error' title='Invalid usage language key!'></td></tr>
+<tr><td><code>command.hammercore.hc_postolong</code></td><td class='error' title='Invalid usage language key!'></td></tr>
+<tr><td><code>command.hammercore.hc_setenchcol</code></td><td class='error' title='Invalid usage language key!'>Use /hc_setenchcol &lt;hex color&gt; to apply custom color to held item</td></tr>
+<tr><td><code>command.hammercore.hc_setloottable</code></td><td class='error' title='Invalid usage language key!'>Applies a loot table to inventory</td></tr>
+<tr><td><code>command.hammercore.hc_timetoticks</code></td><td class='error' title='Invalid usage language key!'>Use /hc_timetoticks &lt;time:string&gt; (time example: 1t1s1m1h1d1M1y - 1 tick and 1 second and 1 minute and 1 hour and 1 day and 1 month and 1 year)</td></tr>
+<tr><td><code>command.hammercore.hc_tpx</code></td><td class='error' title='Invalid usage language key!'>Used to tp between 2 points on server. Can be used between dimensions</td></tr>
 <tr><td><code>command.help</code></td><td>/help [page|command name]</td></tr>
 <tr><td><code>command.immersiveengineering.ie.clearshaders</code></td><td class='error' title='Invalid usage language key!'>/ie clearshaders [player name]</td></tr>
 <tr><td><code>command.immersiveengineering.ie.help.clearshaders</code></td><td class='error' title='Invalid usage language key!'>/ie clearshaders [player name]</td></tr>
@@ -4047,15 +4033,9 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.oreexcavation.undo_excavation</code></td><td class='error' title='Invalid usage language key!'>/undo_excavation</td></tr>
 <tr><td><code>command.particle</code></td><td>/particle &lt;name&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;xd&gt; &lt;yd&gt; &lt;zd&gt; &lt;speed&gt; [count] [mode] [player] [params]</td></tr>
 <tr><td><code>command.playsound</code></td><td>/playsound &lt;sound&gt; &lt;source&gt; &lt;player&gt; [x] [y] [z] [volume] [pitch] [minimumVolume]</td></tr>
-<tr><td><code>command.pneumaticcraft.deliveramazon</code></td><td class='error' title='Invalid usage language key!'>deliverAmazon &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;inventoryX&gt; &lt;inventorY&gt; &lt;inventoryZ&gt;<br>deliverAmazon &lt;player&gt; &lt;inventoryX&gt; &lt;inventorY&gt; &lt;inventoryZ&gt;</td></tr>
-<tr><td><code>command.pneumaticcraft.getglobalvariable</code></td><td class='error' title='Invalid usage language key!'>getGlobalVariable &lt;variableName&gt;</td></tr>
-<tr><td><code>command.pneumaticcraft.setglobalvariable</code></td><td class='error' title='Invalid usage language key!'>setGlobalVariable &lt;variableName&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
-<tr><td><code>command.quark.emote</code></td><td>&lt;emote&gt;</td></tr>
 <tr><td><code>command.quark.quarkconfig</code></td><td class='error' title='Invalid usage language key!'>&lt;module&gt; &lt;category&gt; &lt;key&gt; &lt;value&gt; [save?] [player]</td></tr>
 <tr><td><code>command.randomthings.rt</code></td><td class='error' title='Invalid usage language key!'>/rt</td></tr>
-<tr><td><code>command.reborncore.rc_dumpmods</code></td><td>rc_dumpmods</td></tr>
-<tr><td><code>command.reborncore.rc_listrecipes</code></td><td>rc_listRecipes</td></tr>
 <tr><td><code>command.recipe</code></td><td>/recipe &lt;give|take&gt; [player] &lt;name|*&gt;</td></tr>
 <tr><td><code>command.refinedstorage.createdisk</code></td><td>/createdisk &lt;player&gt; &lt;item&gt; &lt;metadata&gt; &lt;id&gt;</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>
@@ -4069,33 +4049,42 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.seed</code></td><td>/seed</td></tr>
 <tr><td><code>command.setblock</code></td><td>/setblock &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; [dataValue|state] [oldBlockHandling] [dataTag]</td></tr>
 <tr><td><code>command.setworldspawn</code></td><td>/setworldspawn [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
+<tr><td><code>command.solarflux.solarflux.reload</code></td><td class='error' title='Invalid usage language key!'>null</td></tr>
 <tr><td><code>command.spawnpoint</code></td><td>/spawnpoint [player] [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
 <tr><td><code>command.spreadplayers</code></td><td>/spreadplayers &lt;x&gt; &lt;z&gt; &lt;spreadDistance&gt; &lt;maxRange&gt; &lt;respectTeams true|false&gt; &lt;player ...&gt;</td></tr>
 <tr><td><code>command.stats</code></td><td>/stats &lt;entity|block&gt; ...</td></tr>
 <tr><td><code>command.stopsound</code></td><td>/stopsound &lt;player&gt; [source] [sound]</td></tr>
 <tr><td><code>command.storagedrawers.storagedrawers</code></td><td>commands.storagedrawers.usage</td></tr>
 <tr><td><code>command.summon</code></td><td>/summon &lt;entityname&gt; [x] [y] [z] [dataTag]</td></tr>
-<tr><td><code>command.techreborn.trdev</code></td><td>Use /forge &lt;subcommand&gt;</td></tr>
 <tr><td><code>command.teleport</code></td><td>/teleport &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;y-rot&gt; &lt;x-rot&gt;]</td></tr>
 <tr><td><code>command.tell</code></td><td>/tell &lt;player&gt; &lt;private message ...&gt;</td></tr>
 <tr><td><code>command.tellraw</code></td><td>/tellraw &lt;player&gt; &lt;raw json message&gt;</td></tr>
-<tr><td><code>command.terraqueous.repairstormforge</code></td><td class='error' title='Invalid usage language key!'>repairStormForge me <br> repairStormForge at x y z &lt;d&gt;&lt;br&gt;'me' uses the players location, 'at' uses the provided location&lt;br&gt;x, y, &amp; z can be any of the blocks making the vault&lt;br&gt;d is optional, it is the dimension; defaults to sending players current, or 0 if server sent</td></tr>
 <tr><td><code>command.testfor</code></td><td>/testfor &lt;player&gt; [dataTag]</td></tr>
 <tr><td><code>command.testforblock</code></td><td>/testforblock &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; [dataValue|-1|state|*] [dataTag]</td></tr>
 <tr><td><code>command.testforblocks</code></td><td>/testforblocks &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [mode]</td></tr>
-<tr><td><code>command.thaumcraft.thaumcraft</code></td><td class='error' title='Invalid usage language key!'>/thaumcraft &lt;action&gt; [&lt;player&gt; [&lt;params&gt;]]</td></tr>
 <tr><td><code>command.time</code></td><td>/time &lt;set|add|query&gt; &lt;value&gt;</td></tr>
-<tr><td><code>command.tinkertoolleveling.leveluptool</code></td><td class='error' title='Invalid usage language key!'>/levelupTool while holding a tinker tool in your hand</td></tr>
 <tr><td><code>command.title</code></td><td>/title &lt;player&gt; title|subtitle|actionbar|clear|reset|times ...</td></tr>
 <tr><td><code>command.toggledownfall</code></td><td>/toggledownfall</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_drop</code></td><td class='error' title='Invalid usage language key!'>tmg_drop &lt;player&gt; &lt;timestamp or latest&gt; [receiving player]</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_friends</code></td><td class='error' title='Invalid usage language key!'>tmg_friends [add/remove/list] [player]</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_getdeathlist</code></td><td class='error' title='Invalid usage language key!'>tmg_getDeathList [player] &lt;timestamp or latest&gt;</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_pop_grave</code></td><td class='error' title='Invalid usage language key!'>tmg_pop_grave [x] [y] [z]</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_restore</code></td><td class='error' title='Invalid usage language key!'>tmg_restore &lt;player&gt; &lt;timestamp or latest&gt; [receiving player]</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_steal</code></td><td class='error' title='Invalid usage language key!'>tmg_steal [x] [y] [z]</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_toggle_grave_pos</code></td><td>tmg_toggle_grave_pos</td></tr>
-<tr><td><code>command.tombmanygraves.tmg_toggle_render</code></td><td>tmg_toggle_render</td></tr>
+<tr><td><code>command.tombstone.tbknowledge</code></td><td>Sets the knowledge of death of a player
+/tbknowledge [player] &lt;value&gt;</td></tr>
+<tr><td><code>command.tombstone.tbrecovery</code></td><td>Backups and restores players
+/tbrecovery &lt;save_all_players|save_player &lt;player&gt;|load_player&lt;player&gt; &lt;save&gt;&gt;</td></tr>
+<tr><td><code>command.tombstone.tbrequestteleport</code></td><td>tombstone.command.tbrequestteleport.usage</td></tr>
+<tr><td><code>command.tombstone.tbrestoreinventory</code></td><td>Restores the player inventory with the last known grave
+/tbrestoreinventory [player]</td></tr>
+<tr><td><code>command.tombstone.tbshowlastgrave</code></td><td>Shows the position of the last known grave of a player
+/tbshowlastgrave [player]</td></tr>
+<tr><td><code>command.tombstone.tbsiege</code></td><td>Launches a village siege in the chosen dimension or your current one
+/tbsiege [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleport</code></td><td>Dimensional teleport
+/tbteleport [entity] &lt;destination&gt;
+&lt;destination&gt; = &lt;targetEntity&gt; or &lt;x&gt; &lt;y&gt; &lt;z&gt; [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleportdiscovery</code></td><td>Teleports to an unexplored structure
+/tbteleportdiscovery &lt;entity&gt; [structure] [dim]</td></tr>
+<tr><td><code>command.tombstone.tbteleportgrave</code></td><td>Teleports to the last known grave of a player
+/tbteleportgrave [player] [playerGrave]</td></tr>
+<tr><td><code>command.tombstone.tbteleportvillage</code></td><td>Teleports to an explored village
+/tbteleportvillage &lt;entity&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.topaddons.tophelmet</code></td><td class='error' title='Invalid usage language key!'>/tophelmet blacklist &lt;add/remove&gt;</td></tr>
 <tr><td><code>command.tp</code></td><td>/tp [target player] &lt;destination player&gt;<br>/tp [target player] &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;yaw&gt; &lt;pitch&gt;]</td></tr>
 <tr><td><code>command.traverse.findbiome</code></td><td class='error' title='Invalid usage language key!'>/findbiome &lt;biome&gt;</td></tr>
@@ -4104,17 +4093,6 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.valkyrielib.removeowner</code></td><td>valkyrielib.removeowner</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>
 <tr><td><code>command.wirelessutils.wu_debug</code></td><td>wu_debug</td></tr>
-<tr><td><code>command.woot.woot.dev.debug</code></td><td>Use /woot dev debug {[!]event|show|list}.</td></tr>
-<tr><td><code>command.woot.woot.dev.power</code></td><td>Use /woot dev power &lt;bool&gt;.</td></tr>
-<tr><td><code>command.woot.woot.dev.teleport</code></td><td>commands.woot.dev.teleport.usage</td></tr>
-<tr><td><code>command.woot.woot.dump.learning</code></td><td>Use /woot dump learning</td></tr>
-<tr><td><code>command.woot.woot.dump.loot</code></td><td>Not implemented</td></tr>
-<tr><td><code>command.woot.woot.dump.mobs</code></td><td>Use /woot dump mobs</td></tr>
-<tr><td><code>command.woot.woot.dump.policy</code></td><td>Use /woot dump policy {int|ext} &lt;mob|item&gt;</td></tr>
-<tr><td><code>command.woot.woot.dump.structure</code></td><td>Use /woot dump structure</td></tr>
-<tr><td><code>command.woot.woot.dump.tartarus</code></td><td>Use /woot dump tartarus</td></tr>
-<tr><td><code>command.woot.woot.flush</code></td><td>Use /woot flush {all|&lt;mobname&gt;}</td></tr>
-<tr><td><code>command.woot.woot.give</code></td><td>Use /woot give &lt;player&gt; &lt;mobname&gt; &lt;mob display name&gt;</td></tr>
 <tr><td><code>command.worldborder</code></td><td>/worldborder &lt;set|center|damage|warning|get|add&gt; ...</td></tr>
 <tr><td><code>command.xnet.xnetcheck</code></td><td>xnetcheck</td></tr>
 <tr><td><code>command.xnet.xnetdump</code></td><td>xnetdump</td></tr>
