@@ -1,4 +1,4 @@
-20354 nodes in total
+20371 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -4036,7 +4036,10 @@ ftbutilities.claims.block.edit.nuclearcraft.irradiator_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.irradiator_idle: OP
 ftbutilities.claims.block.edit.nuclearcraft.isotope_separator_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.isotope_separator_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.lithium_ion_battery_advanced: OP
 ftbutilities.claims.block.edit.nuclearcraft.lithium_ion_battery_basic: OP
+ftbutilities.claims.block.edit.nuclearcraft.lithium_ion_battery_du: OP
+ftbutilities.claims.block.edit.nuclearcraft.lithium_ion_battery_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.machine_interface: OP
 ftbutilities.claims.block.edit.nuclearcraft.manufactory_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.manufactory_idle: OP
@@ -4080,7 +4083,10 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_advanced: OP
 ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_basic: OP
+ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_du: OP
+ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.water_source: OP
 ftbutilities.claims.block.edit.nuclearcraft.water_source_compact: OP
 ftbutilities.claims.block.edit.nuclearcraft.water_source_dense: OP
@@ -9300,7 +9306,10 @@ ftbutilities.claims.block.interact.nuclearcraft.irradiator_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.irradiator_idle: OP
 ftbutilities.claims.block.interact.nuclearcraft.isotope_separator_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.isotope_separator_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.lithium_ion_battery_advanced: OP
 ftbutilities.claims.block.interact.nuclearcraft.lithium_ion_battery_basic: OP
+ftbutilities.claims.block.interact.nuclearcraft.lithium_ion_battery_du: OP
+ftbutilities.claims.block.interact.nuclearcraft.lithium_ion_battery_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.machine_interface: OP
 ftbutilities.claims.block.interact.nuclearcraft.manufactory_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.manufactory_idle: OP
@@ -9344,7 +9353,10 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_advanced: OP
 ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_basic: OP
+ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_du: OP
+ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.water_source: OP
 ftbutilities.claims.block.interact.nuclearcraft.water_source_compact: OP
 ftbutilities.claims.block.interact.nuclearcraft.water_source_dense: OP
@@ -11085,6 +11097,7 @@ ftbutilities.claims.item.ae2stuff.inscriber: ALL
 ftbutilities.claims.item.ae2stuff.visualiser: ALL
 ftbutilities.claims.item.ae2stuff.wireless: ALL
 ftbutilities.claims.item.ae2stuff.wireless_kit: ALL
+ftbutilities.claims.item.ae2wtlib.infinity_booster_card: ALL
 ftbutilities.claims.item.akashictome.tome: ALL
 ftbutilities.claims.item.appliedenergistics2.biometric_card: ALL
 ftbutilities.claims.item.appliedenergistics2.cable_bus: ALL
@@ -11292,6 +11305,7 @@ ftbutilities.claims.item.auraddons.item_creative_aura_cache: ALL
 ftbutilities.claims.item.auraddons.item_dampening_feather: ALL
 ftbutilities.claims.item.auraddons.item_sky_bottle: ALL
 ftbutilities.claims.item.auraddons.item_sky_feather: ALL
+ftbutilities.claims.item.base.wrench: ALL
 ftbutilities.claims.item.baubles.ring: ALL
 ftbutilities.claims.item.betterbuilderswands.wanddiamond: ALL
 ftbutilities.claims.item.betterbuilderswands.wandiron: ALL
@@ -17923,7 +17937,10 @@ ftbutilities.claims.item.nuclearcraft.legs_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.legs_hazmat: ALL
 ftbutilities.claims.item.nuclearcraft.legs_tough: ALL
 ftbutilities.claims.item.nuclearcraft.lithium: ALL
+ftbutilities.claims.item.nuclearcraft.lithium_ion_battery_advanced: ALL
 ftbutilities.claims.item.nuclearcraft.lithium_ion_battery_basic: ALL
+ftbutilities.claims.item.nuclearcraft.lithium_ion_battery_du: ALL
+ftbutilities.claims.item.nuclearcraft.lithium_ion_battery_elite: ALL
 ftbutilities.claims.item.nuclearcraft.lithium_ion_cell: ALL
 ftbutilities.claims.item.nuclearcraft.machine_interface: ALL
 ftbutilities.claims.item.nuclearcraft.manufactory_active: ALL
@@ -18006,7 +18023,10 @@ ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
 ftbutilities.claims.item.nuclearcraft.unsweetened_chocolate: ALL
 ftbutilities.claims.item.nuclearcraft.upgrade: ALL
 ftbutilities.claims.item.nuclearcraft.uranium: ALL
+ftbutilities.claims.item.nuclearcraft.voltaic_pile_advanced: ALL
 ftbutilities.claims.item.nuclearcraft.voltaic_pile_basic: ALL
+ftbutilities.claims.item.nuclearcraft.voltaic_pile_du: ALL
+ftbutilities.claims.item.nuclearcraft.voltaic_pile_elite: ALL
 ftbutilities.claims.item.nuclearcraft.water_source: ALL
 ftbutilities.claims.item.nuclearcraft.water_source_compact: ALL
 ftbutilities.claims.item.nuclearcraft.water_source_dense: ALL
@@ -20209,12 +20229,9 @@ ftbutilities.claims.item.twilightforest.zombie_scepter: ALL
 ftbutilities.claims.item.valkyrielib.guide: ALL
 ftbutilities.claims.item.valkyrielib.modifier_component: ALL
 ftbutilities.claims.item.valkyrielib.modifier_speed: ALL
-ftbutilities.claims.item.wct.infinity_booster_card: ALL
 ftbutilities.claims.item.wct.magnet_card: ALL
 ftbutilities.claims.item.wct.wct: ALL
 ftbutilities.claims.item.wct.wct_creative: ALL
-ftbutilities.claims.item.wct.wft: ALL
-ftbutilities.claims.item.wct.wft_creative: ALL
 ftbutilities.claims.item.wirelessutils.angled_slime: ALL
 ftbutilities.claims.item.wirelessutils.base_augment: ALL
 ftbutilities.claims.item.wirelessutils.capacity_augment: ALL
@@ -20408,6 +20425,7 @@ command.cyclopscore.integratedtunnelscompat
 command.debug
 command.defaultgamemode
 command.difficulty
+command.draconicevolution.de_reload_custom_fusion
 command.draconicevolution.de_upgrade
 command.effect
 command.enchant
