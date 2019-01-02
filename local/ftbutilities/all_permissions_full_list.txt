@@ -1,4 +1,4 @@
-20269 nodes in total
+20299 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -710,6 +710,7 @@ ftbutilities.claims.block.edit.astralsorcery.fluidblockliquidstarlight: OP
 ftbutilities.claims.block.edit.auraddons.block_ancient_fence: OP
 ftbutilities.claims.block.edit.auraddons.block_ancient_fence_gate: OP
 ftbutilities.claims.block.edit.auraddons.block_ancient_ladder: OP
+ftbutilities.claims.block.edit.auraddons.block_aura_transporter: OP
 ftbutilities.claims.block.edit.auraddons.block_auto_wrath: OP
 ftbutilities.claims.block.edit.auraddons.block_disruption_catalyst: OP
 ftbutilities.claims.block.edit.auraddons.block_freezer: OP
@@ -3687,6 +3688,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_idle: OP
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.edit.nuclearcraft.glowing_mushroom: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_frame: OP
@@ -3755,6 +3757,10 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_controller: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_frame: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_glass: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_wall: OP
 ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_advanced: OP
 ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_basic: OP
 ftbutilities.claims.block.edit.nuclearcraft.voltaic_pile_du: OP
@@ -3868,6 +3874,7 @@ ftbutilities.claims.block.edit.pneumaticcraft.electrostatic_compressor: OP
 ftbutilities.claims.block.edit.pneumaticcraft.elevator_base: OP
 ftbutilities.claims.block.edit.pneumaticcraft.elevator_caller: OP
 ftbutilities.claims.block.edit.pneumaticcraft.elevator_frame: OP
+ftbutilities.claims.block.edit.pneumaticcraft.fake_ice: OP
 ftbutilities.claims.block.edit.pneumaticcraft.fluid.etchacid: OP
 ftbutilities.claims.block.edit.pneumaticcraft.fluid.fuel: OP
 ftbutilities.claims.block.edit.pneumaticcraft.fluid.kerosene: OP
@@ -4941,6 +4948,7 @@ ftbutilities.claims.block.edit.tconstruct.molten_iron: OP
 ftbutilities.claims.block.edit.tconstruct.molten_knightslime: OP
 ftbutilities.claims.block.edit.tconstruct.molten_lead: OP
 ftbutilities.claims.block.edit.tconstruct.molten_lumium: OP
+ftbutilities.claims.block.edit.tconstruct.molten_magnesium: OP
 ftbutilities.claims.block.edit.tconstruct.molten_manyullyn: OP
 ftbutilities.claims.block.edit.tconstruct.molten_nickel: OP
 ftbutilities.claims.block.edit.tconstruct.molten_obsidian: OP
@@ -4950,6 +4958,7 @@ ftbutilities.claims.block.edit.tconstruct.molten_signalum: OP
 ftbutilities.claims.block.edit.tconstruct.molten_silver: OP
 ftbutilities.claims.block.edit.tconstruct.molten_steel: OP
 ftbutilities.claims.block.edit.tconstruct.molten_stone: OP
+ftbutilities.claims.block.edit.tconstruct.molten_thorium: OP
 ftbutilities.claims.block.edit.tconstruct.molten_tin: OP
 ftbutilities.claims.block.edit.tconstruct.molten_zinc: OP
 ftbutilities.claims.block.edit.tconstruct.mudbrick_stairs: OP
@@ -5829,6 +5838,7 @@ ftbutilities.claims.block.interact.astralsorcery.fluidblockliquidstarlight: OP
 ftbutilities.claims.block.interact.auraddons.block_ancient_fence: OP
 ftbutilities.claims.block.interact.auraddons.block_ancient_fence_gate: OP
 ftbutilities.claims.block.interact.auraddons.block_ancient_ladder: OP
+ftbutilities.claims.block.interact.auraddons.block_aura_transporter: OP
 ftbutilities.claims.block.interact.auraddons.block_auto_wrath: OP
 ftbutilities.claims.block.interact.auraddons.block_disruption_catalyst: OP
 ftbutilities.claims.block.interact.auraddons.block_freezer: OP
@@ -8806,6 +8816,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_idle: OP
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.interact.nuclearcraft.glowing_mushroom: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_frame: OP
@@ -8874,6 +8885,10 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_controller: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_frame: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_glass: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_wall: OP
 ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_advanced: OP
 ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_basic: OP
 ftbutilities.claims.block.interact.nuclearcraft.voltaic_pile_du: OP
@@ -8987,6 +9002,7 @@ ftbutilities.claims.block.interact.pneumaticcraft.electrostatic_compressor: OP
 ftbutilities.claims.block.interact.pneumaticcraft.elevator_base: OP
 ftbutilities.claims.block.interact.pneumaticcraft.elevator_caller: OP
 ftbutilities.claims.block.interact.pneumaticcraft.elevator_frame: OP
+ftbutilities.claims.block.interact.pneumaticcraft.fake_ice: OP
 ftbutilities.claims.block.interact.pneumaticcraft.fluid.etchacid: OP
 ftbutilities.claims.block.interact.pneumaticcraft.fluid.fuel: OP
 ftbutilities.claims.block.interact.pneumaticcraft.fluid.kerosene: OP
@@ -10060,6 +10076,7 @@ ftbutilities.claims.block.interact.tconstruct.molten_iron: OP
 ftbutilities.claims.block.interact.tconstruct.molten_knightslime: OP
 ftbutilities.claims.block.interact.tconstruct.molten_lead: OP
 ftbutilities.claims.block.interact.tconstruct.molten_lumium: OP
+ftbutilities.claims.block.interact.tconstruct.molten_magnesium: OP
 ftbutilities.claims.block.interact.tconstruct.molten_manyullyn: OP
 ftbutilities.claims.block.interact.tconstruct.molten_nickel: OP
 ftbutilities.claims.block.interact.tconstruct.molten_obsidian: OP
@@ -10069,6 +10086,7 @@ ftbutilities.claims.block.interact.tconstruct.molten_signalum: OP
 ftbutilities.claims.block.interact.tconstruct.molten_silver: OP
 ftbutilities.claims.block.interact.tconstruct.molten_steel: OP
 ftbutilities.claims.block.interact.tconstruct.molten_stone: OP
+ftbutilities.claims.block.interact.tconstruct.molten_thorium: OP
 ftbutilities.claims.block.interact.tconstruct.molten_tin: OP
 ftbutilities.claims.block.interact.tconstruct.molten_zinc: OP
 ftbutilities.claims.block.interact.tconstruct.mudbrick_stairs: OP
@@ -11531,6 +11549,7 @@ ftbutilities.claims.item.astralsorcery.itemwand: ALL
 ftbutilities.claims.item.auraddons.block_ancient_fence: ALL
 ftbutilities.claims.item.auraddons.block_ancient_fence_gate: ALL
 ftbutilities.claims.item.auraddons.block_ancient_ladder: ALL
+ftbutilities.claims.item.auraddons.block_aura_transporter: ALL
 ftbutilities.claims.item.auraddons.block_auto_wrath: ALL
 ftbutilities.claims.item.auraddons.block_disruption_catalyst: ALL
 ftbutilities.claims.item.auraddons.block_freezer: ALL
@@ -11542,7 +11561,6 @@ ftbutilities.claims.item.auraddons.item_creative_aura_cache: ALL
 ftbutilities.claims.item.auraddons.item_dampening_feather: ALL
 ftbutilities.claims.item.auraddons.item_sky_bottle: ALL
 ftbutilities.claims.item.auraddons.item_sky_feather: ALL
-ftbutilities.claims.item.base.wrench: ALL
 ftbutilities.claims.item.baubles.ring: ALL
 ftbutilities.claims.item.betterbuilderswands.wanddiamond: ALL
 ftbutilities.claims.item.betterbuilderswands.wandiron: ALL
@@ -17437,6 +17455,7 @@ ftbutilities.claims.item.nuclearcraft.fusion_electromagnet_active: ALL
 ftbutilities.claims.item.nuclearcraft.fusion_electromagnet_idle: ALL
 ftbutilities.claims.item.nuclearcraft.fusion_electromagnet_transparent_active: ALL
 ftbutilities.claims.item.nuclearcraft.fusion_electromagnet_transparent_idle: ALL
+ftbutilities.claims.item.nuclearcraft.geiger_block: ALL
 ftbutilities.claims.item.nuclearcraft.geiger_counter: ALL
 ftbutilities.claims.item.nuclearcraft.gelatin: ALL
 ftbutilities.claims.item.nuclearcraft.gem: ALL
@@ -17564,6 +17583,10 @@ ftbutilities.claims.item.nuclearcraft.sword_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.sword_tough: ALL
 ftbutilities.claims.item.nuclearcraft.thorium: ALL
 ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_controller: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_frame: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_glass: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_wall: ALL
 ftbutilities.claims.item.nuclearcraft.unsweetened_chocolate: ALL
 ftbutilities.claims.item.nuclearcraft.upgrade: ALL
 ftbutilities.claims.item.nuclearcraft.uranium: ALL
@@ -17750,6 +17773,7 @@ ftbutilities.claims.item.pneumaticcraft.elevator_frame: ALL
 ftbutilities.claims.item.pneumaticcraft.empty_pcb: ALL
 ftbutilities.claims.item.pneumaticcraft.entity_tracker_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.failed_pcb: ALL
+ftbutilities.claims.item.pneumaticcraft.fake_ice: ALL
 ftbutilities.claims.item.pneumaticcraft.flow_detector_module: ALL
 ftbutilities.claims.item.pneumaticcraft.fluid.etchacid: ALL
 ftbutilities.claims.item.pneumaticcraft.fluid.fuel: ALL
@@ -17761,6 +17785,11 @@ ftbutilities.claims.item.pneumaticcraft.gas_lift: ALL
 ftbutilities.claims.item.pneumaticcraft.gps_area_tool: ALL
 ftbutilities.claims.item.pneumaticcraft.gps_tool: ALL
 ftbutilities.claims.item.pneumaticcraft.gun_ammo: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_ap: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_explosive: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_freezing: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_incendiary: ALL
+ftbutilities.claims.item.pneumaticcraft.gun_ammo_weighted: ALL
 ftbutilities.claims.item.pneumaticcraft.harvesting_drone: ALL
 ftbutilities.claims.item.pneumaticcraft.heat_frame: ALL
 ftbutilities.claims.item.pneumaticcraft.heat_sink: ALL
@@ -17780,6 +17809,7 @@ ftbutilities.claims.item.pneumaticcraft.logistics_configurator: ALL
 ftbutilities.claims.item.pneumaticcraft.logistics_module: ALL
 ftbutilities.claims.item.pneumaticcraft.magnet_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.manometer: ALL
+ftbutilities.claims.item.pneumaticcraft.micromissiles: ALL
 ftbutilities.claims.item.pneumaticcraft.minigun: ALL
 ftbutilities.claims.item.pneumaticcraft.network_component: ALL
 ftbutilities.claims.item.pneumaticcraft.night_vision_upgrade: ALL
@@ -20287,7 +20317,6 @@ command.armorplus.ap.wiki
 command.aroma1997core.aroma1997
 command.aroma1997core.sleep
 command.astralsorcery.astralsorcery
-command.base.base.recipes.reload
 command.baubles.baubles
 command.bdlib.dumpregistry
 command.bdlib.oredistribution
