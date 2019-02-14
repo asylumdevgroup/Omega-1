@@ -1,4 +1,4 @@
-20342 nodes in total
+20440 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -65,6 +65,8 @@ enderio.gui.item_advanced_item_filter: ALL
 enderio.gui.item_basic_item_filter: ALL
 enderio.gui.item_big_advanced_item_filter: ALL
 enderio.gui.item_big_item_filter: ALL
+enderio.gui.item_enchantment_filter_big: ALL
+enderio.gui.item_enchantment_filter_normal: ALL
 enderio.gui.item_existing_item_filter: ALL
 enderio.gui.item_fluid_filter: ALL
 enderio.gui.item_limited_item_filter: ALL
@@ -316,6 +318,8 @@ ftbutilities.claims.block.edit.abyssalcraft.dltsapling: OP
 ftbutilities.claims.block.edit.abyssalcraft.dltslab1: OP
 ftbutilities.claims.block.edit.abyssalcraft.dltslab2: OP
 ftbutilities.claims.block.edit.abyssalcraft.dltstairs: OP
+ftbutilities.claims.block.edit.abyssalcraft.door_dlt: OP
+ftbutilities.claims.block.edit.abyssalcraft.door_drt: OP
 ftbutilities.claims.block.edit.abyssalcraft.dreadaltarbottom: OP
 ftbutilities.claims.block.edit.abyssalcraft.dreadaltartop: OP
 ftbutilities.claims.block.edit.abyssalcraft.dreadbrick: OP
@@ -364,6 +368,7 @@ ftbutilities.claims.block.edit.abyssalcraft.jzaharspawner: OP
 ftbutilities.claims.block.edit.abyssalcraft.luminousthistle: OP
 ftbutilities.claims.block.edit.abyssalcraft.materializer: OP
 ftbutilities.claims.block.edit.abyssalcraft.monolithpillar: OP
+ftbutilities.claims.block.edit.abyssalcraft.multiblock: OP
 ftbutilities.claims.block.edit.abyssalcraft.nitreore: OP
 ftbutilities.claims.block.edit.abyssalcraft.odb: OP
 ftbutilities.claims.block.edit.abyssalcraft.odbcore: OP
@@ -615,6 +620,7 @@ ftbutilities.claims.block.edit.armorplus.block_compressed_infused_lava_crystal: 
 ftbutilities.claims.block.edit.armorplus.block_compressed_lava_crystal: OP
 ftbutilities.claims.block.edit.armorplus.block_infused_lava_crystal: OP
 ftbutilities.claims.block.edit.armorplus.block_lava_crystal: OP
+ftbutilities.claims.block.edit.armorplus.block_melting_obsidian: OP
 ftbutilities.claims.block.edit.armorplus.blue_stone_brick: OP
 ftbutilities.claims.block.edit.armorplus.blue_stone_brick_corner: OP
 ftbutilities.claims.block.edit.armorplus.blue_stone_brick_tower: OP
@@ -667,9 +673,9 @@ ftbutilities.claims.block.edit.armorplus.yellow_stone_brick: OP
 ftbutilities.claims.block.edit.armorplus.yellow_stone_brick_corner: OP
 ftbutilities.claims.block.edit.armorplus.yellow_stone_brick_tower: OP
 ftbutilities.claims.block.edit.armorplus.yellow_stone_brick_wall: OP
-ftbutilities.claims.block.edit.aroma1997sdimension.aromicportal: OP
+ftbutilities.claims.block.edit.aroma1997sdimension.miningore: OP
+ftbutilities.claims.block.edit.aroma1997sdimension.miningportal: OP
 ftbutilities.claims.block.edit.aroma1997sdimension.portalframe: OP
-ftbutilities.claims.block.edit.aroma1997sdimension.stickyore: OP
 ftbutilities.claims.block.edit.astralsorcery.blockaltar: OP
 ftbutilities.claims.block.edit.astralsorcery.blockattunementaltar: OP
 ftbutilities.claims.block.edit.astralsorcery.blockattunementrelay: OP
@@ -686,6 +692,7 @@ ftbutilities.claims.block.edit.astralsorcery.blockcustomore: OP
 ftbutilities.claims.block.edit.astralsorcery.blockcustomsandore: OP
 ftbutilities.claims.block.edit.astralsorcery.blockfaketree: OP
 ftbutilities.claims.block.edit.astralsorcery.blockflarelight: OP
+ftbutilities.claims.block.edit.astralsorcery.blockgemcrystals: OP
 ftbutilities.claims.block.edit.astralsorcery.blockinfusedwood: OP
 ftbutilities.claims.block.edit.astralsorcery.blocklens: OP
 ftbutilities.claims.block.edit.astralsorcery.blockmachine: OP
@@ -718,6 +725,7 @@ ftbutilities.claims.block.edit.auraddons.block_hard_ice: OP
 ftbutilities.claims.block.edit.auraddons.block_infused_brick_wall: OP
 ftbutilities.claims.block.edit.auraddons.block_infused_stone_wall: OP
 ftbutilities.claims.block.edit.auraddons.block_potion_enhancer: OP
+ftbutilities.claims.block.edit.auraddons.block_rainbow_beacon: OP
 ftbutilities.claims.block.edit.auraddons.block_wither_proofer: OP
 ftbutilities.claims.block.edit.bibliocraft.armorstand: OP
 ftbutilities.claims.block.edit.bibliocraft.bell: OP
@@ -756,9 +764,16 @@ ftbutilities.claims.block.edit.bibliocraft.table: OP
 ftbutilities.claims.block.edit.bibliocraft.toolrack: OP
 ftbutilities.claims.block.edit.bibliocraft.typesettingtable: OP
 ftbutilities.claims.block.edit.bibliocraft.typewriter: OP
-ftbutilities.claims.block.edit.bigreactors.blockmetals: OP
-ftbutilities.claims.block.edit.bigreactors.brore: OP
+ftbutilities.claims.block.edit.bigreactors.blockblutonium: OP
+ftbutilities.claims.block.edit.bigreactors.blockcyanite: OP
+ftbutilities.claims.block.edit.bigreactors.blockgraphite: OP
+ftbutilities.claims.block.edit.bigreactors.blockludicrite: OP
+ftbutilities.claims.block.edit.bigreactors.blocksteel: OP
+ftbutilities.claims.block.edit.bigreactors.blockyellorium: OP
 ftbutilities.claims.block.edit.bigreactors.cyanite: OP
+ftbutilities.claims.block.edit.bigreactors.oreanglesite: OP
+ftbutilities.claims.block.edit.bigreactors.orebenitoite: OP
+ftbutilities.claims.block.edit.bigreactors.oreyellorite: OP
 ftbutilities.claims.block.edit.bigreactors.reactoraccessport: OP
 ftbutilities.claims.block.edit.bigreactors.reactorcasing: OP
 ftbutilities.claims.block.edit.bigreactors.reactorcomputerport: OP
@@ -1785,6 +1800,7 @@ ftbutilities.claims.block.edit.enderio.block_fused_quartz: OP
 ftbutilities.claims.block.edit.enderio.block_gauge: OP
 ftbutilities.claims.block.edit.enderio.block_impulse_hopper: OP
 ftbutilities.claims.block.edit.enderio.block_industrial_insulation: OP
+ftbutilities.claims.block.edit.enderio.block_infinity: OP
 ftbutilities.claims.block.edit.enderio.block_infinity_fog: OP
 ftbutilities.claims.block.edit.enderio.block_inhibitor_obelisk: OP
 ftbutilities.claims.block.edit.enderio.block_killer_joe: OP
@@ -1808,6 +1824,7 @@ ftbutilities.claims.block.edit.enderio.block_painted_iron_trapdoor: OP
 ftbutilities.claims.block.edit.enderio.block_painted_pressure_plate: OP
 ftbutilities.claims.block.edit.enderio.block_painted_redstone: OP
 ftbutilities.claims.block.edit.enderio.block_painted_redstone_solid: OP
+ftbutilities.claims.block.edit.enderio.block_painted_reinforced_obsidian: OP
 ftbutilities.claims.block.edit.enderio.block_painted_slab: OP
 ftbutilities.claims.block.edit.enderio.block_painted_stair: OP
 ftbutilities.claims.block.edit.enderio.block_painted_stone: OP
@@ -3532,11 +3549,13 @@ ftbutilities.claims.block.edit.naturesaura.animal_spawner: OP
 ftbutilities.claims.block.edit.naturesaura.aura_detector: OP
 ftbutilities.claims.block.edit.naturesaura.auto_crafter: OP
 ftbutilities.claims.block.edit.naturesaura.conversion_catalyst: OP
+ftbutilities.claims.block.edit.naturesaura.crushing_catalyst: OP
 ftbutilities.claims.block.edit.naturesaura.decayed_leaves: OP
 ftbutilities.claims.block.edit.naturesaura.end_flower: OP
 ftbutilities.claims.block.edit.naturesaura.field_creator: OP
 ftbutilities.claims.block.edit.naturesaura.flower_generator: OP
 ftbutilities.claims.block.edit.naturesaura.furnace_heater: OP
+ftbutilities.claims.block.edit.naturesaura.gold_brick: OP
 ftbutilities.claims.block.edit.naturesaura.gold_powder: OP
 ftbutilities.claims.block.edit.naturesaura.golden_leaves: OP
 ftbutilities.claims.block.edit.naturesaura.grated_chute: OP
@@ -3550,13 +3569,16 @@ ftbutilities.claims.block.edit.naturesaura.infused_slab: OP
 ftbutilities.claims.block.edit.naturesaura.infused_slab_double: OP
 ftbutilities.claims.block.edit.naturesaura.infused_stairs: OP
 ftbutilities.claims.block.edit.naturesaura.infused_stone: OP
+ftbutilities.claims.block.edit.naturesaura.moss_generator: OP
 ftbutilities.claims.block.edit.naturesaura.nature_altar: OP
 ftbutilities.claims.block.edit.naturesaura.oak_generator: OP
 ftbutilities.claims.block.edit.naturesaura.offering_table: OP
 ftbutilities.claims.block.edit.naturesaura.pickup_stopper: OP
 ftbutilities.claims.block.edit.naturesaura.placer: OP
 ftbutilities.claims.block.edit.naturesaura.potion_generator: OP
+ftbutilities.claims.block.edit.naturesaura.rf_converter: OP
 ftbutilities.claims.block.edit.naturesaura.spawn_lamp: OP
+ftbutilities.claims.block.edit.naturesaura.time_changer: OP
 ftbutilities.claims.block.edit.naturesaura.wood_stand: OP
 ftbutilities.claims.block.edit.naturesdestruction.explosion_generator: OP
 ftbutilities.claims.block.edit.naturesdestruction.explosion_upgrade_capacity: OP
@@ -4607,7 +4629,9 @@ ftbutilities.claims.block.edit.rustic.blood_orchid: OP
 ftbutilities.claims.block.edit.rustic.brewing_barrel: OP
 ftbutilities.claims.block.edit.rustic.cabinet: OP
 ftbutilities.claims.block.edit.rustic.candle: OP
+ftbutilities.claims.block.edit.rustic.candle_gold: OP
 ftbutilities.claims.block.edit.rustic.chain: OP
+ftbutilities.claims.block.edit.rustic.chain_gold: OP
 ftbutilities.claims.block.edit.rustic.chair_acacia: OP
 ftbutilities.claims.block.edit.rustic.chair_big_oak: OP
 ftbutilities.claims.block.edit.rustic.chair_birch: OP
@@ -4618,6 +4642,7 @@ ftbutilities.claims.block.edit.rustic.chair_olive: OP
 ftbutilities.claims.block.edit.rustic.chair_spruce: OP
 ftbutilities.claims.block.edit.rustic.chamomile: OP
 ftbutilities.claims.block.edit.rustic.chandelier: OP
+ftbutilities.claims.block.edit.rustic.chandelier_gold: OP
 ftbutilities.claims.block.edit.rustic.chili_crop: OP
 ftbutilities.claims.block.edit.rustic.clay_wall: OP
 ftbutilities.claims.block.edit.rustic.clay_wall_cross: OP
@@ -4639,6 +4664,7 @@ ftbutilities.claims.block.edit.rustic.fence_olive: OP
 ftbutilities.claims.block.edit.rustic.fertile_soil: OP
 ftbutilities.claims.block.edit.rustic.gargoyle: OP
 ftbutilities.claims.block.edit.rustic.ginseng: OP
+ftbutilities.claims.block.edit.rustic.golden_lantern: OP
 ftbutilities.claims.block.edit.rustic.granite_pillar: OP
 ftbutilities.claims.block.edit.rustic.grape_juice: OP
 ftbutilities.claims.block.edit.rustic.grape_leaves: OP
@@ -5464,6 +5490,8 @@ ftbutilities.claims.block.interact.abyssalcraft.dltsapling: OP
 ftbutilities.claims.block.interact.abyssalcraft.dltslab1: OP
 ftbutilities.claims.block.interact.abyssalcraft.dltslab2: OP
 ftbutilities.claims.block.interact.abyssalcraft.dltstairs: OP
+ftbutilities.claims.block.interact.abyssalcraft.door_dlt: ALL
+ftbutilities.claims.block.interact.abyssalcraft.door_drt: ALL
 ftbutilities.claims.block.interact.abyssalcraft.dreadaltarbottom: OP
 ftbutilities.claims.block.interact.abyssalcraft.dreadaltartop: OP
 ftbutilities.claims.block.interact.abyssalcraft.dreadbrick: OP
@@ -5512,6 +5540,7 @@ ftbutilities.claims.block.interact.abyssalcraft.jzaharspawner: OP
 ftbutilities.claims.block.interact.abyssalcraft.luminousthistle: OP
 ftbutilities.claims.block.interact.abyssalcraft.materializer: OP
 ftbutilities.claims.block.interact.abyssalcraft.monolithpillar: OP
+ftbutilities.claims.block.interact.abyssalcraft.multiblock: OP
 ftbutilities.claims.block.interact.abyssalcraft.nitreore: OP
 ftbutilities.claims.block.interact.abyssalcraft.odb: OP
 ftbutilities.claims.block.interact.abyssalcraft.odbcore: OP
@@ -5763,6 +5792,7 @@ ftbutilities.claims.block.interact.armorplus.block_compressed_infused_lava_cryst
 ftbutilities.claims.block.interact.armorplus.block_compressed_lava_crystal: OP
 ftbutilities.claims.block.interact.armorplus.block_infused_lava_crystal: OP
 ftbutilities.claims.block.interact.armorplus.block_lava_crystal: OP
+ftbutilities.claims.block.interact.armorplus.block_melting_obsidian: OP
 ftbutilities.claims.block.interact.armorplus.blue_stone_brick: OP
 ftbutilities.claims.block.interact.armorplus.blue_stone_brick_corner: OP
 ftbutilities.claims.block.interact.armorplus.blue_stone_brick_tower: OP
@@ -5815,9 +5845,9 @@ ftbutilities.claims.block.interact.armorplus.yellow_stone_brick: OP
 ftbutilities.claims.block.interact.armorplus.yellow_stone_brick_corner: OP
 ftbutilities.claims.block.interact.armorplus.yellow_stone_brick_tower: OP
 ftbutilities.claims.block.interact.armorplus.yellow_stone_brick_wall: OP
-ftbutilities.claims.block.interact.aroma1997sdimension.aromicportal: OP
+ftbutilities.claims.block.interact.aroma1997sdimension.miningore: OP
+ftbutilities.claims.block.interact.aroma1997sdimension.miningportal: OP
 ftbutilities.claims.block.interact.aroma1997sdimension.portalframe: OP
-ftbutilities.claims.block.interact.aroma1997sdimension.stickyore: OP
 ftbutilities.claims.block.interact.astralsorcery.blockaltar: OP
 ftbutilities.claims.block.interact.astralsorcery.blockattunementaltar: OP
 ftbutilities.claims.block.interact.astralsorcery.blockattunementrelay: OP
@@ -5834,6 +5864,7 @@ ftbutilities.claims.block.interact.astralsorcery.blockcustomore: OP
 ftbutilities.claims.block.interact.astralsorcery.blockcustomsandore: OP
 ftbutilities.claims.block.interact.astralsorcery.blockfaketree: OP
 ftbutilities.claims.block.interact.astralsorcery.blockflarelight: OP
+ftbutilities.claims.block.interact.astralsorcery.blockgemcrystals: OP
 ftbutilities.claims.block.interact.astralsorcery.blockinfusedwood: OP
 ftbutilities.claims.block.interact.astralsorcery.blocklens: OP
 ftbutilities.claims.block.interact.astralsorcery.blockmachine: OP
@@ -5866,6 +5897,7 @@ ftbutilities.claims.block.interact.auraddons.block_hard_ice: OP
 ftbutilities.claims.block.interact.auraddons.block_infused_brick_wall: OP
 ftbutilities.claims.block.interact.auraddons.block_infused_stone_wall: OP
 ftbutilities.claims.block.interact.auraddons.block_potion_enhancer: OP
+ftbutilities.claims.block.interact.auraddons.block_rainbow_beacon: OP
 ftbutilities.claims.block.interact.auraddons.block_wither_proofer: OP
 ftbutilities.claims.block.interact.bibliocraft.armorstand: OP
 ftbutilities.claims.block.interact.bibliocraft.bell: OP
@@ -5904,9 +5936,16 @@ ftbutilities.claims.block.interact.bibliocraft.table: OP
 ftbutilities.claims.block.interact.bibliocraft.toolrack: OP
 ftbutilities.claims.block.interact.bibliocraft.typesettingtable: OP
 ftbutilities.claims.block.interact.bibliocraft.typewriter: OP
-ftbutilities.claims.block.interact.bigreactors.blockmetals: OP
-ftbutilities.claims.block.interact.bigreactors.brore: OP
+ftbutilities.claims.block.interact.bigreactors.blockblutonium: OP
+ftbutilities.claims.block.interact.bigreactors.blockcyanite: OP
+ftbutilities.claims.block.interact.bigreactors.blockgraphite: OP
+ftbutilities.claims.block.interact.bigreactors.blockludicrite: OP
+ftbutilities.claims.block.interact.bigreactors.blocksteel: OP
+ftbutilities.claims.block.interact.bigreactors.blockyellorium: OP
 ftbutilities.claims.block.interact.bigreactors.cyanite: OP
+ftbutilities.claims.block.interact.bigreactors.oreanglesite: OP
+ftbutilities.claims.block.interact.bigreactors.orebenitoite: OP
+ftbutilities.claims.block.interact.bigreactors.oreyellorite: OP
 ftbutilities.claims.block.interact.bigreactors.reactoraccessport: OP
 ftbutilities.claims.block.interact.bigreactors.reactorcasing: OP
 ftbutilities.claims.block.interact.bigreactors.reactorcomputerport: OP
@@ -6933,6 +6972,7 @@ ftbutilities.claims.block.interact.enderio.block_fused_quartz: OP
 ftbutilities.claims.block.interact.enderio.block_gauge: OP
 ftbutilities.claims.block.interact.enderio.block_impulse_hopper: OP
 ftbutilities.claims.block.interact.enderio.block_industrial_insulation: OP
+ftbutilities.claims.block.interact.enderio.block_infinity: OP
 ftbutilities.claims.block.interact.enderio.block_infinity_fog: OP
 ftbutilities.claims.block.interact.enderio.block_inhibitor_obelisk: OP
 ftbutilities.claims.block.interact.enderio.block_killer_joe: OP
@@ -6956,6 +6996,7 @@ ftbutilities.claims.block.interact.enderio.block_painted_iron_trapdoor: OP
 ftbutilities.claims.block.interact.enderio.block_painted_pressure_plate: OP
 ftbutilities.claims.block.interact.enderio.block_painted_redstone: OP
 ftbutilities.claims.block.interact.enderio.block_painted_redstone_solid: OP
+ftbutilities.claims.block.interact.enderio.block_painted_reinforced_obsidian: OP
 ftbutilities.claims.block.interact.enderio.block_painted_slab: OP
 ftbutilities.claims.block.interact.enderio.block_painted_stair: OP
 ftbutilities.claims.block.interact.enderio.block_painted_stone: OP
@@ -8680,11 +8721,13 @@ ftbutilities.claims.block.interact.naturesaura.animal_spawner: OP
 ftbutilities.claims.block.interact.naturesaura.aura_detector: OP
 ftbutilities.claims.block.interact.naturesaura.auto_crafter: OP
 ftbutilities.claims.block.interact.naturesaura.conversion_catalyst: OP
+ftbutilities.claims.block.interact.naturesaura.crushing_catalyst: OP
 ftbutilities.claims.block.interact.naturesaura.decayed_leaves: OP
 ftbutilities.claims.block.interact.naturesaura.end_flower: OP
 ftbutilities.claims.block.interact.naturesaura.field_creator: OP
 ftbutilities.claims.block.interact.naturesaura.flower_generator: OP
 ftbutilities.claims.block.interact.naturesaura.furnace_heater: OP
+ftbutilities.claims.block.interact.naturesaura.gold_brick: OP
 ftbutilities.claims.block.interact.naturesaura.gold_powder: OP
 ftbutilities.claims.block.interact.naturesaura.golden_leaves: OP
 ftbutilities.claims.block.interact.naturesaura.grated_chute: OP
@@ -8698,13 +8741,16 @@ ftbutilities.claims.block.interact.naturesaura.infused_slab: OP
 ftbutilities.claims.block.interact.naturesaura.infused_slab_double: OP
 ftbutilities.claims.block.interact.naturesaura.infused_stairs: OP
 ftbutilities.claims.block.interact.naturesaura.infused_stone: OP
+ftbutilities.claims.block.interact.naturesaura.moss_generator: OP
 ftbutilities.claims.block.interact.naturesaura.nature_altar: OP
 ftbutilities.claims.block.interact.naturesaura.oak_generator: OP
 ftbutilities.claims.block.interact.naturesaura.offering_table: OP
 ftbutilities.claims.block.interact.naturesaura.pickup_stopper: OP
 ftbutilities.claims.block.interact.naturesaura.placer: OP
 ftbutilities.claims.block.interact.naturesaura.potion_generator: OP
+ftbutilities.claims.block.interact.naturesaura.rf_converter: OP
 ftbutilities.claims.block.interact.naturesaura.spawn_lamp: OP
+ftbutilities.claims.block.interact.naturesaura.time_changer: OP
 ftbutilities.claims.block.interact.naturesaura.wood_stand: OP
 ftbutilities.claims.block.interact.naturesdestruction.explosion_generator: OP
 ftbutilities.claims.block.interact.naturesdestruction.explosion_upgrade_capacity: OP
@@ -9755,7 +9801,9 @@ ftbutilities.claims.block.interact.rustic.blood_orchid: OP
 ftbutilities.claims.block.interact.rustic.brewing_barrel: OP
 ftbutilities.claims.block.interact.rustic.cabinet: OP
 ftbutilities.claims.block.interact.rustic.candle: OP
+ftbutilities.claims.block.interact.rustic.candle_gold: OP
 ftbutilities.claims.block.interact.rustic.chain: OP
+ftbutilities.claims.block.interact.rustic.chain_gold: OP
 ftbutilities.claims.block.interact.rustic.chair_acacia: OP
 ftbutilities.claims.block.interact.rustic.chair_big_oak: OP
 ftbutilities.claims.block.interact.rustic.chair_birch: OP
@@ -9766,6 +9814,7 @@ ftbutilities.claims.block.interact.rustic.chair_olive: OP
 ftbutilities.claims.block.interact.rustic.chair_spruce: OP
 ftbutilities.claims.block.interact.rustic.chamomile: OP
 ftbutilities.claims.block.interact.rustic.chandelier: OP
+ftbutilities.claims.block.interact.rustic.chandelier_gold: OP
 ftbutilities.claims.block.interact.rustic.chili_crop: OP
 ftbutilities.claims.block.interact.rustic.clay_wall: OP
 ftbutilities.claims.block.interact.rustic.clay_wall_cross: OP
@@ -9787,6 +9836,7 @@ ftbutilities.claims.block.interact.rustic.fence_olive: OP
 ftbutilities.claims.block.interact.rustic.fertile_soil: OP
 ftbutilities.claims.block.interact.rustic.gargoyle: OP
 ftbutilities.claims.block.interact.rustic.ginseng: OP
+ftbutilities.claims.block.interact.rustic.golden_lantern: OP
 ftbutilities.claims.block.interact.rustic.granite_pillar: OP
 ftbutilities.claims.block.interact.rustic.grape_juice: OP
 ftbutilities.claims.block.interact.rustic.grape_leaves: OP
@@ -10698,6 +10748,8 @@ ftbutilities.claims.item.abyssalcraft.dltsapling: ALL
 ftbutilities.claims.item.abyssalcraft.dltslab1: ALL
 ftbutilities.claims.item.abyssalcraft.dltslab2: ALL
 ftbutilities.claims.item.abyssalcraft.dltstairs: ALL
+ftbutilities.claims.item.abyssalcraft.door_dlt: ALL
+ftbutilities.claims.item.abyssalcraft.door_drt: ALL
 ftbutilities.claims.item.abyssalcraft.dpick: ALL
 ftbutilities.claims.item.abyssalcraft.dplate: ALL
 ftbutilities.claims.item.abyssalcraft.drainstaff: ALL
@@ -10819,6 +10871,7 @@ ftbutilities.claims.item.abyssalcraft.materializer: ALL
 ftbutilities.claims.item.abyssalcraft.methane: ALL
 ftbutilities.claims.item.abyssalcraft.monolithpillar: ALL
 ftbutilities.claims.item.abyssalcraft.mre: ALL
+ftbutilities.claims.item.abyssalcraft.multiblock: ALL
 ftbutilities.claims.item.abyssalcraft.necronomicon: ALL
 ftbutilities.claims.item.abyssalcraft.necronomicon_cor: ALL
 ftbutilities.claims.item.abyssalcraft.necronomicon_dre: ALL
@@ -11339,6 +11392,7 @@ ftbutilities.claims.item.armorplus.block_compressed_infused_lava_crystal: ALL
 ftbutilities.claims.item.armorplus.block_compressed_lava_crystal: ALL
 ftbutilities.claims.item.armorplus.block_infused_lava_crystal: ALL
 ftbutilities.claims.item.armorplus.block_lava_crystal: ALL
+ftbutilities.claims.item.armorplus.block_melting_obsidian: ALL
 ftbutilities.claims.item.armorplus.blue_stone_brick: ALL
 ftbutilities.claims.item.armorplus.blue_stone_brick_corner: ALL
 ftbutilities.claims.item.armorplus.blue_stone_brick_tower: ALL
@@ -11387,6 +11441,7 @@ ftbutilities.claims.item.armorplus.ender_dragon_horse_armor: ALL
 ftbutilities.claims.item.armorplus.ender_dragon_leggings: ALL
 ftbutilities.claims.item.armorplus.ender_dragon_sword: ALL
 ftbutilities.claims.item.armorplus.ender_dragon_trophy: ALL
+ftbutilities.claims.item.armorplus.ender_dungeon_floor_1_spawn_item: ALL
 ftbutilities.claims.item.armorplus.ender_floor_1: ALL
 ftbutilities.claims.item.armorplus.ender_floor_2: ALL
 ftbutilities.claims.item.armorplus.ender_glowstone: ALL
@@ -11514,9 +11569,9 @@ ftbutilities.claims.item.armorplus.yellow_stone_brick_corner: ALL
 ftbutilities.claims.item.armorplus.yellow_stone_brick_tower: ALL
 ftbutilities.claims.item.armorplus.yellow_stone_brick_wall: ALL
 ftbutilities.claims.item.aroma1997sdimension.dimensionchanger: ALL
+ftbutilities.claims.item.aroma1997sdimension.miningmultitool: ALL
+ftbutilities.claims.item.aroma1997sdimension.miningore: ALL
 ftbutilities.claims.item.aroma1997sdimension.portalframe: ALL
-ftbutilities.claims.item.aroma1997sdimension.portaligniter: ALL
-ftbutilities.claims.item.aroma1997sdimension.stickyore: ALL
 ftbutilities.claims.item.astralsorcery.blockaltar: ALL
 ftbutilities.claims.item.astralsorcery.blockattunementaltar: ALL
 ftbutilities.claims.item.astralsorcery.blockattunementrelay: ALL
@@ -11533,6 +11588,7 @@ ftbutilities.claims.item.astralsorcery.blockcustomore: ALL
 ftbutilities.claims.item.astralsorcery.blockcustomsandore: ALL
 ftbutilities.claims.item.astralsorcery.blockfaketree: ALL
 ftbutilities.claims.item.astralsorcery.blockflarelight: ALL
+ftbutilities.claims.item.astralsorcery.blockgemcrystals: ALL
 ftbutilities.claims.item.astralsorcery.blockinfusedwood: ALL
 ftbutilities.claims.item.astralsorcery.blocklens: ALL
 ftbutilities.claims.item.astralsorcery.blockmachine: ALL
@@ -11577,6 +11633,7 @@ ftbutilities.claims.item.astralsorcery.itemjournal: ALL
 ftbutilities.claims.item.astralsorcery.itemknowledgefragment: ALL
 ftbutilities.claims.item.astralsorcery.itemknowledgeshare: ALL
 ftbutilities.claims.item.astralsorcery.itemlinkingtool: ALL
+ftbutilities.claims.item.astralsorcery.itemperkgem: ALL
 ftbutilities.claims.item.astralsorcery.itemperkseal: ALL
 ftbutilities.claims.item.astralsorcery.itemrockcrystalsimple: ALL
 ftbutilities.claims.item.astralsorcery.itemsextant: ALL
@@ -11597,6 +11654,7 @@ ftbutilities.claims.item.auraddons.block_hard_ice: ALL
 ftbutilities.claims.item.auraddons.block_infused_brick_wall: ALL
 ftbutilities.claims.item.auraddons.block_infused_stone_wall: ALL
 ftbutilities.claims.item.auraddons.block_potion_enhancer: ALL
+ftbutilities.claims.item.auraddons.block_rainbow_beacon: ALL
 ftbutilities.claims.item.auraddons.block_wither_proofer: ALL
 ftbutilities.claims.item.auraddons.item_creative_aura_cache: ALL
 ftbutilities.claims.item.auraddons.item_dampening_feather: ALL
@@ -11675,11 +11733,29 @@ ftbutilities.claims.item.bibliocraft.testeritem: ALL
 ftbutilities.claims.item.bibliocraft.toolrack: ALL
 ftbutilities.claims.item.bibliocraft.typesettingtable: ALL
 ftbutilities.claims.item.bibliocraft.typewriter: ALL
-ftbutilities.claims.item.bigreactors.blockmetals: ALL
-ftbutilities.claims.item.bigreactors.brore: ALL
-ftbutilities.claims.item.bigreactors.dustmetals: ALL
-ftbutilities.claims.item.bigreactors.ingotmetals: ALL
-ftbutilities.claims.item.bigreactors.minerals: ALL
+ftbutilities.claims.item.bigreactors.blockblutonium: ALL
+ftbutilities.claims.item.bigreactors.blockcyanite: ALL
+ftbutilities.claims.item.bigreactors.blockgraphite: ALL
+ftbutilities.claims.item.bigreactors.blockludicrite: ALL
+ftbutilities.claims.item.bigreactors.blocksteel: ALL
+ftbutilities.claims.item.bigreactors.blockyellorium: ALL
+ftbutilities.claims.item.bigreactors.dustblutonium: ALL
+ftbutilities.claims.item.bigreactors.dustcyanite: ALL
+ftbutilities.claims.item.bigreactors.dustgraphite: ALL
+ftbutilities.claims.item.bigreactors.dustludicrite: ALL
+ftbutilities.claims.item.bigreactors.duststeel: ALL
+ftbutilities.claims.item.bigreactors.dustyellorium: ALL
+ftbutilities.claims.item.bigreactors.ingotblutonium: ALL
+ftbutilities.claims.item.bigreactors.ingotcyanite: ALL
+ftbutilities.claims.item.bigreactors.ingotgraphite: ALL
+ftbutilities.claims.item.bigreactors.ingotludicrite: ALL
+ftbutilities.claims.item.bigreactors.ingotsteel: ALL
+ftbutilities.claims.item.bigreactors.ingotyellorium: ALL
+ftbutilities.claims.item.bigreactors.mineralanglesite: ALL
+ftbutilities.claims.item.bigreactors.mineralbenitoite: ALL
+ftbutilities.claims.item.bigreactors.oreanglesite: ALL
+ftbutilities.claims.item.bigreactors.orebenitoite: ALL
+ftbutilities.claims.item.bigreactors.oreyellorite: ALL
 ftbutilities.claims.item.bigreactors.reactoraccessport: ALL
 ftbutilities.claims.item.bigreactors.reactorcasing: ALL
 ftbutilities.claims.item.bigreactors.reactorcasingcores: ALL
@@ -11770,6 +11846,7 @@ ftbutilities.claims.item.bloodmagic.path: ALL
 ftbutilities.claims.item.bloodmagic.points_upgrade: ALL
 ftbutilities.claims.item.bloodmagic.potion_flask: ALL
 ftbutilities.claims.item.bloodmagic.ritual_controller: ALL
+ftbutilities.claims.item.bloodmagic.ritual_dismantler: ALL
 ftbutilities.claims.item.bloodmagic.ritual_diviner: ALL
 ftbutilities.claims.item.bloodmagic.ritual_reader: ALL
 ftbutilities.claims.item.bloodmagic.ritual_stone: ALL
@@ -12157,6 +12234,7 @@ ftbutilities.claims.item.buildinggadgets.constructionblock: ALL
 ftbutilities.claims.item.buildinggadgets.constructionblockpowder: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpaste: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpastecontainer: ALL
+ftbutilities.claims.item.buildinggadgets.constructionpastecontainercreative: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpastecontainert2: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpastecontainert3: ALL
 ftbutilities.claims.item.buildinggadgets.copypastetool: ALL
@@ -13350,6 +13428,7 @@ ftbutilities.claims.item.enderio.block_fused_quartz: ALL
 ftbutilities.claims.item.enderio.block_gauge: ALL
 ftbutilities.claims.item.enderio.block_impulse_hopper: ALL
 ftbutilities.claims.item.enderio.block_industrial_insulation: ALL
+ftbutilities.claims.item.enderio.block_infinity: ALL
 ftbutilities.claims.item.enderio.block_infinity_fog: ALL
 ftbutilities.claims.item.enderio.block_inhibitor_obelisk: ALL
 ftbutilities.claims.item.enderio.block_killer_joe: ALL
@@ -13369,6 +13448,7 @@ ftbutilities.claims.item.enderio.block_painted_iron_trapdoor: ALL
 ftbutilities.claims.item.enderio.block_painted_pressure_plate: ALL
 ftbutilities.claims.item.enderio.block_painted_redstone: ALL
 ftbutilities.claims.item.enderio.block_painted_redstone_solid: ALL
+ftbutilities.claims.item.enderio.block_painted_reinforced_obsidian: ALL
 ftbutilities.claims.item.enderio.block_painted_slab: ALL
 ftbutilities.claims.item.enderio.block_painted_stair: ALL
 ftbutilities.claims.item.enderio.block_painted_stone: ALL
@@ -13449,6 +13529,8 @@ ftbutilities.claims.item.enderio.item_dark_steel_pickaxe: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_shears: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_sword: ALL
 ftbutilities.claims.item.enderio.item_dark_steel_treetap: ALL
+ftbutilities.claims.item.enderio.item_enchantment_filter_big: ALL
+ftbutilities.claims.item.enderio.item_enchantment_filter_normal: ALL
 ftbutilities.claims.item.enderio.item_end_steel_axe: ALL
 ftbutilities.claims.item.enderio.item_end_steel_boots: ALL
 ftbutilities.claims.item.enderio.item_end_steel_bow: ALL
@@ -17250,8 +17332,10 @@ ftbutilities.claims.item.naturesaura.auto_crafter: ALL
 ftbutilities.claims.item.naturesaura.birth_spirit: ALL
 ftbutilities.claims.item.naturesaura.bottle_two_the_rebottling: ALL
 ftbutilities.claims.item.naturesaura.calling_spirit: ALL
+ftbutilities.claims.item.naturesaura.clock_hand: ALL
 ftbutilities.claims.item.naturesaura.color_changer: ALL
 ftbutilities.claims.item.naturesaura.conversion_catalyst: ALL
+ftbutilities.claims.item.naturesaura.crushing_catalyst: ALL
 ftbutilities.claims.item.naturesaura.decayed_leaves: ALL
 ftbutilities.claims.item.naturesaura.effect_powder: ALL
 ftbutilities.claims.item.naturesaura.end_flower: ALL
@@ -17261,6 +17345,7 @@ ftbutilities.claims.item.naturesaura.farming_stencil: ALL
 ftbutilities.claims.item.naturesaura.field_creator: ALL
 ftbutilities.claims.item.naturesaura.flower_generator: ALL
 ftbutilities.claims.item.naturesaura.furnace_heater: ALL
+ftbutilities.claims.item.naturesaura.gold_brick: ALL
 ftbutilities.claims.item.naturesaura.gold_fiber: ALL
 ftbutilities.claims.item.naturesaura.gold_leaf: ALL
 ftbutilities.claims.item.naturesaura.gold_powder: ALL
@@ -17286,6 +17371,8 @@ ftbutilities.claims.item.naturesaura.infused_slab: ALL
 ftbutilities.claims.item.naturesaura.infused_slab_double: ALL
 ftbutilities.claims.item.naturesaura.infused_stairs: ALL
 ftbutilities.claims.item.naturesaura.infused_stone: ALL
+ftbutilities.claims.item.naturesaura.moss_generator: ALL
+ftbutilities.claims.item.naturesaura.mover_cart: ALL
 ftbutilities.claims.item.naturesaura.multiblock_maker: ALL
 ftbutilities.claims.item.naturesaura.nature_altar: ALL
 ftbutilities.claims.item.naturesaura.oak_generator: ALL
@@ -17293,9 +17380,12 @@ ftbutilities.claims.item.naturesaura.offering_table: ALL
 ftbutilities.claims.item.naturesaura.pickup_stopper: ALL
 ftbutilities.claims.item.naturesaura.placer: ALL
 ftbutilities.claims.item.naturesaura.potion_generator: ALL
+ftbutilities.claims.item.naturesaura.range_visualizer: ALL
+ftbutilities.claims.item.naturesaura.rf_converter: ALL
 ftbutilities.claims.item.naturesaura.shockwave_creator: ALL
 ftbutilities.claims.item.naturesaura.sky_ingot: ALL
 ftbutilities.claims.item.naturesaura.spawn_lamp: ALL
+ftbutilities.claims.item.naturesaura.time_changer: ALL
 ftbutilities.claims.item.naturesaura.wood_stand: ALL
 ftbutilities.claims.item.naturesdestruction.big_fireball_launcher: ALL
 ftbutilities.claims.item.naturesdestruction.explosion_generator: ALL
@@ -18417,6 +18507,7 @@ ftbutilities.claims.item.randomthings.diaphanousblock: ALL
 ftbutilities.claims.item.randomthings.diviningrod: ALL
 ftbutilities.claims.item.randomthings.dungeonchestgenerator: ALL
 ftbutilities.claims.item.randomthings.dyeingmachine: ALL
+ftbutilities.claims.item.randomthings.eclipsedclock: ALL
 ftbutilities.claims.item.randomthings.emeraldcompass: ALL
 ftbutilities.claims.item.randomthings.enderanchor: ALL
 ftbutilities.claims.item.randomthings.enderbridge: ALL
@@ -18894,7 +18985,9 @@ ftbutilities.claims.item.rustic.book: ALL
 ftbutilities.claims.item.rustic.brewing_barrel: ALL
 ftbutilities.claims.item.rustic.cabinet: ALL
 ftbutilities.claims.item.rustic.candle: ALL
+ftbutilities.claims.item.rustic.candle_gold: ALL
 ftbutilities.claims.item.rustic.chain: ALL
+ftbutilities.claims.item.rustic.chain_gold: ALL
 ftbutilities.claims.item.rustic.chair_acacia: ALL
 ftbutilities.claims.item.rustic.chair_big_oak: ALL
 ftbutilities.claims.item.rustic.chair_birch: ALL
@@ -18905,6 +18998,7 @@ ftbutilities.claims.item.rustic.chair_olive: ALL
 ftbutilities.claims.item.rustic.chair_spruce: ALL
 ftbutilities.claims.item.rustic.chamomile: ALL
 ftbutilities.claims.item.rustic.chandelier: ALL
+ftbutilities.claims.item.rustic.chandelier_gold: ALL
 ftbutilities.claims.item.rustic.chili_pepper: ALL
 ftbutilities.claims.item.rustic.chili_pepper_seeds: ALL
 ftbutilities.claims.item.rustic.clay_wall: ALL
@@ -18930,6 +19024,7 @@ ftbutilities.claims.item.rustic.fertile_soil: ALL
 ftbutilities.claims.item.rustic.fluid_bottle: ALL
 ftbutilities.claims.item.rustic.gargoyle: ALL
 ftbutilities.claims.item.rustic.ginseng: ALL
+ftbutilities.claims.item.rustic.golden_lantern: ALL
 ftbutilities.claims.item.rustic.granite_pillar: ALL
 ftbutilities.claims.item.rustic.grape_juice: ALL
 ftbutilities.claims.item.rustic.grape_stem: ALL
@@ -20184,6 +20279,7 @@ ftbutilities.claims.item.wct.wct: ALL
 ftbutilities.claims.item.wct.wct_creative: ALL
 ftbutilities.claims.item.wirelessutils.angled_slime: ALL
 ftbutilities.claims.item.wirelessutils.base_augment: ALL
+ftbutilities.claims.item.wirelessutils.block_augment: ALL
 ftbutilities.claims.item.wirelessutils.capacity_augment: ALL
 ftbutilities.claims.item.wirelessutils.charged_pearl: ALL
 ftbutilities.claims.item.wirelessutils.conversion_upgrade: ALL
@@ -20209,6 +20305,7 @@ ftbutilities.claims.item.wirelessutils.positional_desublimator: ALL
 ftbutilities.claims.item.wirelessutils.positional_rs_network: ALL
 ftbutilities.claims.item.wirelessutils.quenched_pearl: ALL
 ftbutilities.claims.item.wirelessutils.range_augment: ALL
+ftbutilities.claims.item.wirelessutils.relative_positional_card: ALL
 ftbutilities.claims.item.wirelessutils.scorched_pearl: ALL
 ftbutilities.claims.item.wirelessutils.slot_augment: ALL
 ftbutilities.claims.item.wirelessutils.stabilized_ender_pearl: ALL
@@ -20329,6 +20426,7 @@ ftbutilities.display.admin_info: OP
 ftbutilities.homes.cross_dim: ALL
 ftbutilities.leaderboard.ftbutilities.deaths: ALL
 ftbutilities.leaderboard.ftbutilities.deaths_per_hour: ALL
+ftbutilities.leaderboard.ftbutilities.jumps: ALL
 ftbutilities.leaderboard.ftbutilities.last_seen: ALL
 ftbutilities.leaderboard.ftbutilities.mob_kills: ALL
 ftbutilities.leaderboard.ftbutilities.time_played: ALL
@@ -20349,6 +20447,7 @@ Available command nodes:
 command.abyssalcraft.acunlockallknowledge
 command.advancement
 command.appliedenergistics2.ae2
+command.armorplus.ap.abilities
 command.armorplus.ap.discord
 command.armorplus.ap.help.discord
 command.armorplus.ap.help.info
@@ -20359,15 +20458,35 @@ command.armorplus.ap.nodecraft
 command.armorplus.ap.wiki
 command.aroma1997core.aroma1997
 command.aroma1997core.sleep
+command.aroma1997sdimension.dimensionalworld
 command.astralsorcery.astralsorcery
 command.baubles.baubles
 command.bdlib.dumpregistry
 command.bdlib.oredistribution
 command.betterbuilderswands.wandoops
 command.blockdata
-command.bloodmagic.bloodmagic.bind
-command.bloodmagic.bloodmagic.network
-command.bloodmagic.bloodmagic.orb
+command.bloodmagic.bloodmagic.help.bind
+command.bloodmagic.bloodmagic.help.network
+command.bloodmagic.bloodmagic.help.orb
+command.bloodmagic.bloodmagic.help.ritual
+command.bloodmagic.bloodmagic.help.teleposer
+command.bloodmagic.bloodmagic.network.help.add
+command.bloodmagic.bloodmagic.network.help.cap
+command.bloodmagic.bloodmagic.network.help.fill
+command.bloodmagic.bloodmagic.network.help.get
+command.bloodmagic.bloodmagic.network.help.set
+command.bloodmagic.bloodmagic.network.help.syphon
+command.bloodmagic.bloodmagic.network.help.tickethistory
+command.bloodmagic.bloodmagic.orb.help.get
+command.bloodmagic.bloodmagic.orb.help.set
+command.bloodmagic.bloodmagic.ritual.help.create
+command.bloodmagic.bloodmagic.ritual.help.repair
+command.bloodmagic.bloodmagic.teleposer.help.list
+command.bloodmagic.bloodmagic.teleposer.help.remove
+command.bloodmagic.bloodmagic.teleposer.help.removeall
+command.bloodmagic.bloodmagic.teleposer.help.rmrf
+command.bloodmagic.bloodmagic.teleposer.help.teleport
+command.bloodmagic.bloodmagic.teleposer.help.teleportfocus
 command.botania.botania-open
 command.botania.botania-share
 command.brandonscore.bcore_ticktime
