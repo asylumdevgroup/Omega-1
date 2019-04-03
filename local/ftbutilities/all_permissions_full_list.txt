@@ -1,4 +1,4 @@
-20482 nodes in total
+20518 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1077,6 +1077,7 @@ ftbutilities.claims.block.edit.botania.tinyplanetblock: OP
 ftbutilities.claims.block.edit.botania.tinypotato: OP
 ftbutilities.claims.block.edit.botania.turntable: OP
 ftbutilities.claims.block.edit.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.edit.buildinggadgets.constructionblock_dense: OP
 ftbutilities.claims.block.edit.buildinggadgets.constructionblockpowder: OP
 ftbutilities.claims.block.edit.buildinggadgets.effectblock: OP
 ftbutilities.claims.block.edit.buildinggadgets.templatemanager: OP
@@ -1486,6 +1487,7 @@ ftbutilities.claims.block.edit.cyclicmagic.bundled_pipe: OP
 ftbutilities.claims.block.edit.cyclicmagic.button_large: OP
 ftbutilities.claims.block.edit.cyclicmagic.cable_wireless: OP
 ftbutilities.claims.block.edit.cyclicmagic.cable_wireless_energy: OP
+ftbutilities.claims.block.edit.cyclicmagic.cable_wireless_fluid: OP
 ftbutilities.claims.block.edit.cyclicmagic.clock: OP
 ftbutilities.claims.block.edit.cyclicmagic.dehydrator: OP
 ftbutilities.claims.block.edit.cyclicmagic.dice: OP
@@ -1506,9 +1508,11 @@ ftbutilities.claims.block.edit.cyclicmagic.fan: OP
 ftbutilities.claims.block.edit.cyclicmagic.fire_dark: OP
 ftbutilities.claims.block.edit.cyclicmagic.fire_frost: OP
 ftbutilities.claims.block.edit.cyclicmagic.fire_starter: OP
+ftbutilities.claims.block.edit.cyclicmagic.fluid_drain: OP
 ftbutilities.claims.block.edit.cyclicmagic.fluid_pipe: OP
 ftbutilities.claims.block.edit.cyclicmagic.fluid_placer: OP
 ftbutilities.claims.block.edit.cyclicmagic.fluid_pump: OP
+ftbutilities.claims.block.edit.cyclicmagic.glass_strong: OP
 ftbutilities.claims.block.edit.cyclicmagic.harvester_block: OP
 ftbutilities.claims.block.edit.cyclicmagic.imbuer: OP
 ftbutilities.claims.block.edit.cyclicmagic.item_pipe: OP
@@ -1549,6 +1553,7 @@ ftbutilities.claims.block.edit.cyclicmagic.plate_push_slowest_angle: OP
 ftbutilities.claims.block.edit.cyclicmagic.plate_push_slowest_corner: OP
 ftbutilities.claims.block.edit.cyclicmagic.plate_vector: OP
 ftbutilities.claims.block.edit.cyclicmagic.poison: OP
+ftbutilities.claims.block.edit.cyclicmagic.screen_target: OP
 ftbutilities.claims.block.edit.cyclicmagic.sound_player: OP
 ftbutilities.claims.block.edit.cyclicmagic.spikes_diamond: OP
 ftbutilities.claims.block.edit.cyclicmagic.spikes_iron: OP
@@ -2872,7 +2877,6 @@ ftbutilities.claims.block.edit.jaopca.block_blockenderbiotite: OP
 ftbutilities.claims.block.edit.jaopca.block_blockgalena: OP
 ftbutilities.claims.block.edit.jaopca.block_blockniter: OP
 ftbutilities.claims.block.edit.jaopca.block_blockpyrite: OP
-ftbutilities.claims.block.edit.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.edit.jaopca.block_blocksodalite: OP
 ftbutilities.claims.block.edit.jaopca.block_blocksphalerite: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusterancite: OP
@@ -3561,6 +3565,7 @@ ftbutilities.claims.block.edit.naturesaura.decayed_leaves: OP
 ftbutilities.claims.block.edit.naturesaura.end_flower: OP
 ftbutilities.claims.block.edit.naturesaura.ender_crate: OP
 ftbutilities.claims.block.edit.naturesaura.field_creator: OP
+ftbutilities.claims.block.edit.naturesaura.firework_generator: OP
 ftbutilities.claims.block.edit.naturesaura.flower_generator: OP
 ftbutilities.claims.block.edit.naturesaura.furnace_heater: OP
 ftbutilities.claims.block.edit.naturesaura.generator_limit_remover: OP
@@ -3733,6 +3738,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_act
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.edit.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.edit.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_glass: OP
@@ -3781,6 +3787,7 @@ ftbutilities.claims.block.edit.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.edit.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_frame: OP
@@ -3800,6 +3807,7 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_frame: OP
@@ -6259,6 +6267,7 @@ ftbutilities.claims.block.interact.botania.tinyplanetblock: OP
 ftbutilities.claims.block.interact.botania.tinypotato: OP
 ftbutilities.claims.block.interact.botania.turntable: OP
 ftbutilities.claims.block.interact.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.interact.buildinggadgets.constructionblock_dense: OP
 ftbutilities.claims.block.interact.buildinggadgets.constructionblockpowder: OP
 ftbutilities.claims.block.interact.buildinggadgets.effectblock: OP
 ftbutilities.claims.block.interact.buildinggadgets.templatemanager: OP
@@ -6668,6 +6677,7 @@ ftbutilities.claims.block.interact.cyclicmagic.bundled_pipe: OP
 ftbutilities.claims.block.interact.cyclicmagic.button_large: OP
 ftbutilities.claims.block.interact.cyclicmagic.cable_wireless: OP
 ftbutilities.claims.block.interact.cyclicmagic.cable_wireless_energy: OP
+ftbutilities.claims.block.interact.cyclicmagic.cable_wireless_fluid: OP
 ftbutilities.claims.block.interact.cyclicmagic.clock: OP
 ftbutilities.claims.block.interact.cyclicmagic.dehydrator: OP
 ftbutilities.claims.block.interact.cyclicmagic.dice: OP
@@ -6688,9 +6698,11 @@ ftbutilities.claims.block.interact.cyclicmagic.fan: OP
 ftbutilities.claims.block.interact.cyclicmagic.fire_dark: OP
 ftbutilities.claims.block.interact.cyclicmagic.fire_frost: OP
 ftbutilities.claims.block.interact.cyclicmagic.fire_starter: OP
+ftbutilities.claims.block.interact.cyclicmagic.fluid_drain: OP
 ftbutilities.claims.block.interact.cyclicmagic.fluid_pipe: OP
 ftbutilities.claims.block.interact.cyclicmagic.fluid_placer: OP
 ftbutilities.claims.block.interact.cyclicmagic.fluid_pump: OP
+ftbutilities.claims.block.interact.cyclicmagic.glass_strong: OP
 ftbutilities.claims.block.interact.cyclicmagic.harvester_block: OP
 ftbutilities.claims.block.interact.cyclicmagic.imbuer: OP
 ftbutilities.claims.block.interact.cyclicmagic.item_pipe: OP
@@ -6731,6 +6743,7 @@ ftbutilities.claims.block.interact.cyclicmagic.plate_push_slowest_angle: OP
 ftbutilities.claims.block.interact.cyclicmagic.plate_push_slowest_corner: OP
 ftbutilities.claims.block.interact.cyclicmagic.plate_vector: OP
 ftbutilities.claims.block.interact.cyclicmagic.poison: OP
+ftbutilities.claims.block.interact.cyclicmagic.screen_target: OP
 ftbutilities.claims.block.interact.cyclicmagic.sound_player: OP
 ftbutilities.claims.block.interact.cyclicmagic.spikes_diamond: OP
 ftbutilities.claims.block.interact.cyclicmagic.spikes_iron: OP
@@ -8054,7 +8067,6 @@ ftbutilities.claims.block.interact.jaopca.block_blockenderbiotite: OP
 ftbutilities.claims.block.interact.jaopca.block_blockgalena: OP
 ftbutilities.claims.block.interact.jaopca.block_blockniter: OP
 ftbutilities.claims.block.interact.jaopca.block_blockpyrite: OP
-ftbutilities.claims.block.interact.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.interact.jaopca.block_blocksodalite: OP
 ftbutilities.claims.block.interact.jaopca.block_blocksphalerite: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusterancite: OP
@@ -8743,6 +8755,7 @@ ftbutilities.claims.block.interact.naturesaura.decayed_leaves: OP
 ftbutilities.claims.block.interact.naturesaura.end_flower: OP
 ftbutilities.claims.block.interact.naturesaura.ender_crate: OP
 ftbutilities.claims.block.interact.naturesaura.field_creator: OP
+ftbutilities.claims.block.interact.naturesaura.firework_generator: OP
 ftbutilities.claims.block.interact.naturesaura.flower_generator: OP
 ftbutilities.claims.block.interact.naturesaura.furnace_heater: OP
 ftbutilities.claims.block.interact.naturesaura.generator_limit_remover: OP
@@ -8915,6 +8928,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.interact.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.interact.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_glass: OP
@@ -8963,6 +8977,7 @@ ftbutilities.claims.block.interact.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.interact.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_frame: OP
@@ -8982,6 +8997,7 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_frame: OP
@@ -12251,7 +12267,9 @@ ftbutilities.claims.item.botania.waterring: ALL
 ftbutilities.claims.item.botania.waterrod: ALL
 ftbutilities.claims.item.botania.worldseed: ALL
 ftbutilities.claims.item.buildinggadgets.buildingtool: ALL
+ftbutilities.claims.item.buildinggadgets.construction_chunk_dense: ALL
 ftbutilities.claims.item.buildinggadgets.constructionblock: ALL
+ftbutilities.claims.item.buildinggadgets.constructionblock_dense: ALL
 ftbutilities.claims.item.buildinggadgets.constructionblockpowder: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpaste: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpastecontainer: ALL
@@ -12826,6 +12844,7 @@ ftbutilities.claims.item.cyclicmagic.bundled_pipe: ALL
 ftbutilities.claims.item.cyclicmagic.button_large: ALL
 ftbutilities.claims.item.cyclicmagic.cable_wireless: ALL
 ftbutilities.claims.item.cyclicmagic.cable_wireless_energy: ALL
+ftbutilities.claims.item.cyclicmagic.cable_wireless_fluid: ALL
 ftbutilities.claims.item.cyclicmagic.carbon_paper: ALL
 ftbutilities.claims.item.cyclicmagic.card_location: ALL
 ftbutilities.claims.item.cyclicmagic.charm_air: ALL
@@ -12841,6 +12860,12 @@ ftbutilities.claims.item.cyclicmagic.chest_sack_empty: ALL
 ftbutilities.claims.item.cyclicmagic.clock: ALL
 ftbutilities.claims.item.cyclicmagic.corrupted_chorus: ALL
 ftbutilities.claims.item.cyclicmagic.crafting_food: ALL
+ftbutilities.claims.item.cyclicmagic.crystal_axe: ALL
+ftbutilities.claims.item.cyclicmagic.crystal_hoe: ALL
+ftbutilities.claims.item.cyclicmagic.crystal_pickaxe: ALL
+ftbutilities.claims.item.cyclicmagic.crystal_spade: ALL
+ftbutilities.claims.item.cyclicmagic.crystal_sword: ALL
+ftbutilities.claims.item.cyclicmagic.crystallized_obsidian: ALL
 ftbutilities.claims.item.cyclicmagic.cyclic_wand_build: ALL
 ftbutilities.claims.item.cyclicmagic.dehydrator: ALL
 ftbutilities.claims.item.cyclicmagic.dice: ALL
@@ -12892,10 +12917,12 @@ ftbutilities.claims.item.cyclicmagic.fire_dark_anim: ALL
 ftbutilities.claims.item.cyclicmagic.fire_frost: ALL
 ftbutilities.claims.item.cyclicmagic.fire_killer: ALL
 ftbutilities.claims.item.cyclicmagic.fire_starter: ALL
+ftbutilities.claims.item.cyclicmagic.fluid_drain: ALL
 ftbutilities.claims.item.cyclicmagic.fluid_pipe: ALL
 ftbutilities.claims.item.cyclicmagic.fluid_placer: ALL
 ftbutilities.claims.item.cyclicmagic.fluid_pump: ALL
 ftbutilities.claims.item.cyclicmagic.food_step: ALL
+ftbutilities.claims.item.cyclicmagic.glass_strong: ALL
 ftbutilities.claims.item.cyclicmagic.glove_climb: ALL
 ftbutilities.claims.item.cyclicmagic.glowing_chorus: ALL
 ftbutilities.claims.item.cyclicmagic.glowing_helmet: ALL
@@ -12962,6 +12989,8 @@ ftbutilities.claims.item.cyclicmagic.sandstone_axe: ALL
 ftbutilities.claims.item.cyclicmagic.sandstone_hoe: ALL
 ftbutilities.claims.item.cyclicmagic.sandstone_pickaxe: ALL
 ftbutilities.claims.item.cyclicmagic.sandstone_spade: ALL
+ftbutilities.claims.item.cyclicmagic.sandstone_sword: ALL
+ftbutilities.claims.item.cyclicmagic.screen_target: ALL
 ftbutilities.claims.item.cyclicmagic.shears_obsidian: ALL
 ftbutilities.claims.item.cyclicmagic.sign_editor: ALL
 ftbutilities.claims.item.cyclicmagic.sleeping_mat: ALL
@@ -15807,7 +15836,6 @@ ftbutilities.claims.item.jaopca.block_blockenderbiotite: ALL
 ftbutilities.claims.item.jaopca.block_blockgalena: ALL
 ftbutilities.claims.item.jaopca.block_blockniter: ALL
 ftbutilities.claims.item.jaopca.block_blockpyrite: ALL
-ftbutilities.claims.item.jaopca.block_blockquartzblack: ALL
 ftbutilities.claims.item.jaopca.block_blocksodalite: ALL
 ftbutilities.claims.item.jaopca.block_blocksphalerite: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusterancite: ALL
@@ -17373,6 +17401,7 @@ ftbutilities.claims.item.naturesaura.eye: ALL
 ftbutilities.claims.item.naturesaura.eye_improved: ALL
 ftbutilities.claims.item.naturesaura.farming_stencil: ALL
 ftbutilities.claims.item.naturesaura.field_creator: ALL
+ftbutilities.claims.item.naturesaura.firework_generator: ALL
 ftbutilities.claims.item.naturesaura.flower_generator: ALL
 ftbutilities.claims.item.naturesaura.furnace_heater: ALL
 ftbutilities.claims.item.naturesaura.generator_limit_remover: ALL
@@ -17598,6 +17627,7 @@ ftbutilities.claims.item.nuclearcraft.fluid_sulfuric_acid: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tough: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tritium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_unsweetened_chocolate: ALL
+ftbutilities.claims.item.nuclearcraft.foursmore: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_americium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_berkelium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_californium: ALL
@@ -17626,6 +17656,7 @@ ftbutilities.claims.item.nuclearcraft.gem_dust: ALL
 ftbutilities.claims.item.nuclearcraft.glowing_mushroom: ALL
 ftbutilities.claims.item.nuclearcraft.graham_cracker: ALL
 ftbutilities.claims.item.nuclearcraft.ground_cocoa_nibs: ALL
+ftbutilities.claims.item.nuclearcraft.heat_exchanger_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_controller: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_frame: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_glass: ALL
@@ -17695,6 +17726,7 @@ ftbutilities.claims.item.nuclearcraft.pressurizer_idle: ALL
 ftbutilities.claims.item.nuclearcraft.rad_shielding: ALL
 ftbutilities.claims.item.nuclearcraft.rad_x: ALL
 ftbutilities.claims.item.nuclearcraft.radaway: ALL
+ftbutilities.claims.item.nuclearcraft.radiation_badge: ALL
 ftbutilities.claims.item.nuclearcraft.radiation_scrubber: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_casing_transparent: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_door: ALL
@@ -17712,6 +17744,7 @@ ftbutilities.claims.item.nuclearcraft.rtg_californium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_plutonium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_uranium: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_beam: ALL
+ftbutilities.claims.item.nuclearcraft.salt_fission_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_controller: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_distributor: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_frame: ALL
@@ -17746,6 +17779,7 @@ ftbutilities.claims.item.nuclearcraft.sword_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.sword_tough: ALL
 ftbutilities.claims.item.nuclearcraft.thorium: ALL
 ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_controller: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_dynamo_coil: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_frame: ALL
@@ -19147,6 +19181,11 @@ ftbutilities.claims.item.simplesponge.magmatic_sponge_on_a_stick: ALL
 ftbutilities.claims.item.simplesponge.sponge: ALL
 ftbutilities.claims.item.simplesponge.sponge_on_a_stick: ALL
 ftbutilities.claims.item.solarflux.blank_upgrade: ALL
+ftbutilities.claims.item.solarflux.block_charging_upgrade: ALL
+ftbutilities.claims.item.solarflux.capacity_upgrade: ALL
+ftbutilities.claims.item.solarflux.dispersive_upgrade: ALL
+ftbutilities.claims.item.solarflux.efficiency_upgrade: ALL
+ftbutilities.claims.item.solarflux.furnace_upgrade: ALL
 ftbutilities.claims.item.solarflux.mirror: ALL
 ftbutilities.claims.item.solarflux.photovoltaic_cell_1: ALL
 ftbutilities.claims.item.solarflux.photovoltaic_cell_2: ALL
@@ -19165,6 +19204,8 @@ ftbutilities.claims.item.solarflux.solar_panel_8: ALL
 ftbutilities.claims.item.solarflux.solar_panel_chaotic: ALL
 ftbutilities.claims.item.solarflux.solar_panel_draconic: ALL
 ftbutilities.claims.item.solarflux.solar_panel_wyvern: ALL
+ftbutilities.claims.item.solarflux.transfer_rate_upgrade: ALL
+ftbutilities.claims.item.solarflux.traversal_upgrade: ALL
 ftbutilities.claims.item.sonarcore.clearstableglass: ALL
 ftbutilities.claims.item.sonarcore.reinforceddirtblock: ALL
 ftbutilities.claims.item.sonarcore.reinforceddirtbrick: ALL
@@ -20045,12 +20086,7 @@ ftbutilities.claims.item.tinker_io.speedupg: ALL
 ftbutilities.claims.item.tinker_io.stirling_engine: ALL
 ftbutilities.claims.item.tinker_io.upg: ALL
 ftbutilities.claims.item.tinker_io.what_a_beautiful_block: ALL
-ftbutilities.claims.item.tombstone.advancement_001: ALL
-ftbutilities.claims.item.tombstone.advancement_002: ALL
-ftbutilities.claims.item.tombstone.advancement_003: ALL
-ftbutilities.claims.item.tombstone.advancement_004: ALL
-ftbutilities.claims.item.tombstone.advancement_005: ALL
-ftbutilities.claims.item.tombstone.advancement_006: ALL
+ftbutilities.claims.item.tombstone.advancement: ALL
 ftbutilities.claims.item.tombstone.ankh_of_pray: ALL
 ftbutilities.claims.item.tombstone.book_of_disenchantment: ALL
 ftbutilities.claims.item.tombstone.dark_marble: ALL
@@ -20059,7 +20095,6 @@ ftbutilities.claims.item.tombstone.decorative_grave_normal: ALL
 ftbutilities.claims.item.tombstone.decorative_grave_simple: ALL
 ftbutilities.claims.item.tombstone.decorative_tombstone: ALL
 ftbutilities.claims.item.tombstone.dust_of_vanishing: ALL
-ftbutilities.claims.item.tombstone.fake_fog: ALL
 ftbutilities.claims.item.tombstone.fishing_rod_of_misadventure: ALL
 ftbutilities.claims.item.tombstone.grave_dust: ALL
 ftbutilities.claims.item.tombstone.grave_key: ALL
@@ -20067,7 +20102,6 @@ ftbutilities.claims.item.tombstone.lollypop: ALL
 ftbutilities.claims.item.tombstone.lost_tablet: ALL
 ftbutilities.claims.item.tombstone.scroll_buff: ALL
 ftbutilities.claims.item.tombstone.scroll_of_knowledge: ALL
-ftbutilities.claims.item.tombstone.soul: ALL
 ftbutilities.claims.item.tombstone.soul_receptacle: ALL
 ftbutilities.claims.item.tombstone.strange_scroll: ALL
 ftbutilities.claims.item.tombstone.strange_tablet: ALL
@@ -20339,6 +20373,7 @@ ftbutilities.claims.item.wirelessutils.inventory_augment: ALL
 ftbutilities.claims.item.wirelessutils.invert_augment: ALL
 ftbutilities.claims.item.wirelessutils.level_upgrade: ALL
 ftbutilities.claims.item.wirelessutils.machine_panel: ALL
+ftbutilities.claims.item.wirelessutils.player_positional_card: ALL
 ftbutilities.claims.item.wirelessutils.positional_ae_network: ALL
 ftbutilities.claims.item.wirelessutils.positional_card: ALL
 ftbutilities.claims.item.wirelessutils.positional_charger: ALL
@@ -20349,6 +20384,7 @@ ftbutilities.claims.item.wirelessutils.quenched_pearl: ALL
 ftbutilities.claims.item.wirelessutils.range_augment: ALL
 ftbutilities.claims.item.wirelessutils.relative_positional_card: ALL
 ftbutilities.claims.item.wirelessutils.scorched_pearl: ALL
+ftbutilities.claims.item.wirelessutils.sided_transfer_augment: ALL
 ftbutilities.claims.item.wirelessutils.slot_augment: ALL
 ftbutilities.claims.item.wirelessutils.stabilized_ender_pearl: ALL
 ftbutilities.claims.item.wirelessutils.transfer_augment: ALL
@@ -20599,6 +20635,12 @@ command.forge.track.help.te
 command.forge.track.reset
 command.forge.track.start
 command.forge.track.te
+command.ftbbackups.backup.help.size
+command.ftbbackups.backup.help.start
+command.ftbbackups.backup.help.time
+command.ftbbackups.backup.size
+command.ftbbackups.backup.start
+command.ftbbackups.backup.time
 command.ftblib.my_settings
 command.ftblib.reload
 command.ftblib.team.create
@@ -20691,6 +20733,7 @@ command.kill
 command.locate
 command.me
 command.naturesaura.naaura
+command.nuclearcraft.nc_set_chunk_radiation
 command.openblocks.flimflam
 command.openblocks.luck
 command.openblocks.ob_inventory
