@@ -1,6 +1,7 @@
 #MystAg.zs
 #By MCAdventureCity
 
+#Infusion Crystal
 recipes.remove(<mysticalagriculture:infusion_crystal>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:infusion_crystal>, [
 	[<ore:blockProsperity>, <ore:essenceInferium>, <bloodmagic:slate:3>, <ore:essenceInferium>, <ore:blockProsperity>], 
@@ -10,6 +11,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:infusion_c
 	[<ore:blockProsperity>, <ore:essenceInferium>, <bloodmagic:slate:3>, <ore:essenceInferium>, <ore:blockProsperity>]
 ]);
 
+#Master Infusion Crystal
 recipes.remove(<mysticalagriculture:master_infusion_crystal>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:master_infusion_crystal>, [
 	[<ore:eternalLifeEssence>, <ore:blockProsperity>, <ore:plateDawnstone>, <naturesaura:sky_ingot>, <ore:plateDawnstone>, <ore:blockProsperity>, <ore:eternalLifeEssence>], 
@@ -19,10 +21,4 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:master_inf
 	[<ore:plateDawnstone>, <ore:essenceInsanium>, <draconicevolution:wyvern_core>, <ore:manaPearl>, <draconicevolution:wyvern_core>, <ore:essenceInsanium>, <ore:plateDawnstone>], 
 	[<ore:blockProsperity>, <ore:ingotTerrasteel>, <ore:essenceInsanium>, <bloodmagic:slate:4>, <ore:essenceInsanium>, <ore:ingotTerrasteel>, <ore:blockProsperity>], 
 	[<ore:eternalLifeEssence>, <ore:blockProsperity>, <ore:plateDawnstone>, <naturesaura:sky_ingot>, <ore:plateDawnstone>, <ore:blockProsperity>, <ore:eternalLifeEssence>]
-]);
-
-recipes.addShaped("ultimateIngot", <extendedcrafting:material:32> * 4, [
-	[null, <ore:ingotCrystaltine>, null],
-	[<ore:ingotCrystaltine>, <extendedcrafting:singularity_ultimate>, <ore:ingotCrystaltine>],
-	[null, <ore:ingotCrystaltine>, null]
 ]);
