@@ -1,4 +1,4 @@
-21195 nodes in total
+21203 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3774,6 +3774,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_hydrofluoric_acid: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_hydrogen: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_koh: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lif: OP
+ftbutilities.claims.block.edit.nuclearcraft.fluid_liquid_nitrogen: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_liquidhelium: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lithium6: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_lithium7: OP
@@ -5259,7 +5260,7 @@ ftbutilities.claims.block.edit.tconstruct.wooden_hopper: OP
 ftbutilities.claims.block.edit.techreborn.adjustable_su: OP
 ftbutilities.claims.block.edit.techreborn.alarm: OP
 ftbutilities.claims.block.edit.techreborn.alloy_smelter: OP
-ftbutilities.claims.block.edit.techreborn.assembly_machine: OP
+ftbutilities.claims.block.edit.techreborn.assembling_machine: OP
 ftbutilities.claims.block.edit.techreborn.auto_crafting_table: OP
 ftbutilities.claims.block.edit.techreborn.cable: OP
 ftbutilities.claims.block.edit.techreborn.charge_o_mat: OP
@@ -5310,7 +5311,9 @@ ftbutilities.claims.block.edit.techreborn.nuke: OP
 ftbutilities.claims.block.edit.techreborn.ore2: OP
 ftbutilities.claims.block.edit.techreborn.ore: OP
 ftbutilities.claims.block.edit.techreborn.plasma_generator: OP
+ftbutilities.claims.block.edit.techreborn.plate_bending_machine: OP
 ftbutilities.claims.block.edit.techreborn.player_detector: OP
+ftbutilities.claims.block.edit.techreborn.pump: OP
 ftbutilities.claims.block.edit.techreborn.quantum_chest: OP
 ftbutilities.claims.block.edit.techreborn.quantum_tank: OP
 ftbutilities.claims.block.edit.techreborn.recycler: OP
@@ -9127,6 +9130,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_hydrofluoric_acid: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_hydrogen: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_koh: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lif: OP
+ftbutilities.claims.block.interact.nuclearcraft.fluid_liquid_nitrogen: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_liquidhelium: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lithium6: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_lithium7: OP
@@ -10612,7 +10616,7 @@ ftbutilities.claims.block.interact.tconstruct.wooden_hopper: OP
 ftbutilities.claims.block.interact.techreborn.adjustable_su: OP
 ftbutilities.claims.block.interact.techreborn.alarm: OP
 ftbutilities.claims.block.interact.techreborn.alloy_smelter: OP
-ftbutilities.claims.block.interact.techreborn.assembly_machine: OP
+ftbutilities.claims.block.interact.techreborn.assembling_machine: OP
 ftbutilities.claims.block.interact.techreborn.auto_crafting_table: OP
 ftbutilities.claims.block.interact.techreborn.cable: OP
 ftbutilities.claims.block.interact.techreborn.charge_o_mat: OP
@@ -10663,7 +10667,9 @@ ftbutilities.claims.block.interact.techreborn.nuke: OP
 ftbutilities.claims.block.interact.techreborn.ore2: OP
 ftbutilities.claims.block.interact.techreborn.ore: OP
 ftbutilities.claims.block.interact.techreborn.plasma_generator: OP
+ftbutilities.claims.block.interact.techreborn.plate_bending_machine: OP
 ftbutilities.claims.block.interact.techreborn.player_detector: OP
+ftbutilities.claims.block.interact.techreborn.pump: OP
 ftbutilities.claims.block.interact.techreborn.quantum_chest: OP
 ftbutilities.claims.block.interact.techreborn.quantum_tank: OP
 ftbutilities.claims.block.interact.techreborn.recycler: OP
@@ -16448,7 +16454,6 @@ ftbutilities.claims.item.jaopca.item_dustsmalldimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldraconium: ALL
 ftbutilities.claims.item.jaopca.item_dustsmallenderbiotite: ALL
 ftbutilities.claims.item.jaopca.item_dustsmallgalite: ALL
-ftbutilities.claims.item.jaopca.item_dustsmalliridium: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalllapis: ALL
 ftbutilities.claims.item.jaopca.item_dustsmallliquifiedcoralium: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalllithium: ALL
@@ -18137,6 +18142,7 @@ ftbutilities.claims.item.nuclearcraft.fluid_hydrofluoric_acid: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_hydrogen: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_koh: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lif: ALL
+ftbutilities.claims.item.nuclearcraft.fluid_liquid_nitrogen: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_liquidhelium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lithium6: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_lithium7: ALL
@@ -20262,7 +20268,7 @@ ftbutilities.claims.item.techreborn.advancedchainsaw: ALL
 ftbutilities.claims.item.techreborn.advanceddrill: ALL
 ftbutilities.claims.item.techreborn.alarm: ALL
 ftbutilities.claims.item.techreborn.alloy_smelter: ALL
-ftbutilities.claims.item.techreborn.assembly_machine: ALL
+ftbutilities.claims.item.techreborn.assembling_machine: ALL
 ftbutilities.claims.item.techreborn.auto_crafting_table: ALL
 ftbutilities.claims.item.techreborn.bronzeaxe: ALL
 ftbutilities.claims.item.techreborn.bronzeboots: ALL
@@ -20356,8 +20362,10 @@ ftbutilities.claims.item.techreborn.peridotpickaxe: ALL
 ftbutilities.claims.item.techreborn.peridotspade: ALL
 ftbutilities.claims.item.techreborn.peridotsword: ALL
 ftbutilities.claims.item.techreborn.plasma_generator: ALL
+ftbutilities.claims.item.techreborn.plate_bending_machine: ALL
 ftbutilities.claims.item.techreborn.plates: ALL
 ftbutilities.claims.item.techreborn.player_detector: ALL
+ftbutilities.claims.item.techreborn.pump: ALL
 ftbutilities.claims.item.techreborn.quantum_chest: ALL
 ftbutilities.claims.item.techreborn.quantum_tank: ALL
 ftbutilities.claims.item.techreborn.rebattery: ALL
