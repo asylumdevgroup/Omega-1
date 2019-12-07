@@ -1,4 +1,4 @@
-#EndgameCreative.zs
-#By MCAdventureCity
+//EndgameCreative.zs
+//By MCAdventureCity
 
-#ADG Core
+//ADG Core

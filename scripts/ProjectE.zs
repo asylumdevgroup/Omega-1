@@ -1,9 +1,9 @@
-#ProjectE.zs
-#By MCAdventureCity
+//ProjectE.zs
+//By MCAdventureCity
 
 import crafttweaker.item.IItemStack;
 
-#Remove and Hide
+//Remove and Hide
 var projecteRemovals = [
 	<projecte:collector_mk1>,
 	<projecte:collector_mk2>,
@@ -19,7 +19,7 @@ var projecteRemovals = [
 for item in projecteRemovals {
 	mods.jei.JEI.removeAndHide(item);
 }
-#Philosophers Stone
+//Philosophers Stone
 recipes.remove(<projecte:item.pe_philosophers_stone>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:item.pe_philosophers_stone>, [
 	[<ore:ingotEvilMetal>, <ore:ingotZorrasteel>, <ore:ingotBlackIron>, <extendedcrafting:material:18>, <ore:ingotBlackIron>, <ore:ingotZorrasteel>, <ore:ingotEvilMetal>], 
@@ -31,7 +31,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:item.pe_philosophers_
 	[<ore:ingotEvilMetal>, <ore:ingotZorrasteel>, <ore:ingotBlackIron>, <extendedcrafting:material:18>, <ore:ingotBlackIron>, <ore:ingotZorrasteel>, <ore:ingotEvilMetal>]
 ]);
 
-#Transmutation Table
+//Transmutation Table
 recipes.remove(<projecte:transmutation_table>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:transmutation_table>, [
 	[<extendedcrafting:storage:7>, <ore:eternalLifeEssence>, <bloodmagic:slate:4>, <calculator:purifiedobsidian>, <calculator:purifiedobsidian>, <calculator:purifiedobsidian>, <bloodmagic:slate:4>, <ore:eternalLifeEssence>, <extendedcrafting:storage:7>], 
@@ -45,7 +45,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:transmutation_table>,
 	[<extendedcrafting:storage:7>, <ore:eternalLifeEssence>, <bloodmagic:slate:4>, <calculator:purifiedobsidian>, <calculator:purifiedobsidian>, <calculator:purifiedobsidian>, <bloodmagic:slate:4>, <ore:eternalLifeEssence>, <extendedcrafting:storage:7>]
 ]);
 
-#Transmutation Tablet
+//Transmutation Tablet
 recipes.remove(<projecte:item.pe_transmutation_tablet>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:item.pe_transmutation_tablet>, [
 	[<extendedcrafting:singularity_ultimate>, <extendedcrafting:storage:7>, <ore:ingotZorrasteel>, <rftools:infused_diamond>, <ore:blockFiery>, <rftools:infused_diamond>, <ore:ingotZorrasteel>, <extendedcrafting:storage:7>, <extendedcrafting:singularity_ultimate>], 
@@ -59,8 +59,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:item.pe_transmutation
 	[<extendedcrafting:singularity_ultimate>, <extendedcrafting:storage:7>, <ore:ingotZorrasteel>, <rftools:infused_diamond>, <twilightforest:block_storage:3>, <rftools:infused_diamond>, <ore:ingotZorrasteel>, <extendedcrafting:storage:7>, <extendedcrafting:singularity_ultimate>]
 ]);
 
-#Condenser MK1
+//Condenser MK1
 recipes.remove(<projecte:condenser_mk1>);
 
-#Condenser MK2
+//Condenser MK2
 recipes.remove(<projecte:condenser_mk2>);

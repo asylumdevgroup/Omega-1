@@ -1,7 +1,7 @@
-#MystAg.zs
-#By MCAdventureCity
+//MystAg.zs
+//By MCAdventureCity
 
-#Infusion Crystal
+//Infusion Crystal
 recipes.remove(<mysticalagriculture:infusion_crystal>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:infusion_crystal>, [
 	[<ore:blockProsperity>, <ore:essenceInferium>, <bloodmagic:slate:3>, <ore:essenceInferium>, <ore:blockProsperity>], 
@@ -11,7 +11,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:infusion_c
 	[<ore:blockProsperity>, <ore:essenceInferium>, <bloodmagic:slate:3>, <ore:essenceInferium>, <ore:blockProsperity>]
 ]);
 
-#Master Infusion Crystal
+//Master Infusion Crystal
 recipes.remove(<mysticalagriculture:master_infusion_crystal>);
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:master_infusion_crystal>, [
 	[<ore:eternalLifeEssence>, <ore:blockProsperity>, <ore:plateDawnstone>, <naturesaura:sky_ingot>, <ore:plateDawnstone>, <ore:blockProsperity>, <ore:eternalLifeEssence>], 
