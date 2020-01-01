@@ -61,6 +61,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <projecte:item.pe_transmutation
 
 //Condenser MK1
 recipes.remove(<projecte:condenser_mk1>);
+<projecte:condenser_mk1>.addTooltip(format.red("Currently Uncraftable, recipe will be implemented in a future release"));
 
 //Condenser MK2
 recipes.remove(<projecte:condenser_mk2>);
+<projecte:condenser_mk2>.addTooltip(format.red("Currently Uncraftable, recipe will be implemented in a future release"));
