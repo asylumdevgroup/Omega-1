@@ -292,7 +292,10 @@
   "item.nuclearcraft.dust.beryllium_-811312166": true,
   "item.techreborn.dust.plutonium_1446731448": true,
   "item.nuclearcraft.dust_oxide.manganese2_-689403466": true,
-  "item.steamworld.dust_essen_-1425018402": true
+  "item.steamworld.dust_essen_-1425018402": true,
+  "item.prodigytech.emerald_dust_941779185": true,
+  "item.bigreactors:dustblutonium_2035845046": true,
+  "item.bigreactors:dustblutonium_1658059665": true
  },
  "extractor": {
   "item.coal_764578481": true,
