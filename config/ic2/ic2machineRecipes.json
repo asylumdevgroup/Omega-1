@@ -295,7 +295,12 @@
   "item.steamworld.dust_essen_-1425018402": true,
   "item.prodigytech.emerald_dust_941779185": true,
   "item.bigreactors:dustblutonium_2035845046": true,
-  "item.bigreactors:dustblutonium_1658059665": true
+  "item.bigreactors:dustblutonium_1658059665": true,
+  "item.bigreactors:dustcyanite_1539656735": true,
+  "item.bigreactors:dustblutonium_114281439": true,
+  "item.bigreactors:dustludicrite_743406431": true,
+  "item.redstonearsenal.material.dustElectrumFlux_2070103775": true,
+  "item.techreborn.dust.chrome_616140730": true
  },
  "extractor": {
   "item.coal_764578481": true,
@@ -830,7 +835,10 @@
   "ingotRecycling_ingotElectrical": true,
   "ingotRecycling_ingotLavaCrystal": true,
   "ingotRecycling_ingotChargedLavaCrystal": true,
-  "ingotRecycling_ingotInfusedLavaCrystal": true
+  "ingotRecycling_ingotInfusedLavaCrystal": true,
+  "ingotRecycling_ingotPsi": true,
+  "ingotRecycling_ingotIvoryPsi": true,
+  "ingotRecycling_ingotEbonyPsi": true
  },
  "sawmill": {
   "tile.wood.oak_-867074482": true,
