@@ -1,0 +1,10 @@
+{
+  "parent": "sample/item",
+  "image": "mainmenu:adg.png",
+  "position": {
+    "x": "-40",
+    "y": "-40",
+    "width": "80",
+    "height": "80"
+  }
+}

@@ -838,7 +838,8 @@
   "ingotRecycling_ingotInfusedLavaCrystal": true,
   "ingotRecycling_ingotPsi": true,
   "ingotRecycling_ingotIvoryPsi": true,
-  "ingotRecycling_ingotEbonyPsi": true
+  "ingotRecycling_ingotEbonyPsi": true,
+  "ingotRecycling_ingotFluixSteel": true
  },
  "sawmill": {
   "tile.wood.oak_-867074482": true,
