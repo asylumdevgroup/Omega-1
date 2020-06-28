@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-06-22T01:14:13.1056896Z",
+  "lastPlayed": "2020-06-28T00:58:46.5045409Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5312,26 +5312,26 @@
       "addonID": 232838,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2985254,
-        "displayName": "Logistics Pipes 0.10.3.41",
-        "fileName": "logisticspipes-0.10.3.41.jar",
-        "fileDate": "2020-06-21T18:25:16.273Z",
-        "fileLength": 3566777,
+        "id": 2990205,
+        "displayName": "Logistics Pipes 0.10.3.42",
+        "fileName": "logisticspipes-0.10.3.42.jar",
+        "fileDate": "2020-06-27T11:09:16.417Z",
+        "fileLength": 3567666,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2985/254/logisticspipes-0.10.3.41.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2990/205/logisticspipes-0.10.3.42.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 248453,
+            "addonId": 242818,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 242818,
+            "addonId": 248453,
             "type": 3,
             "fileId": 0
           }
@@ -5340,22 +5340,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2249990273,
+            "fingerprint": 1355317864,
             "type": 0
           },
           {
             "foldername": "network",
-            "fingerprint": 913867562,
+            "fingerprint": 220470188,
             "type": 0
           },
           {
             "foldername": "logisticspipes",
-            "fingerprint": 1894009425,
+            "fingerprint": 3900754595,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2656731033,
+            "fingerprint": 3771019681,
             "type": 0
           },
           {
@@ -5369,7 +5369,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2467265210,
+        "packageFingerprint": 3286374425,
         "gameVersion": [
           "1.12.2"
         ],
@@ -5382,12 +5382,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "logisticspipes-0.10.3.41.jar"
+        "FileNameOnDisk": "logisticspipes-0.10.3.42.jar"
       },
       "dateInstalled": "2019-12-02T20:07:37.3235301Z",
-      "dateUpdated": "2020-06-22T01:13:16.5554807Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:13:16.5554807Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:58:04.6295077Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:58:04.6295077Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5647,14 +5647,14 @@
       "addonID": 267939,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2849443,
-        "displayName": "[1.12.2] Just Enough HarvestCraft 1.7.0",
-        "fileName": "just-enough-harvestcraft-1.12.2-1.7.0.jar",
-        "fileDate": "2019-12-25T19:06:05.55Z",
-        "fileLength": 42287,
+        "id": 2989151,
+        "displayName": "[1.12.2] Just Enough HarvestCraft 1.7.1",
+        "fileName": "just-enough-harvestcraft-1.12.2-1.7.1.jar",
+        "fileDate": "2020-06-26T06:52:49.663Z",
+        "fileLength": 42454,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2849/443/just-enough-harvestcraft-1.12.2-1.7.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2989/151/just-enough-harvestcraft-1.12.2-1.7.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5675,26 +5675,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2159791931,
+            "fingerprint": 1227701559,
             "type": 0
           },
           {
             "foldername": "net",
-            "fingerprint": 956276024,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 640160429,
+            "fingerprint": 3853436435,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2759557438,
             "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2376325434,
+            "type": 0
           }
         ],
-        "packageFingerprint": 1285049129,
+        "packageFingerprint": 1042122877,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -5708,12 +5708,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "just-enough-harvestcraft-1.12.2-1.7.0.jar"
+        "FileNameOnDisk": "just-enough-harvestcraft-1.12.2-1.7.1.jar"
       },
       "dateInstalled": "2019-12-02T20:07:37.3215356Z",
-      "dateUpdated": "2019-12-31T21:38:40.4714513Z",
-      "dateLastUpdateAttempted": "2019-12-31T21:38:40.4714513Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:57:42.3261453Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:42.3261453Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9632,14 +9632,14 @@
       "addonID": 386134,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2978660,
-        "displayName": "FTBUltimine-1.12-1.3.2.jar",
-        "fileName": "FTBUltimine-1.12-1.3.2.jar",
-        "fileDate": "2020-06-12T17:32:39.443Z",
-        "fileLength": 46636,
+        "id": 2986060,
+        "displayName": "FTBUltimine-1.3.3.jar",
+        "fileName": "FTBUltimine-1.3.3.jar",
+        "fileDate": "2020-06-22T21:32:00.213Z",
+        "fileLength": 46663,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2978/660/FTBUltimine-1.12-1.3.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2986/60/FTBUltimine-1.3.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -9647,12 +9647,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3763769141,
+            "fingerprint": 3502195935,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3700179802,
+            "fingerprint": 3030716636,
             "type": 0
           },
           {
@@ -9662,11 +9662,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 706162755,
+            "fingerprint": 4171280685,
             "type": 0
           }
         ],
-        "packageFingerprint": 3592159247,
+        "packageFingerprint": 1930796196,
         "gameVersion": [
           "1.10.2",
           "1.11.2",
@@ -9681,12 +9681,12 @@
         "gameVersionDateReleased": "2016-06-23T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUltimine-1.12-1.3.2.jar"
+        "FileNameOnDisk": "FTBUltimine-1.3.3.jar"
       },
       "dateInstalled": "2020-06-11T02:45:13.6457331Z",
-      "dateUpdated": "2020-06-22T01:12:26.3746638Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:12:26.3746638Z",
-      "status": 3,
+      "dateUpdated": "2020-06-28T00:57:22.3300945Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:22.3300945Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13510,14 +13510,14 @@
       "addonID": 304346,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2984413,
-        "displayName": "Ender IO endergy - 5.2.57",
-        "fileName": "EnderIO-endergy-1.12.2-5.2.57.jar",
-        "fileDate": "2020-06-20T16:02:01.793Z",
-        "fileLength": 117526,
+        "id": 2989200,
+        "displayName": "Ender IO endergy - 5.2.59",
+        "fileName": "EnderIO-endergy-1.12.2-5.2.59.jar",
+        "fileDate": "2020-06-26T08:19:24.277Z",
+        "fileLength": 117516,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2984/413/EnderIO-endergy-1.12.2-5.2.57.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2989/200/EnderIO-endergy-1.12.2-5.2.59.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13538,22 +13538,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1230460689,
+            "fingerprint": 1729605770,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 572690241,
+            "fingerprint": 279574430,
             "type": 0
           },
           {
             "foldername": "crazypants",
-            "fingerprint": 357558786,
+            "fingerprint": 4235376273,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 32878569,
+            "fingerprint": 1765291340,
             "type": 0
           },
           {
@@ -13562,7 +13562,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2688208675,
+        "packageFingerprint": 3674219682,
         "gameVersion": [
           "1.12.2"
         ],
@@ -13575,12 +13575,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnderIO-endergy-1.12.2-5.2.57.jar"
+        "FileNameOnDisk": "EnderIO-endergy-1.12.2-5.2.59.jar"
       },
       "dateInstalled": "2019-12-02T20:07:34.6935621Z",
-      "dateUpdated": "2020-06-22T01:12:13.6457307Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:12:13.6457307Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:57:05.9838009Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:05.9838009Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -16755,14 +16755,14 @@
       "addonID": 243707,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2985467,
-        "displayName": "Corail Tombstone 4.0.0 for 1.12.2",
-        "fileName": "tombstone-4.0.0-1.12.2.jar",
-        "fileDate": "2020-06-21T23:12:32.89Z",
-        "fileLength": 1060675,
+        "id": 2981779,
+        "displayName": "Corail Tombstone 3.7.5 for 1.12.2",
+        "fileName": "tombstone-3.7.5-1.12.2.jar",
+        "fileDate": "2020-06-16T20:03:50.537Z",
+        "fileLength": 1019968,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2985/467/tombstone-4.0.0-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2981/779/tombstone-3.7.5-1.12.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -16770,26 +16770,26 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1316751340,
+            "fingerprint": 920826809,
             "type": 0
           },
           {
             "foldername": "ovh",
-            "fingerprint": 1513269679,
+            "fingerprint": 1027476261,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2526777573,
+            "fingerprint": 1998787520,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3289536266,
+            "fingerprint": 3697416946,
             "type": 0
           }
         ],
-        "packageFingerprint": 234728597,
+        "packageFingerprint": 2870371147,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -16803,12 +16803,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "tombstone-4.0.0-1.12.2.jar"
+        "FileNameOnDisk": "tombstone-3.7.5-1.12.2.jar"
       },
       "dateInstalled": "2019-12-02T20:07:40.6875361Z",
-      "dateUpdated": "2020-06-22T01:11:18.3569166Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:11:18.3569166Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:56:34.4411171Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:56:34.4411171Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19089,14 +19089,14 @@
       "addonID": 248787,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2496585,
-        "displayName": "AppleSkin-mc1.12-1.0.9.jar",
-        "fileName": "AppleSkin-mc1.12-1.0.9.jar",
-        "fileDate": "2017-11-03T00:07:53.083Z",
-        "fileLength": 32317,
+        "id": 2987247,
+        "displayName": "AppleSkin-mc1.12-1.0.14.jar",
+        "fileName": "AppleSkin-mc1.12-1.0.14.jar",
+        "fileDate": "2020-06-24T05:27:04.913Z",
+        "fileLength": 33683,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -19104,80 +19104,57 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3
+            "fingerprint": 244667653,
+            "type": 0
           },
           {
             "foldername": "betterwithmods",
             "fingerprint": 1637584094,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "squeek",
-            "fingerprint": 1048292493,
-            "type": 3
+            "fingerprint": 4026390983,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 3447702788,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4000864019,
-            "type": 3
+            "fingerprint": 1531494517,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2520837536,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1708065614,
+        "packageFingerprint": 1189087403,
         "gameVersion": [
           "1.12",
           "1.12.1",
+          "Forge",
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012",
-            "gameVersion": "1.12",
-            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
-            "gameVersionName": "1.12"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000001",
-            "gameVersion": "1.12.1",
-            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
-            "gameVersionName": "1.12.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 692731,
-        "projectId": 248787,
-        "packageFingerprintId": 208266674,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2017-06-07T05:00:00Z",
-        "gameVersionMappingId": 1467779,
-        "gameVersionId": 6580,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "AppleSkin-mc1.12-1.0.9.jar"
+        "FileNameOnDisk": "AppleSkin-mc1.12-1.0.14.jar"
       },
       "dateInstalled": "2019-07-16T23:43:50.9200536Z",
-      "dateUpdated": "2018-07-16T23:43:50.9200536Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:56:27.5774861Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:56:27.5774861Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19440,95 +19417,83 @@
       "addonID": 237102,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2835289,
-        "displayName": "FTBUtilities-5.4.0.124.jar",
-        "fileName": "FTBUtilities-5.4.0.124.jar",
-        "fileDate": "2019-12-01T13:00:13Z",
-        "fileLength": 424109,
+        "id": 2990099,
+        "displayName": "FTBUtilities-5.4.1.129.jar",
+        "fileName": "FTBUtilities-5.4.1.129.jar",
+        "fileDate": "2020-06-27T07:51:54.337Z",
+        "fileLength": 425243,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/289/FTBUtilities-5.4.0.124.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2990/99/FTBUtilities-5.4.1.129.jar",
         "isAlternate": false,
-        "alternateFileId": 2835290,
+        "alternateFileId": 2990100,
         "dependencies": [
           {
-            "id": 33834062,
+            "id": 0,
+            "addonId": 314904,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
             "addonId": 32274,
             "type": 2,
-            "fileId": 2835289
+            "fileId": 0
           },
           {
-            "id": 33834063,
+            "id": 0,
             "addonId": 237167,
             "type": 3,
-            "fileId": 2835289
-          },
-          {
-            "id": 33834061,
-            "addonId": 314904,
-            "type": 3,
-            "fileId": 2835289
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1909782853,
-            "type": 3
+            "fingerprint": 453366007,
+            "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1918873826,
-            "type": 3
+            "fingerprint": 3816820484,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 328449044,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2315989403,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1865709965,
-            "type": 3
+            "fingerprint": 263980156,
+            "type": 0
           }
         ],
-        "packageFingerprint": 1650828278,
+        "packageFingerprint": 69649077,
         "gameVersion": [
           "1.12.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1712362,
-        "projectId": 237102,
-        "packageFingerprintId": 383317052,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2016675,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBUtilities-5.4.0.124.jar"
+        "FileNameOnDisk": "FTBUtilities-5.4.1.129.jar"
       },
       "dateInstalled": "2019-12-02T20:07:36.3531249Z",
-      "dateUpdated": "2018-12-02T20:07:36.3531249Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2020-06-28T00:57:24.9101893Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:24.9101893Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19837,14 +19802,14 @@
       "addonID": 238222,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2983969,
-        "displayName": "jei_1.12.2-4.15.0.294.jar",
-        "fileName": "jei_1.12.2-4.15.0.294.jar",
-        "fileDate": "2020-06-19T21:27:38.77Z",
-        "fileLength": 653066,
-        "releaseType": 2,
+        "id": 2988828,
+        "displayName": "jei_1.12.2-4.15.0.296.jar",
+        "fileName": "jei_1.12.2-4.15.0.296.jar",
+        "fileDate": "2020-06-25T23:02:35.42Z",
+        "fileLength": 653115,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2983/969/jei_1.12.2-4.15.0.294.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -19852,12 +19817,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 659925903,
+            "fingerprint": 563183461,
             "type": 0
           },
           {
             "foldername": "mezz",
-            "fingerprint": 674526096,
+            "fingerprint": 4148417974,
             "type": 0
           },
           {
@@ -19867,16 +19832,16 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3624301222,
+            "fingerprint": 1738225156,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2967893668,
+            "fingerprint": 3724754525,
             "type": 0
           }
         ],
-        "packageFingerprint": 3496463558,
+        "packageFingerprint": 2316325014,
         "gameVersion": [
           "1.12.2"
         ],
@@ -19889,12 +19854,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.15.0.294.jar"
+        "FileNameOnDisk": "jei_1.12.2-4.15.0.296.jar"
       },
       "dateInstalled": "2019-12-02T20:07:37.3215356Z",
-      "dateUpdated": "2020-06-22T01:13:00.2680358Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:13:00.2680358Z",
-      "status": 3,
+      "dateUpdated": "2020-06-28T00:57:44.7456699Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:44.7456699Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21169,27 +21134,27 @@
       "addonID": 237167,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2891572,
-        "displayName": "FTBLib-5.4.7.0.jar",
-        "fileName": "FTBLib-5.4.7.0.jar",
-        "fileDate": "2020-02-28T23:29:29.903Z",
-        "fileLength": 934566,
+        "id": 2985811,
+        "displayName": "FTBLib-5.4.7.2.jar",
+        "fileName": "FTBLib-5.4.7.2.jar",
+        "fileDate": "2020-06-22T13:44:34.15Z",
+        "fileLength": 934370,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 2985812,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2712236318,
+            "fingerprint": 2287248055,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1845115150,
+            "fingerprint": 296098662,
             "type": 0
           },
           {
@@ -21198,19 +21163,18 @@
             "type": 0
           },
           {
-            "foldername": "mcmod.info",
-            "fingerprint": 4118649540,
-            "type": 0
-          },
-          {
             "foldername": "pack.mcmeta",
             "fingerprint": 1468686229,
             "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1147509493,
+            "type": 0
           }
         ],
-        "packageFingerprint": 2660314712,
+        "packageFingerprint": 957833589,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -21219,15 +21183,15 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "FTBLib-5.4.7.0.jar"
+        "FileNameOnDisk": "FTBLib-5.4.7.2.jar"
       },
       "dateInstalled": "2019-12-02T20:07:36.3541224Z",
-      "dateUpdated": "2020-03-24T00:58:12.0820056Z",
-      "dateLastUpdateAttempted": "2020-03-24T00:58:12.0820056Z",
-      "status": 3,
+      "dateUpdated": "2020-06-28T00:57:19.600401Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:19.600401Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -24028,92 +23992,20 @@
       "addonID": 64578,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2984414,
-        "displayName": "Ender IO - 5.2.57",
-        "fileName": "EnderIO-1.12.2-5.2.57.jar",
-        "fileDate": "2020-06-20T16:02:05.3Z",
-        "fileLength": 8117385,
+        "id": 2989201,
+        "displayName": "Ender IO - 5.2.59",
+        "fileName": "EnderIO-1.12.2-5.2.59.jar",
+        "fileDate": "2020-06-26T08:19:27.82Z",
+        "fileLength": 8117810,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2984/414/EnderIO-1.12.2-5.2.57.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2989/201/EnderIO-1.12.2-5.2.59.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 231868,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223008,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74072,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 61811,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 74120,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 243076,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 267602,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 220318,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 235279,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 222880,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 250277,
+            "addonId": 225643,
             "type": 2,
             "fileId": 0
           },
@@ -24125,13 +24017,7 @@
           },
           {
             "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 228404,
+            "addonId": 250277,
             "type": 2,
             "fileId": 0
           },
@@ -24143,13 +24029,25 @@
           },
           {
             "id": 0,
-            "addonId": 59751,
+            "addonId": 267602,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 242638,
+            "addonId": 228404,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 220318,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 61811,
             "type": 2,
             "fileId": 0
           },
@@ -24161,7 +24059,25 @@
           },
           {
             "id": 0,
-            "addonId": 225561,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74120,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 222880,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 235279,
             "type": 2,
             "fileId": 0
           },
@@ -24170,28 +24086,76 @@
             "addonId": 231951,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 59751,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223008,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231868,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225561,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 243076,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2533762740,
+            "fingerprint": 2738176957,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2991389068,
+            "fingerprint": 1855048548,
             "type": 0
           },
           {
             "foldername": "crazypants",
-            "fingerprint": 1849505656,
+            "fingerprint": 3280256355,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1186817052,
+            "fingerprint": 1615738811,
             "type": 0
           },
           {
@@ -24200,7 +24164,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 4236495011,
+        "packageFingerprint": 2849332366,
         "gameVersion": [
           "1.12.2"
         ],
@@ -24213,12 +24177,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EnderIO-1.12.2-5.2.57.jar"
+        "FileNameOnDisk": "EnderIO-1.12.2-5.2.59.jar"
       },
       "dateInstalled": "2019-12-02T20:07:34.692565Z",
-      "dateUpdated": "2020-06-22T01:12:11.0436639Z",
-      "dateLastUpdateAttempted": "2020-06-22T01:12:11.0436639Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:57:03.2216705Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:57:03.2216705Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -25468,23 +25432,17 @@
       "addonID": 246183,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2948800,
-        "displayName": "Roots-1.12.2-3.0.28.jar",
-        "fileName": "Roots-1.12.2-3.0.28.jar",
-        "fileDate": "2020-05-05T10:07:51.613Z",
-        "fileLength": 1464262,
+        "id": 2988227,
+        "displayName": "Roots-1.12.2-3.0.29.jar",
+        "fileName": "Roots-1.12.2-3.0.29.jar",
+        "fileDate": "2020-06-25T07:31:53.84Z",
+        "fileLength": 1464321,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2948/800/Roots-1.12.2-3.0.28.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2988/227/Roots-1.12.2-3.0.29.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306770,
-            "type": 3,
-            "fileId": 0
-          },
           {
             "id": 0,
             "addonId": 282940,
@@ -25502,18 +25460,24 @@
             "addonId": 227083,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3426993906,
+            "fingerprint": 1755703425,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 2408194215,
+            "fingerprint": 3992864204,
             "type": 0
           },
           {
@@ -25523,11 +25487,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3395611118,
+            "fingerprint": 1089003567,
             "type": 0
           }
         ],
-        "packageFingerprint": 4197821400,
+        "packageFingerprint": 767682894,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -25541,12 +25505,12 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Roots-1.12.2-3.0.28.jar"
+        "FileNameOnDisk": "Roots-1.12.2-3.0.29.jar"
       },
       "dateInstalled": "2019-12-02T20:07:40.6875361Z",
-      "dateUpdated": "2020-05-10T00:36:17.5657028Z",
-      "dateLastUpdateAttempted": "2020-05-10T00:36:17.5657028Z",
-      "status": 5,
+      "dateUpdated": "2020-06-28T00:58:10.4299831Z",
+      "dateLastUpdateAttempted": "2020-06-28T00:58:10.4299831Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
