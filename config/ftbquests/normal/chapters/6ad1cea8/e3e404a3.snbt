@@ -1,0 +1,29 @@
+{
+	title: "Welcome to ADG Omega!",
+	icon: "contenttweaker:adg_core",
+	x: -6.5d,
+	y: -3.0d,
+	shape: "gear",
+	text: [
+		"Welcome to ADG Omega 1! This is a Kitchen-Sink pack, meaning that you can safely ignore this questbook. However, there are a few tweaked recipes for balance purposes, so always check JEI.",
+		"Also, you might miss out on some cool rewards if you ignore these quests. ;)"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e88bec84",
+		type: "checkmark",
+		icon: "contenttweaker:adg_core"
+	}],
+	rewards: [{
+		uid: "61bba512",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		uid: "373c9347",
+		type: "item",
+		item: "minecraft:apple",
+		count: 8
+	}]
+}

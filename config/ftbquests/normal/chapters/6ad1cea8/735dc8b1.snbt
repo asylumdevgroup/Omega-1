@@ -1,0 +1,84 @@
+{
+	title: "Stone Age",
+	icon: "minecraft:cobblestone",
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"a48c48f9"
+	],
+	tasks: [{
+		uid: "a2c587ae",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	},
+	{
+		uid: "361adc36",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	},
+	{
+		uid: "bed52a9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8c457ec4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "59820190",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a13e4c9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "996d0e27",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 64
+	},
+	{
+		uid: "ea196d9c",
+		type: "item",
+		item: "minecraft:bread",
+		count: 8
+	}]
+}

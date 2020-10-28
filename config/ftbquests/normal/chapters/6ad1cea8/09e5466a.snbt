@@ -1,0 +1,38 @@
+{
+	title: "The Wither Boss",
+	icon: "minecraft:skull 1 1",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"44008b04"
+	],
+	tasks: [{
+		uid: "ba6ff8d2",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 3L
+	},
+	{
+		uid: "71e3b281",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 4L
+	},
+	{
+		uid: "0d461852",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1L
+	},
+	{
+		uid: "f2a5c0b4",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	title: "The Gathering: Nether",
+	icon: "minecraft:netherrack",
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"f8c73192"
+	],
+	tasks: [{
+		uid: "164bac02",
+		type: "item",
+		items: [{
+			item: "minecraft:netherrack"
+		}],
+		count: 128L
+	},
+	{
+		uid: "5a097e61",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 64L
+	},
+	{
+		uid: "c6756fbf",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}],
+		count: 64L
+	},
+	{
+		uid: "90f2094a",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz"
+		}],
+		count: 32L
+	},
+	{
+		uid: "38059df5",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_wart"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "a24ee98a",
+		type: "item",
+		item: "minecraft:netherbrick",
+		count: 32
+	}]
+}

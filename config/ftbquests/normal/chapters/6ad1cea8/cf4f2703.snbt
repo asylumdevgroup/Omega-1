@@ -1,0 +1,23 @@
+{
+	title: "Vanilla Magic",
+	icon: "minecraft:enchanting_table",
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"f8c73192"
+	],
+	tasks: [{
+		uid: "f5152257",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	},
+	{
+		uid: "1bf8a41f",
+		type: "item",
+		items: [{
+			item: "minecraft:brewing_stand"
+		}]
+	}]
+}

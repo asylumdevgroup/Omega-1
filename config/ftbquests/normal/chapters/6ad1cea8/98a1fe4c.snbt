@@ -1,0 +1,40 @@
+{
+	title: "Into the End",
+	icon: "minecraft:ender_eye",
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"f8c73192"
+	],
+	tasks: [{
+		uid: "ba40badf",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}]
+	},
+	{
+		uid: "fe5df41f",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}]
+	},
+	{
+		uid: "df37edc0",
+		type: "dimension",
+		dim: 1
+	},
+	{
+		uid: "8d310a57",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "19569350",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
+	}]
+}

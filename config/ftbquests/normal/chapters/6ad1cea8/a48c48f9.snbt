@@ -1,0 +1,64 @@
+{
+	title: "Getting Wood... You know how this goes",
+	icon: "minecraft:log",
+	x: -4.5d,
+	y: -3.0d,
+	dependencies: [
+		"e3e404a3"
+	],
+	tasks: [{
+		uid: "15e3df10",
+		type: "item",
+		title: "Any logWood",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 8L
+	},
+	{
+		uid: "9a1eb939",
+		type: "item",
+		title: "Any plankWood",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d89e4181",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	},
+	{
+		uid: "2a5616d8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c7afc843",
+		type: "item",
+		item: "minecraft:baked_potato",
+		count: 8
+	}]
+}

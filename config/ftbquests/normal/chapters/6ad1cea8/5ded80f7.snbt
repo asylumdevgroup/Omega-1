@@ -1,0 +1,47 @@
+{
+	title: "The Gathering: End",
+	icon: "minecraft:end_stone",
+	x: 1.5d,
+	y: -4.5d,
+	dependencies: [
+		"98a1fe4c"
+	],
+	tasks: [{
+		uid: "3a9d780f",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}],
+		count: 128L
+	},
+	{
+		uid: "d4bbd091",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		count: 16L
+	},
+	{
+		uid: "4f31b963",
+		type: "item",
+		items: [{
+			item: "quark:biotite"
+		}],
+		count: 32L
+	},
+	{
+		uid: "0eda89da",
+		type: "item",
+		items: [{
+			item: "minecraft:chorus_fruit"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "b2cce4f1",
+		type: "item",
+		item: "minecraft:end_bricks",
+		count: 32
+	}]
+}

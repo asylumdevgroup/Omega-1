@@ -1,0 +1,53 @@
+{
+	title: "The Gathering: Vanilla Ores",
+	icon: "minecraft:gold_ore",
+	x: -1.5d,
+	y: -4.5d,
+	dependencies: [
+		"895cc88b"
+	],
+	tasks: [{
+		uid: "b5705031",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 16L
+	},
+	{
+		uid: "b9f16f3b",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 32L
+	},
+	{
+		uid: "967ec9e7",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3ec58849",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "36bc7f88",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 8
+	},
+	{
+		uid: "5f87a2b8",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 32
+	}]
+}
