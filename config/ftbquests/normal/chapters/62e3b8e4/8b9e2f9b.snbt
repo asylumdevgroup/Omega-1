@@ -1,0 +1,35 @@
+{
+	title: "Barrels",
+	icon: "yabba:item_barrel",
+	x: -3.5d,
+	y: -0.5d,
+	dependencies: [
+		"ff08eee3"
+	],
+	tasks: [{
+		uid: "f8a8ee94",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel"
+		}]
+	},
+	{
+		uid: "430d3233",
+		type: "item",
+		items: [{
+			item: "yabba:upgrade_blank"
+		}]
+	},
+	{
+		uid: "c3ac0ad7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yabba:hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

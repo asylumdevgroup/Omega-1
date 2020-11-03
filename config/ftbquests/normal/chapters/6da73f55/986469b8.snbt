@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "d23c9564",
+		type: "checkmark",
+		title: "The Beginning of the End",
+		icon: "extendedcrafting:table_advanced"
+	}]
+}

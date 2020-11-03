@@ -11,14 +11,16 @@
 		type: "item",
 		items: [{
 			item: "minecraft:blaze_rod"
-		}]
+		}],
+		count: 4L
 	},
 	{
 		uid: "fe5df41f",
 		type: "item",
 		items: [{
 			item: "minecraft:ender_eye"
-		}]
+		}],
+		count: 12L
 	},
 	{
 		uid: "df37edc0",

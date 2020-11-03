@@ -1,0 +1,16 @@
+{
+	icon: "minecraft:brick_block",
+	x: -3.5d,
+	y: -0.5d,
+	shape: "gear",
+	text: [
+		"This chapter contains quests relating to various mods that improve on aspects of vanilla Minecraft, such as storage, farming, or building.",
+		"The chapter itself is entirely made up of this quest, as the other quests are part of subchapters for each category of mod."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "65edbf6b",
+		type: "checkmark",
+		title: "Vanilla+"
+	}]
+}

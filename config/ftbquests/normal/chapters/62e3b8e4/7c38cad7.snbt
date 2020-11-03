@@ -1,0 +1,30 @@
+{
+	title: "Advanced Drawer Management",
+	icon: "storagedrawers:controller",
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"74d7d996"
+	],
+	tasks: [{
+		uid: "2faa94d8",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controller"
+		}]
+	},
+	{
+		uid: "7a35d948",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controllerslave"
+		}]
+	},
+	{
+		uid: "10f050c6",
+		type: "item",
+		items: [{
+			item: "storagedrawers:compdrawers"
+		}]
+	}]
+}

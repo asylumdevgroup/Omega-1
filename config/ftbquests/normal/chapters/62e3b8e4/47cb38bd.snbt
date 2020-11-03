@@ -1,0 +1,51 @@
+{
+	title: "Drawer Upgrades",
+	icon: "storagedrawers:upgrade_storage 1 4",
+	x: -1.5d,
+	y: -3.5d,
+	dependencies: [
+		"74d7d996"
+	],
+	tasks: [{
+		uid: "bd40c2a6",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage"
+		}]
+	},
+	{
+		uid: "c203dedf",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 1"
+		}]
+	},
+	{
+		uid: "a976d971",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 2"
+		}]
+	},
+	{
+		uid: "5e954718",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 3"
+		}]
+	},
+	{
+		uid: "f92eaf60",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	},
+	{
+		uid: "7882f455",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_void"
+		}]
+	}]
+}

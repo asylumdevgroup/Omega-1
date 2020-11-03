@@ -1,5 +1,5 @@
 {
-	title: "Minecraft",
+	title: "Minecraft Vanilla",
 	icon: "minecraft:grass",
 	always_invisible: false,
 	group: 0,
