@@ -3,8 +3,36 @@
 
 import mods.immersiveengineering.MetalPress;
 
+//Ender Ingot
+recipes.remove(<extendedcrafting:material:36>);
+mods.thermalexpansion.InductionSmelter.addRecipe(<extendedcrafting:material:36>, <ore:ingotMelodicAlloy>, <minecraft:ender_eye>, 2000);
+
+//Ender Crafter
+recipes.remove(<extendedcrafting:ender_crafter>);
+recipes.addShaped("ender_crafter", <extendedcrafting:ender_crafter>, [
+	[<minecraft:ender_eye>, <actuallyadditions:block_misc:8>, <minecraft:ender_eye>],
+	[<extendedcrafting:material:36>, <enderio:block_crafter>, <extendedcrafting:material:36>],
+	[<extendedcrafting:material:36>, <extendedcrafting:material:36>, <extendedcrafting:material:36>]
+]);
+
+//Black Iron Ingot
+recipes.remove(<extendedcrafting:material>);
+mods.extendedcrafting.EnderCrafting.addShaped(0, <extendedcrafting:material> * 8, [
+	[<actuallyadditions:item_crystal_empowered:3>, <ore:ingotAstralStarmetal>, <actuallyadditions:item_crystal_empowered:3>], 
+	[<ore:ingotAstralStarmetal>, <ore:ingotStellarAlloy>, <ore:ingotAstralStarmetal>], 
+	[<actuallyadditions:item_crystal_empowered:3>, <ore:ingotAstralStarmetal>, <actuallyadditions:item_crystal_empowered:3>]
+]);
+
+//Black Iron Frame
+recipes.remove(<extendedcrafting:frame>);
+recipes.addShaped("blackiron_frame", <extendedcrafting:frame>, [
+	[<extendedcrafting:material:2>, <ore:blockGlass>, <extendedcrafting:material:2>],
+	[<ore:blockGlass>, <techreborn:machine_frame:2>, <ore:blockGlass>],
+	[<extendedcrafting:material:2>, <ore:blockGlass>, <extendedcrafting:material:2>]
+]);
+
 //Ultimate Ingot
-recipes.addShaped("ultimateIngot", <extendedcrafting:material:32> * 4, [
+recipes.addShaped("ultimate_ingot", <extendedcrafting:material:32> * 4, [
 	[null, <ore:ingotCrystaltine>, null],
 	[<ore:ingotCrystaltine>, <extendedcrafting:singularity_ultimate>, <ore:ingotCrystaltine>],
 	[null, <ore:ingotCrystaltine>, null]

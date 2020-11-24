@@ -1,0 +1,17 @@
+{
+	title: "First Key Endgame Material",
+	icon: "extendedcrafting:material",
+	x: -0.5d,
+	y: -1.5d,
+	dependencies: [
+		"e6416818"
+	],
+	tasks: [{
+		uid: "d8e5fd31",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material"
+		}],
+		count: 8L
+	}]
+}

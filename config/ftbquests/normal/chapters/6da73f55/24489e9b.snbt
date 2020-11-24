@@ -1,0 +1,23 @@
+{
+	title: "Extended Automation",
+	icon: "extendedcrafting:interface",
+	x: 0.5d,
+	y: -1.5d,
+	dependencies: [
+		"0f110d1d"
+	],
+	tasks: [{
+		uid: "872afd05",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:frame"
+		}]
+	},
+	{
+		uid: "0fd3c47e",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:interface"
+		}]
+	}]
+}

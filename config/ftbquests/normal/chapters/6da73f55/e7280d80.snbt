@@ -1,0 +1,16 @@
+{
+	title: "5x5 Crafting",
+	icon: "extendedcrafting:table_advanced",
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"0f110d1d"
+	],
+	tasks: [{
+		uid: "b6cba1e6",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}]
+}

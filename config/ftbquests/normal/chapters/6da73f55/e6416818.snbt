@@ -1,0 +1,23 @@
+{
+	title: "The End(er)",
+	icon: "extendedcrafting:ender_crafter",
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"986469b8"
+	],
+	tasks: [{
+		uid: "4a975e8a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 36"
+		}]
+	},
+	{
+		uid: "f41ea94a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_crafter"
+		}]
+	}]
+}
