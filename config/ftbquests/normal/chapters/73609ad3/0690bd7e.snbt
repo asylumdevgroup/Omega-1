@@ -1,0 +1,79 @@
+{
+	title: "Kitchen",
+	icon: "cookingforblockheads:cooking_table",
+	x: -4.5d,
+	y: -2.0d,
+	dependencies: [
+		"7b42c89a"
+	],
+	tasks: [{
+		uid: "27d8a2d7",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cooking_table"
+		}]
+	},
+	{
+		uid: "c533bb54",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}]
+	},
+	{
+		uid: "72858f28",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:fridge"
+		}]
+	},
+	{
+		uid: "546910b6",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}]
+	},
+	{
+		uid: "0c90405a",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}]
+	},
+	{
+		uid: "65bd0374",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:spice_rack"
+		}]
+	},
+	{
+		uid: "f4058438",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:tool_rack"
+		}]
+	},
+	{
+		uid: "c0ec3a94",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:fruit_basket"
+		}]
+	},
+	{
+		uid: "cfbaca96",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:milk_jar"
+		}]
+	},
+	{
+		uid: "b040efda",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:counter"
+		}]
+	}]
+}

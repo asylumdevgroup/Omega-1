@@ -30,5 +30,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "36a098e0",
+		type: "item",
+		item: "harvestcraft:thankfuldinneritem"
 	}]
 }

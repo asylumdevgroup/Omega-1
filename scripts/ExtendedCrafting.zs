@@ -5,7 +5,7 @@ import mods.immersiveengineering.MetalPress;
 
 //Ender Ingot
 recipes.remove(<extendedcrafting:material:36>);
-mods.thermalexpansion.InductionSmelter.addRecipe(<extendedcrafting:material:36>, <ore:ingotMelodicAlloy>, <minecraft:ender_eye>, 2000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<extendedcrafting:material:36>, <enderio:item_alloy_endergy_ingot:2>, <minecraft:ender_eye>, 2000);
 
 //Ender Crafter
 recipes.remove(<extendedcrafting:ender_crafter>);
@@ -17,7 +17,7 @@ recipes.addShaped("ender_crafter", <extendedcrafting:ender_crafter>, [
 
 //Black Iron Ingot
 recipes.remove(<extendedcrafting:material>);
-mods.extendedcrafting.EnderCrafting.addShaped(0, <extendedcrafting:material> * 8, [
+mods.extendedcrafting.EnderCrafting.addShaped(<extendedcrafting:material> * 8, [
 	[<actuallyadditions:item_crystal_empowered:3>, <ore:ingotAstralStarmetal>, <actuallyadditions:item_crystal_empowered:3>], 
 	[<ore:ingotAstralStarmetal>, <ore:ingotStellarAlloy>, <ore:ingotAstralStarmetal>], 
 	[<actuallyadditions:item_crystal_empowered:3>, <ore:ingotAstralStarmetal>, <actuallyadditions:item_crystal_empowered:3>]
@@ -42,6 +42,16 @@ recipes.addShaped("ultimate_ingot", <extendedcrafting:material:32> * 4, [
 recipes.remove(<extendedcrafting:material:2>);
 mods.immersiveengineering.MetalPress.addRecipe(<extendedcrafting:material:2>, <extendedcrafting:material>, <immersiveengineering:mold>, 2000);
 mods.thermalexpansion.Compactor.addPressRecipe(<extendedcrafting:material:2>, <extendedcrafting:material>, 4000);
+
+//Quantum Compressor
+recipes.remove(<extendedcrafting:compressor>);
+mods.extendedcrafting.TableCrafting.addShaped(0, <extendedcrafting:compressor>, [
+	[<extendedcrafting:material:2>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <extendedcrafting:material:2>], 
+	[<ore:ingotBlackIron>, <ore:plateiridiumAlloy>, <appliedenergistics2:material:48>, <ore:plateiridiumAlloy>, <ore:ingotBlackIron>], 
+	[<ore:ingotBlackIron>, <appliedenergistics2:material:48>, <extendedcrafting:frame>, <appliedenergistics2:material:48>, <ore:ingotBlackIron>], 
+	[<ore:ingotBlackIron>, <ore:plateiridiumAlloy>, <appliedenergistics2:material:48>, <ore:plateiridiumAlloy>, <ore:ingotBlackIron>], 
+	[<extendedcrafting:material:2>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <ore:ingotBlackIron>, <extendedcrafting:material:2>]
+]);
 
 //Elite Crafting Table
 recipes.remove(<extendedcrafting:table_elite>);

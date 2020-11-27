@@ -1,0 +1,15 @@
+{
+	title: "Endgame Ingot I",
+	x: 0.5d,
+	y: 0.5d,
+	dependencies: [
+		"4af6990e"
+	],
+	tasks: [{
+		uid: "38be4d6a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 24"
+		}]
+	}]
+}

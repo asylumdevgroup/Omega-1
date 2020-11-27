@@ -31,5 +31,17 @@
 		items: [{
 			item: "storagedrawers:upgrade_template"
 		}]
+	}],
+	rewards: [{
+		uid: "41b63030",
+		type: "item",
+		item: {
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			},
+			Damage: 2s
+		},
+		count: 4
 	}]
 }

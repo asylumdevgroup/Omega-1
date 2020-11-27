@@ -2,11 +2,24 @@
 	x: -0.5d,
 	y: -4.0d,
 	shape: "gear",
+	text: [
+		"Well, you're probably coming to this questline because you want to get into ProjectE or Mystical Agriculture. However, to do that, you need to progress through Extended Crafting, which requires many other mods."
+	],
 	size: 2.0d,
 	tasks: [{
 		uid: "d23c9564",
 		type: "checkmark",
 		title: "The Beginning of the End",
 		icon: "extendedcrafting:table_advanced"
+	}],
+	rewards: [{
+		uid: "52ffadc2",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "1c978ed2",
+		type: "command",
+		command: "/say @p has started the Endgame Questline!"
 	}]
 }

@@ -8,5 +8,10 @@
 		type: "checkmark",
 		title: "Unlock Storage",
 		icon: "minecraft:chest"
+	}],
+	rewards: [{
+		uid: "7a12391e",
+		type: "xp_levels",
+		xp_levels: 2
 	}]
 }

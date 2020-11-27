@@ -1,0 +1,23 @@
+{
+	title: "Kitchen Decoration",
+	icon: "cookingforblockheads:kitchen_floor",
+	x: -4.5d,
+	y: -1.0d,
+	dependencies: [
+		"0690bd7e"
+	],
+	tasks: [{
+		uid: "d3a808bb",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:corner"
+		}]
+	},
+	{
+		uid: "f0502eb9",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:kitchen_floor"
+		}]
+	}]
+}

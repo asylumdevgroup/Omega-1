@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "0f59a750",
+		type: "checkmark",
+		title: "Unlock Food and Farming",
+		icon: "cookingforblockheads:cooking_table"
+	}]
+}

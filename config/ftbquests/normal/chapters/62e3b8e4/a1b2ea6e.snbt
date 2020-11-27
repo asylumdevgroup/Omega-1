@@ -22,5 +22,11 @@
 			},
 			id: "yabba:antibarrel"
 		}]
+	}],
+	rewards: [{
+		uid: "b595ed41",
+		type: "item",
+		item: "yabba:item_barrel",
+		count: 4
 	}]
 }

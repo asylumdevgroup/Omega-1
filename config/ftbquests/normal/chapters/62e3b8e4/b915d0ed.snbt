@@ -11,5 +11,16 @@
 		items: [{
 			item: "ironchest:iron_chest"
 		}]
+	}],
+	rewards: [{
+		uid: "778e841a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:wood_iron_chest_upgrade"
+		},
+		count: 2
 	}]
 }

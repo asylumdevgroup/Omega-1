@@ -1,0 +1,15 @@
+{
+	title: "Infinite Milk",
+	x: -5.5d,
+	y: -2.0d,
+	dependencies: [
+		"0690bd7e"
+	],
+	tasks: [{
+		uid: "34976302",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}]
+}

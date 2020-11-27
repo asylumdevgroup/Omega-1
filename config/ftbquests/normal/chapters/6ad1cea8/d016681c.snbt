@@ -46,5 +46,11 @@
 		type: "kill",
 		entity: "minecraft:shulker",
 		value: 5L
+	}],
+	rewards: [{
+		uid: "e48ec4e9",
+		type: "item",
+		item: "harvestcraft:delightedmealitem",
+		count: 4
 	}]
 }

@@ -1,0 +1,24 @@
+{
+	title: "Infusion?",
+	icon: "extendedcrafting:crafting_core",
+	x: 0.5d,
+	y: 2.5d,
+	dependencies: [
+		"afde83b5",
+		"25221085"
+	],
+	tasks: [{
+		uid: "f29d96be",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:crafting_core"
+		}]
+	},
+	{
+		uid: "c35d9d50",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:pedestal"
+		}]
+	}]
+}

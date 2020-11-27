@@ -1,0 +1,25 @@
+{
+	title: "The Real End?",
+	icon: "contenttweaker:adg_core",
+	x: 1.5d,
+	y: 3.5d,
+	text: [
+		"You've crafted the ADG Core, is this the end of the pack? Well, it can be, but the ADG Core can also be used to craft several creative items.",
+		"(NOTE: Creative Items are not currently craftable yet. That will come in Version 4.3.0, coming Christmas.)"
+	],
+	dependencies: [
+		"b34fc191"
+	],
+	tasks: [{
+		uid: "12ac3b33",
+		type: "item",
+		items: [{
+			item: "contenttweaker:adg_core"
+		}]
+	}],
+	rewards: [{
+		uid: "b6c0ad90",
+		type: "command",
+		command: "/say @p has crafted their first ADG Core! Congratulations!"
+	}]
+}

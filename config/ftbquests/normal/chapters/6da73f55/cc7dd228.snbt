@@ -1,0 +1,20 @@
+{
+	title: "Portable Transmutation",
+	x: -3.5d,
+	y: 1.5d,
+	dependencies: [
+		"c4ec787e"
+	],
+	tasks: [{
+		uid: "051794d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_transmutation_tablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

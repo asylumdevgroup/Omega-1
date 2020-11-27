@@ -1,0 +1,16 @@
+{
+	title: "All Singularities Combined",
+	icon: "extendedcrafting:singularity_ultimate",
+	x: 0.5d,
+	y: 1.5d,
+	dependencies: [
+		"afde83b5"
+	],
+	tasks: [{
+		uid: "14792f91",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_ultimate"
+		}]
+	}]
+}

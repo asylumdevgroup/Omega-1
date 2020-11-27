@@ -1,0 +1,16 @@
+{
+	title: "9x9 Crafting",
+	icon: "extendedcrafting:table_ultimate",
+	x: -0.5d,
+	y: 1.5d,
+	dependencies: [
+		"4af6990e"
+	],
+	tasks: [{
+		uid: "ad893838",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_ultimate"
+		}]
+	}]
+}

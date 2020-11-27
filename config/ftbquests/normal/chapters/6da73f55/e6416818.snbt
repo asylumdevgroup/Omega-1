@@ -19,5 +19,11 @@
 		items: [{
 			item: "extendedcrafting:ender_crafter"
 		}]
+	}],
+	rewards: [{
+		uid: "ebb3dba8",
+		type: "item",
+		item: "extendedcrafting:material 1 36",
+		count: 8
 	}]
 }

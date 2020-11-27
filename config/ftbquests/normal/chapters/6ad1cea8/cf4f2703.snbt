@@ -19,5 +19,43 @@
 		items: [{
 			item: "minecraft:brewing_stand"
 		}]
+	}],
+	rewards: [{
+		uid: "28361b8d",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 34
+				}]
+			}
+		}
+	},
+	{
+		uid: "7c2372ec",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 0
+				}]
+			}
+		},
+		count: 4
+	},
+	{
+		uid: "f8f0680c",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:regeneration"
+			}
+		},
+		count: 2
 	}]
 }

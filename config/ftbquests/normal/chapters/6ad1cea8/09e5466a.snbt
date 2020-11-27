@@ -34,5 +34,17 @@
 		items: [{
 			item: "minecraft:nether_star"
 		}]
+	}],
+	rewards: [{
+		uid: "ea6cd7ef",
+		type: "item",
+		item: "minecraft:diamond_block",
+		count: 2
+	},
+	{
+		uid: "09107c89",
+		type: "item",
+		item: "minecraft:emerald_block",
+		count: 2
 	}]
 }

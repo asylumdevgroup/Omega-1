@@ -10,5 +10,16 @@
 		items: [{
 			item: "storagedrawers:drawer_key"
 		}]
+	}],
+	rewards: [{
+		uid: "c9845751",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 4
+	},
+	{
+		uid: "49f04d40",
+		type: "item",
+		item: "storagedrawers:shroud_key"
 	}]
 }
