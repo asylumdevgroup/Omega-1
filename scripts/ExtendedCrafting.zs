@@ -2,10 +2,12 @@
 //By MCAdventureCity
 
 import mods.immersiveengineering.MetalPress;
+import mods.enderio.AlloySmelter;
 
 //Ender Ingot
 recipes.remove(<extendedcrafting:material:36>);
 mods.thermalexpansion.InductionSmelter.addRecipe(<extendedcrafting:material:36>, <enderio:item_alloy_endergy_ingot:2>, <minecraft:ender_eye>, 2000);
+mods.enderio.AlloySmelter.addRecipe(<extendedcrafting:material:36>, [<enderio:item_alloy_endergy_ingot:2>, <minecraft:ender_eye>], 2000);
 
 //Ender Crafter
 recipes.remove(<extendedcrafting:ender_crafter>);
