@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-01-05T02:14:24.3355283Z",
+  "lastPlayed": "2021-01-10T03:28:15.812026Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -46,7 +46,7 @@
   "name": "Omega-XII",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-01-05T02:01:23.5029648Z",
+  "lastPreviousMatchUpdate": "2021-01-10T03:25:29.2015046Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -1759,16 +1759,16 @@
       "addonID": 236307,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3053012,
-        "displayName": "IntegratedDynamics-1.12.2-1.1.10.jar",
-        "fileName": "IntegratedDynamics-1.12.2-1.1.10.jar",
-        "fileDate": "2020-09-09T15:12:25.337Z",
-        "fileLength": 3048593,
+        "id": 3159505,
+        "displayName": "IntegratedDynamics-1.12.2-1.1.11.jar",
+        "fileName": "IntegratedDynamics-1.12.2-1.1.11.jar",
+        "fileDate": "2021-01-05T19:06:41.947Z",
+        "fileLength": 3049509,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3053/12/IntegratedDynamics-1.12.2-1.1.10.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3159/505/IntegratedDynamics-1.12.2-1.1.11.jar",
         "isAlternate": false,
-        "alternateFileId": 3053013,
+        "alternateFileId": 3159506,
         "dependencies": [
           {
             "id": 0,
@@ -1787,7 +1787,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2313805405,
+            "fingerprint": 537974253,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1811,13 +1811,13 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2258868888,
+            "fingerprint": 3003671945,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "org",
-            "fingerprint": 184137149,
+            "fingerprint": 4258081029,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -1828,7 +1828,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3624749342,
+        "packageFingerprint": 1029740924,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -1842,16 +1842,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "IntegratedDynamics-1.12.2-1.1.10.jar"
+        "FileNameOnDisk": "IntegratedDynamics-1.12.2-1.1.11.jar"
       },
       "dateInstalled": "2019-12-02T20:07:36.3551198Z",
-      "dateUpdated": "2020-09-12T20:53:25.4851233Z",
-      "dateLastUpdateAttempted": "2020-09-12T20:53:25.4851233Z",
-      "status": 5,
+      "dateUpdated": "2021-01-10T03:26:14.2057243Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:26:14.2057243Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3451,7 +3451,7 @@
       "dateInstalled": "2019-12-02T20:07:36.3551198Z",
       "dateUpdated": "2021-01-05T02:02:00.2135598Z",
       "dateLastUpdateAttempted": "2021-01-05T02:02:00.2135598Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5614,22 +5614,22 @@
       "addonID": 232758,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3010617,
-        "displayName": "CyclopsCore-1.12.2-1.6.6.jar",
-        "fileName": "CyclopsCore-1.12.2-1.6.6.jar",
-        "fileDate": "2020-07-21T13:14:42.713Z",
-        "fileLength": 1061041,
+        "id": 3159497,
+        "displayName": "CyclopsCore-1.12.2-1.6.7.jar",
+        "fileName": "CyclopsCore-1.12.2-1.6.7.jar",
+        "fileDate": "2021-01-05T19:02:14.62Z",
+        "fileLength": 1060985,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3010/617/CyclopsCore-1.12.2-1.6.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3159/497/CyclopsCore-1.12.2-1.6.7.jar",
         "isAlternate": false,
-        "alternateFileId": 3010618,
+        "alternateFileId": 3159498,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3500728395,
+            "fingerprint": 3328553495,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5641,13 +5641,13 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2126360672,
+            "fingerprint": 980103994,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "org",
-            "fingerprint": 2031553736,
+            "fingerprint": 1204546813,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -5658,7 +5658,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1721348544,
+        "packageFingerprint": 1278380072,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -5672,16 +5672,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CyclopsCore-1.12.2-1.6.6.jar"
+        "FileNameOnDisk": "CyclopsCore-1.12.2-1.6.7.jar"
       },
       "dateInstalled": "2019-12-02T20:07:34.6945592Z",
-      "dateUpdated": "2020-09-12T20:51:38.7726997Z",
-      "dateLastUpdateAttempted": "2020-09-12T20:51:38.7726997Z",
-      "status": 5,
+      "dateUpdated": "2021-01-10T03:25:39.42415Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:25:39.42415Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6848,7 +6848,7 @@
       "dateInstalled": "2021-01-05T02:09:00.0760833Z",
       "dateUpdated": "2021-01-05T02:09:00.0770828Z",
       "dateLastUpdateAttempted": "2021-01-05T02:09:00.0770828Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6857,7 +6857,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278475,
@@ -10102,14 +10102,14 @@
       "addonID": 306770,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3087124,
-        "displayName": "Patchouli-1.0-22.jar",
-        "fileName": "Patchouli-1.0-22.jar",
-        "fileDate": "2020-10-20T02:25:34.58Z",
-        "fileLength": 469651,
+        "id": 3162874,
+        "displayName": "Patchouli-1.0-23.6.jar",
+        "fileName": "Patchouli-1.0-23.6.jar",
+        "fileDate": "2021-01-09T02:35:57.593Z",
+        "fileLength": 472464,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3087/124/Patchouli-1.0-22.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3162/874/Patchouli-1.0-23.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -10117,13 +10117,13 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3436753654,
+            "fingerprint": 411469789,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "vazkii",
-            "fingerprint": 3639936613,
+            "fingerprint": 950327522,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -10135,12 +10135,12 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 4080091747,
+            "fingerprint": 3925067605,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 4185687157,
+        "packageFingerprint": 1284405660,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -10154,21 +10154,106 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Patchouli-1.0-22.jar"
+        "FileNameOnDisk": "Patchouli-1.0-23.6.jar"
       },
       "dateInstalled": "2019-12-02T20:07:38.6220582Z",
-      "dateUpdated": "2020-10-22T02:12:40.0728157Z",
-      "dateLastUpdateAttempted": "2020-10-22T02:12:40.0728157Z",
-      "status": 5,
+      "dateUpdated": "2021-01-10T03:26:28.4079829Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:26:28.4079829Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 400399,
+      "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
+      "installedFile": {
+        "id": 3034074,
+        "displayName": "AdvSolarsPatch 1.1",
+        "fileName": "advsolarpatch-1.1.jar",
+        "fileDate": "2020-08-16T13:52:35.01Z",
+        "fileLength": 44095,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3034/74/advsolarpatch-1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 252714,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2995304507,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mods",
+            "fingerprint": 2059482855,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3775276976,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3665910691,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 354741187,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "advsolarpatch-1.1.jar"
+      },
+      "dateInstalled": "2021-01-10T03:26:52.7998464Z",
+      "dateUpdated": "2021-01-10T03:26:52.8018471Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:26:52.8018471Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 74924,
@@ -10334,7 +10419,7 @@
       "dateInstalled": "2021-01-05T02:09:22.1534393Z",
       "dateUpdated": "2021-01-05T02:09:22.1544386Z",
       "dateLastUpdateAttempted": "2021-01-05T02:09:22.1544386Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10343,7 +10428,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298187,
@@ -11373,14 +11458,14 @@
       "addonID": 239197,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3157829,
-        "displayName": "CraftTweaker2-1.12-4.1.20.608.jar",
-        "fileName": "CraftTweaker2-1.12-4.1.20.608.jar",
-        "fileDate": "2021-01-04T02:55:41.66Z",
-        "fileLength": 1507625,
+        "id": 3159825,
+        "displayName": "CraftTweaker2-1.12-4.1.20.609.jar",
+        "fileName": "CraftTweaker2-1.12-4.1.20.609.jar",
+        "fileDate": "2021-01-06T00:28:21.683Z",
+        "fileLength": 1507696,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3157/829/CraftTweaker2-1.12-4.1.20.608.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3159/825/CraftTweaker2-1.12-4.1.20.609.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -11400,7 +11485,7 @@
           },
           {
             "foldername": "crafttweaker",
-            "fingerprint": 331805669,
+            "fingerprint": 2661148772,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -11418,12 +11503,12 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 391532039,
+            "fingerprint": 2763735210,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 951232971,
+        "packageFingerprint": 3236947210,
         "gameVersion": [
           "1.12.2"
         ],
@@ -11436,11 +11521,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.608.jar"
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.609.jar"
       },
-      "dateInstalled": "2020-12-10T02:40:50.1318384Z",
-      "dateUpdated": "2021-01-05T02:01:55.0096608Z",
-      "dateLastUpdateAttempted": "2021-01-05T02:01:55.0096608Z",
+      "dateInstalled": "2021-01-10T03:25:29.7665059Z",
+      "dateUpdated": "2021-01-10T03:25:29.7685065Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:25:29.7685065Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -11450,7 +11535,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 250277,
@@ -12070,26 +12155,26 @@
       "addonID": 251389,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3053008,
-        "displayName": "IntegratedTunnels-1.12.2-1.6.13.jar",
-        "fileName": "IntegratedTunnels-1.12.2-1.6.13.jar",
-        "fileDate": "2020-09-09T15:12:10.12Z",
-        "fileLength": 498189,
+        "id": 3159511,
+        "displayName": "IntegratedTunnels-1.12.2-1.6.14.jar",
+        "fileName": "IntegratedTunnels-1.12.2-1.6.14.jar",
+        "fileDate": "2021-01-05T19:07:02.5Z",
+        "fileLength": 493503,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3053/8/IntegratedTunnels-1.12.2-1.6.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3159/511/IntegratedTunnels-1.12.2-1.6.14.jar",
         "isAlternate": false,
-        "alternateFileId": 3053009,
+        "alternateFileId": 3159512,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 232758,
+            "addonId": 236307,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 236307,
+            "addonId": 232758,
             "type": 3,
             "fileId": 0
           }
@@ -12098,7 +12183,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2511813211,
+            "fingerprint": 2971060513,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12110,13 +12195,13 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2568918516,
+            "fingerprint": 1132512156,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "org",
-            "fingerprint": 2584662476,
+            "fingerprint": 2851525835,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -12127,7 +12212,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3925058247,
+        "packageFingerprint": 2844918678,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -12141,16 +12226,16 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "IntegratedTunnels-1.12.2-1.6.13.jar"
+        "FileNameOnDisk": "IntegratedTunnels-1.12.2-1.6.14.jar"
       },
       "dateInstalled": "2019-12-02T20:07:36.3541224Z",
-      "dateUpdated": "2020-09-12T20:53:54.502116Z",
-      "dateLastUpdateAttempted": "2020-09-12T20:53:54.502116Z",
-      "status": 5,
+      "dateUpdated": "2021-01-10T03:26:25.3434192Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:26:25.3434192Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -16577,7 +16662,7 @@
       "dateInstalled": "2019-12-02T20:07:33.7341273Z",
       "dateUpdated": "2021-01-05T02:02:10.4100791Z",
       "dateLastUpdateAttempted": "2021-01-05T02:02:10.4100791Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17665,7 +17750,7 @@
       "dateInstalled": "2021-01-05T02:01:17.9121336Z",
       "dateUpdated": "2021-01-05T02:01:17.9201352Z",
       "dateLastUpdateAttempted": "2021-01-05T02:01:17.9201352Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17674,7 +17759,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 243707,
@@ -18440,26 +18525,26 @@
       "addonID": 300777,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 3148241,
-        "displayName": "EmbersRekindled-1.15.jar",
-        "fileName": "EmbersRekindled-1.15.jar",
-        "fileDate": "2020-12-24T16:55:34.343Z",
-        "fileLength": 10167340,
+        "id": 3160299,
+        "displayName": "EmbersRekindled-1.16.jar",
+        "fileName": "EmbersRekindled-1.16.jar",
+        "fileDate": "2021-01-06T14:31:08.11Z",
+        "fileLength": 10167409,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3148/241/EmbersRekindled-1.15.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3160/299/EmbersRekindled-1.16.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 227083,
+            "addonId": 300742,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 300742,
+            "addonId": 227083,
             "type": 2,
             "fileId": 0
           }
@@ -18468,30 +18553,30 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2090388149,
+            "fingerprint": 2279381073,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "teamroots",
-            "fingerprint": 3499594067,
+            "fingerprint": 162135139,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3880104232,
+            "fingerprint": 2403569364,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2001747019,
+            "fingerprint": 3719053816,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1526669941,
+        "packageFingerprint": 1244143927,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -18505,12 +18590,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "EmbersRekindled-1.15.jar"
+        "FileNameOnDisk": "EmbersRekindled-1.16.jar"
       },
       "dateInstalled": "2020-12-25T23:32:06.9583009Z",
-      "dateUpdated": "2020-12-25T23:32:07.1373059Z",
-      "dateLastUpdateAttempted": "2020-12-25T23:32:07.1373059Z",
-      "status": 5,
+      "dateUpdated": "2021-01-10T03:25:53.9213229Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:25:53.9213229Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20806,40 +20891,40 @@
       "addonID": 242638,
       "gameInstanceID": "09521fc7-2fa6-42aa-8703-fe4d51ec4b0e",
       "installedFile": {
-        "id": 2896786,
-        "displayName": "industrialcraft-2-2.8.190-ex112.jar",
-        "fileName": "industrialcraft-2-2.8.190-ex112.jar",
-        "fileDate": "2020-03-08T11:28:25.55Z",
-        "fileLength": 8480302,
+        "id": 3078604,
+        "displayName": "industrialcraft-2-2.8.221-ex112.jar",
+        "fileName": "industrialcraft-2-2.8.221-ex112.jar",
+        "fileDate": "2020-10-13T12:58:31.417Z",
+        "fileLength": 8698109,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2896/786/industrialcraft-2-2.8.190-ex112.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3078/604/industrialcraft-2-2.8.221-ex112.jar",
         "isAlternate": false,
-        "alternateFileId": 2896787,
+        "alternateFileId": 3078605,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 454504582,
+            "fingerprint": 2557480049,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 976580356,
+            "fingerprint": 2686787363,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "ic2",
-            "fingerprint": 2571682876,
+            "fingerprint": 1577051458,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2397940490,
+            "fingerprint": 2380142778,
             "type": 0,
             "invalidFingerprint": false
           },
@@ -20856,7 +20941,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 1850843926,
+        "packageFingerprint": 1700994969,
         "gameVersion": [
           "1.12.2"
         ],
@@ -20869,12 +20954,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "industrialcraft-2-2.8.190-ex112.jar"
+        "FileNameOnDisk": "industrialcraft-2-2.8.221-ex112.jar"
       },
       "dateInstalled": "2021-01-05T02:08:17.3328102Z",
-      "dateUpdated": "2021-01-05T02:08:17.3388121Z",
-      "dateLastUpdateAttempted": "2021-01-05T02:08:17.3388121Z",
-      "status": 3,
+      "dateUpdated": "2021-01-10T03:27:52.8997235Z",
+      "dateLastUpdateAttempted": "2021-01-10T03:27:52.8997235Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20883,7 +20968,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306626,
@@ -21143,7 +21228,7 @@
       "dateInstalled": "2019-12-02T20:07:36.3531249Z",
       "dateUpdated": "2021-01-05T02:01:29.2876874Z",
       "dateLastUpdateAttempted": "2021-01-05T02:01:29.2876874Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
