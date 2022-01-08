@@ -9,3 +9,22 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<contenttweaker:adg_core>, 1
   <simplyjetpacks:metaitemmods:11>, <simplyjetpacks:metaitemmods:30>, <quark:biotite_block>, <mysticalagradditions:storage:1>, <stevescarts:blockmetalstorage:2>,
   <actuallyadditions:block_crystal_empowered:4>, <enderio:block_alloy_endergy:3>, <prodigytech:zorrasteel_block>, <bigreactors:blockludicrite>, <calculator:material:8>, 
   <plustic:osgloglasblock>, <plustic:osmiridiumblock>, <plustic:mirionblock>, <extendedcrafting:storage:4>]);
+
+//Creative Essence
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagradditions:stuff:69> * 4, [
+	[<ore:essenceInsanium>, <ore:plateAbyssalnite>, <ore:materialTheUltimate>, <ore:plateAbyssalnite>, <ore:essenceInsanium>], 
+	[<ore:plateAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:plateAbyssalnite>], 
+	[<ore:materialTheUltimate>, <projecte:matter_block:1>, <contenttweaker:adg_core>, <projecte:matter_block:1>, <ore:materialTheUltimate>], 
+	[<ore:plateAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:plateAbyssalnite>], 
+	[<ore:essenceInsanium>, <ore:plateAbyssalnite>, <ore:materialTheUltimate>, <ore:plateAbyssalnite>, <ore:essenceInsanium>]
+]);
+
+//Creative Modifier
+mods.extendedcrafting.TableCrafting.addShaped(0, <tconstruct:materials:50>, [
+	[<ore:blockPigiron>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockPigiron>], 
+	[<ore:blockAlubrass>, <ore:blockOsgloglas>, <ore:blockManyullyn>, <ore:blockOsgloglas>, <ore:blockAlubrass>], 
+	[<ore:blockAlubrass>, <ore:blockManyullyn>, <mysticalagradditions:stuff:69>, <ore:blockManyullyn>, <ore:blockAlubrass>], 
+	[<ore:blockAlubrass>, <ore:blockMirion>, <ore:blockManyullyn>, <ore:blockMirion>, <ore:blockAlubrass>], 
+	[<ore:blockPigiron>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockPigiron>]
+]);
+
