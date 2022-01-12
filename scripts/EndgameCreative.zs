@@ -28,3 +28,20 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <tconstruct:materials:50>, [
 	[<ore:blockPigiron>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockAlubrass>, <ore:blockPigiron>]
 ]);
 
+//Oak Creative Bookshelf
+mods.extendedcrafting.TableCrafting.addShaped(0, <bibliocraft:bookcasecreative>, [
+	[<ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>], 
+	[<ore:bookshelf>, <tconstruct:materials:18>, <ore:blockMagicalWood>, <tconstruct:materials:18>, <ore:bookshelf>], 
+	[<ore:bookshelf>, <ore:blockMagicalWood>, <mysticalagradditions:stuff:69>, <ore:blockMagicalWood>, <ore:bookshelf>], 
+	[<ore:bookshelf>, <tconstruct:materials:18>, <ore:blockMagicalWood>, <tconstruct:materials:18>, <ore:bookshelf>], 
+	[<ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>]
+]);
+
+//Creative Wireless Crafting Terminal
+mods.extendedcrafting.TableCrafting.addShaped(0, <wct:wct_creative>, [
+	[<threng:material:6>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <threng:material:6>], 
+	[<ore:ingotFluixSteel>, <ae2wtlib:infinity_booster_card>, <mysticalagradditions:stuff:69>, <ae2wtlib:infinity_booster_card>, <ore:ingotFluixSteel>], 
+	[<ore:ingotFluixSteel>, <threng:material:14>, <wct:wct>, <threng:material:14>, <ore:ingotFluixSteel>], 
+	[<ore:ingotFluixSteel>, <ae2wtlib:infinity_booster_card>, <mysticalagradditions:stuff:69>, <ae2wtlib:infinity_booster_card>, <ore:ingotFluixSteel>], 
+	[<threng:material:6>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <threng:material:6>]
+]);

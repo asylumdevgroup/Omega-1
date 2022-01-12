@@ -1,0 +1,15 @@
+{
+	title: "Creative Modifier",
+	x: 3.5d,
+	y: 3.5d,
+	dependencies: [
+		"79507c1e"
+	],
+	tasks: [{
+		uid: "74877f2d",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials 1 50"
+		}]
+	}]
+}

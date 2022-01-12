@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 2.5d,
+	dependencies: [
+		"b34fc191",
+		"644eca30"
+	],
+	tasks: [{
+		uid: "a8e97a1a",
+		type: "item",
+		items: [{
+			item: "packagedexcrafting:combination_crafter"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Essence of Creativity",
+	icon: "mysticalagradditions:stuff 1 69",
+	x: 2.5d,
+	y: 3.5d,
+	text: [
+		"You'll probably want to automate this using your package crafters."
+	],
+	dependencies: [
+		"85c3d297"
+	],
+	tasks: [{
+		uid: "d8d8103f",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:stuff 1 69"
+		}]
+	}]
+}
