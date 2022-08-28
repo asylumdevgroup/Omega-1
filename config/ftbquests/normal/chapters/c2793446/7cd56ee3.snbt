@@ -1,0 +1,54 @@
+{
+	title: "Lower-Tier Capacitors",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "prodigytech:heat_capacitor_0",
+		Damage: 12000s
+	},
+	x: 7.0d,
+	y: 3.5d,
+	dependencies: [
+		"6bbeec5a"
+	],
+	tasks: [{
+		uid: "0cd9ac35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:heat_capacitor_0",
+			Damage: 12000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "188630ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:heat_capacitor_1",
+			Damage: 12000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b30cefb3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:heat_capacitor_2",
+			Damage: 12000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

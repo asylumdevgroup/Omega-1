@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 5.5d,
+	dependencies: [
+		"cebae143"
+	],
+	tasks: [{
+		uid: "7275d9df",
+		type: "item",
+		items: [{
+			item: "prodigytech:primordialis_reactor"
+		}]
+	}]
+}

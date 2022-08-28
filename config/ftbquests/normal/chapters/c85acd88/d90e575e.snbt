@@ -1,0 +1,15 @@
+{
+	icon: "immersiveengineering:wirecoil",
+	x: -0.5d,
+	y: -0.5d,
+	shape: "gear",
+	text: [
+		"This group of chapters focuses on tech-themed mods that are less powerful than others."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "60c57fbe",
+		type: "checkmark",
+		title: "Early Game Tech"
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Prodigy Circuits",
+	icon: "prodigytech:circuit_refined",
+	x: 8.0d,
+	y: 5.5d,
+	dependencies: [
+		"e1167218"
+	],
+	tasks: [{
+		uid: "99c046e4",
+		type: "item",
+		items: [{
+			item: "prodigytech:circuit_crude"
+		}]
+	},
+	{
+		uid: "a5066f45",
+		type: "item",
+		items: [{
+			item: "prodigytech:circuit_refined"
+		}]
+	},
+	{
+		uid: "43c1dd07",
+		type: "item",
+		items: [{
+			item: "prodigytech:circuit_perfected"
+		}]
+	}]
+}

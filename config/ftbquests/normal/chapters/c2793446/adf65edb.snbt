@@ -1,0 +1,15 @@
+{
+	title: "Transporting Hot Air",
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"2668973c"
+	],
+	tasks: [{
+		uid: "f1af8a19",
+		type: "item",
+		items: [{
+			item: "prodigytech:air_funnel"
+		}]
+	}]
+}

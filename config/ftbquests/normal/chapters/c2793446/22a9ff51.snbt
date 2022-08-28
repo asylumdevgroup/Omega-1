@@ -1,0 +1,25 @@
+{
+	title: "Zorrasteel Prep",
+	icon: "prodigytech:zorra_leaf",
+	x: 2.0d,
+	y: 6.5d,
+	dependencies: [
+		"f27f5b9a",
+		"68fd0e4a"
+	],
+	tasks: [{
+		uid: "dd0be07f",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorra_sapling"
+		}]
+	},
+	{
+		uid: "5787f5e5",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorra_leaf"
+		}],
+		count: 16L
+	}]
+}

@@ -1,1 +1,24 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "prodigytech:guide": {
+      "viewedEntries": [
+        "prodigytech:introduction/gettingstarted",
+        "prodigytech:introduction/explosion_furnace",
+        "prodigytech:introduction/explosion_furnace_advanced",
+        "prodigytech:hot_air/hot_air",
+        "prodigytech:hot_air/aeroheaters"
+      ],
+      "bookmarks": [],
+      "history": [
+        "prodigytech:hot_air/aeroheaters",
+        "prodigytech:hot_air/hot_air",
+        "prodigytech:introduction/explosion_furnace_advanced",
+        "prodigytech:introduction/explosion_furnace",
+        "prodigytech:introduction/gettingstarted"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	text: [
+		"The Weaker of the two initially available Aeroheaters, heating air to 80 Degrees Celsius, when placed above a lava source."
+	],
+	dependencies: [
+		"7535aa34"
+	],
+	tasks: [{
+		uid: "3a8b336f",
+		type: "item",
+		items: [{
+			item: "prodigytech:magmatic_aeroheater"
+		}]
+	}]
+}

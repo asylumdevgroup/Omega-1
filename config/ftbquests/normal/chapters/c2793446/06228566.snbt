@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"2668973c"
+	],
+	tasks: [{
+		uid: "b7d27e18",
+		type: "item",
+		items: [{
+			item: "prodigytech:incinerator"
+		}]
+	}]
+}

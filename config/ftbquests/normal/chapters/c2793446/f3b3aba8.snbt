@@ -1,0 +1,21 @@
+{
+	title: "Starting Off With A Boom!",
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"d342eb55"
+	],
+	tasks: [{
+		uid: "4fbdebc8",
+		type: "item",
+		items: [{
+			item: "prodigytech:explosion_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "ba85d3f2",
+		type: "item",
+		item: "minecraft:gunpowder",
+		count: 16
+	}]
+}

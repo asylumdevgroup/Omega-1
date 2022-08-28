@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: 0.5d,
+	text: [
+		"The stronger of the two initially available Aeroheaters, heating air to 200 Degrees Celsius when fed with furnace fuel."
+	],
+	dependencies: [
+		"7535aa34"
+	],
+	tasks: [{
+		uid: "e42e1dff",
+		type: "item",
+		items: [{
+			item: "prodigytech:solid_fuel_aeroheater"
+		}]
+	}],
+	rewards: [{
+		uid: "9245909c",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 32
+	}]
+}

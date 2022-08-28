@@ -1,0 +1,27 @@
+{
+	title: "Tartaric Aeroheater",
+	icon: "prodigytech:tartaric_aeroheater",
+	x: 2.0d,
+	y: 3.5d,
+	text: [
+		"The Final Aeroheater, which consumes furnace fuels and Tartaric Stoker to heat air to 1000 Degrees Celsius."
+	],
+	dependencies: [
+		"06228566",
+		"19c39417"
+	],
+	tasks: [{
+		uid: "09098e06",
+		type: "item",
+		items: [{
+			item: "prodigytech:tartaric_stoker"
+		}]
+	},
+	{
+		uid: "d7fa7907",
+		type: "item",
+		items: [{
+			item: "prodigytech:tartaric_aeroheater"
+		}]
+	}]
+}

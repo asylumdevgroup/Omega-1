@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 6.5d,
+	text: [
+		"The Third Aeroheater, fed with Energion Dust to heat air to 250 Degrees Celsius."
+	],
+	dependencies: [
+		"aac0d8aa"
+	],
+	tasks: [{
+		uid: "16a3911a",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_aeroheater"
+		}]
+	}]
+}

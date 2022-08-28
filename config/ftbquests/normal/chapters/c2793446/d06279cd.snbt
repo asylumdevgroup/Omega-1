@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 3.5d,
+	dependencies: [
+		"19c39417",
+		"d0f31f5c"
+	],
+	tasks: [{
+		uid: "641e9015",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:heat_capacitor_3",
+			Damage: 12000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

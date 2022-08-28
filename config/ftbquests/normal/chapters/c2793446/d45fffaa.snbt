@@ -1,0 +1,30 @@
+{
+	title: "Extracting Hot Air",
+	icon: "prodigytech:linear_extractor",
+	x: 10.5d,
+	y: -0.5d,
+	dependencies: [
+		"adf65edb"
+	],
+	tasks: [{
+		uid: "6985a73a",
+		type: "item",
+		items: [{
+			item: "prodigytech:linear_extractor"
+		}]
+	},
+	{
+		uid: "54116609",
+		type: "item",
+		items: [{
+			item: "prodigytech:funnelling_extractor"
+		}]
+	},
+	{
+		uid: "f5d508f6",
+		type: "item",
+		items: [{
+			item: "prodigytech:dispersing_extractor"
+		}]
+	}]
+}

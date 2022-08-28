@@ -1,0 +1,23 @@
+{
+	title: "Hot Air Metal Mk. II",
+	icon: "prodigytech:zorrasteel_ingot",
+	x: -0.5d,
+	y: 6.5d,
+	dependencies: [
+		"22a9ff51"
+	],
+	tasks: [{
+		uid: "64137bd2",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorrasteel_raw"
+		}]
+	},
+	{
+		uid: "6af70655",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorrasteel_ingot"
+		}]
+	}]
+}

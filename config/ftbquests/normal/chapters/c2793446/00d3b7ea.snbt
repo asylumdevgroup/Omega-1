@@ -1,0 +1,29 @@
+{
+	title: "Transporting Hot Air Wirelessly!",
+	icon: "prodigytech:wormhole_funnel",
+	x: 10.5d,
+	y: 0.5d,
+	dependencies: [
+		"adf65edb",
+		"55b1e2f7"
+	],
+	tasks: [{
+		uid: "165f9122",
+		type: "item",
+		items: [{
+			item: "prodigytech:wormhole_funnel"
+		}]
+	},
+	{
+		uid: "4e7cd3dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "prodigytech:wormhole_linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

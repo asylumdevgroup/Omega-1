@@ -1,0 +1,7 @@
+{
+	title: "Prodigy Tech",
+	icon: "prodigytech:ferramic_ingot",
+	always_invisible: false,
+	group: -933573240,
+	default_quest_shape: ""
+}

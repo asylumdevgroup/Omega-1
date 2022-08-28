@@ -1,0 +1,29 @@
+{
+	title: "Growing Energion",
+	icon: "prodigytech:energion_crystal_seed",
+	x: 7.0d,
+	y: 6.5d,
+	dependencies: [
+		"07e4484b"
+	],
+	tasks: [{
+		uid: "1d9f6cfc",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_dust"
+		}]
+	},
+	{
+		uid: "3b7cd9a4",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_crystal_seed"
+		}]
+	}],
+	rewards: [{
+		uid: "cb013785",
+		type: "item",
+		item: "prodigytech:energion_dust",
+		count: 4
+	}]
+}

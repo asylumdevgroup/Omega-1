@@ -1,0 +1,16 @@
+{
+	title: "Primordium",
+	x: 2.0d,
+	y: 5.5d,
+	dependencies: [
+		"f0565274"
+	],
+	tasks: [{
+		uid: "50014a16",
+		type: "item",
+		items: [{
+			item: "prodigytech:primordium"
+		}],
+		count: 8L
+	}]
+}

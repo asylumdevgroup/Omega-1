@@ -1,0 +1,12 @@
+{
+	title: "Unlock Prodigy Tech",
+	x: -0.5d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "069758bc",
+		type: "checkmark",
+		icon: "prodigytech:explosion_furnace"
+	}]
+}

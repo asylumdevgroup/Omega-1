@@ -1,0 +1,7 @@
+{
+	title: "Early Tech",
+	icon: "immersiveengineering:wirecoil",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

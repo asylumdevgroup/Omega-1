@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 6.5d,
+	can_repeat: true,
+	dependencies: [
+		"55b1e2f7"
+	],
+	tasks: [{
+		uid: "625db963",
+		type: "item",
+		items: [{
+			item: "prodigytech:magnetic_reassembler"
+		}]
+	}]
+}

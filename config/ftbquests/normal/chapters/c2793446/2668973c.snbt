@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"e7835d3c",
+		"7e819dae"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "cf1edc3c",
+		type: "checkmark",
+		title: "First Hot Air Machines",
+		icon: "prodigytech:rotary_grinder"
+	}]
+}
