@@ -18,10 +18,10 @@
 		uid: "4e7cd3dd",
 		type: "item",
 		items: [{
+			id: "prodigytech:wormhole_linker",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "prodigytech:wormhole_linker"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

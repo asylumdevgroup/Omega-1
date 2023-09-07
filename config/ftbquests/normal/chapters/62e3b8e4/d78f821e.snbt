@@ -15,10 +15,10 @@
 		uid: "decd1cc9",
 		type: "item",
 		item: {
+			id: "ironchest:copper_silver_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:copper_silver_chest_upgrade"
+			}
 		},
 		count: 2
 	}]

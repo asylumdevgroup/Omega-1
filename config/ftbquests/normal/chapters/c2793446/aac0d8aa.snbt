@@ -1,10 +1,10 @@
 {
 	title: "Harvesting Energion",
 	icon: {
+		id: "prodigytech:crystal_cutter",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "prodigytech:crystal_cutter"
+		}
 	},
 	x: 6.0d,
 	y: 6.5d,
@@ -15,10 +15,10 @@
 		uid: "21eb0e9d",
 		type: "item",
 		items: [{
+			id: "prodigytech:crystal_cutter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "prodigytech:crystal_cutter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

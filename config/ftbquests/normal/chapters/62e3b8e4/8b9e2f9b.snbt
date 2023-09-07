@@ -24,10 +24,10 @@
 		uid: "c3ac0ad7",
 		type: "item",
 		items: [{
+			id: "yabba:hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "yabba:hammer"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -36,20 +36,20 @@
 		uid: "4fd80f76",
 		type: "item",
 		item: {
+			id: "yabba:painter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "yabba:painter"
+			}
 		}
 	},
 	{
 		uid: "b5ee5581",
 		type: "item",
 		item: {
+			id: "yabba:wrench",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "yabba:wrench"
+			}
 		}
 	}]
 }

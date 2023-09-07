@@ -16,10 +16,10 @@
 		uid: "778e841a",
 		type: "item",
 		item: {
+			id: "ironchest:wood_iron_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:wood_iron_chest_upgrade"
+			}
 		},
 		count: 2
 	}]

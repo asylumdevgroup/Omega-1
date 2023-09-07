@@ -1,11 +1,11 @@
 {
 	title: "Alchemical Beginnings",
 	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {},
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "projecte:item.pe_philosophers_stone",
-		tag: {}
+		}
 	},
 	x: -1.5d,
 	y: 0.5d,
@@ -16,11 +16,11 @@
 		uid: "4932edef",
 		type: "item",
 		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {},
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "projecte:item.pe_philosophers_stone",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

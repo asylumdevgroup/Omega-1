@@ -26,10 +26,10 @@
 		uid: "9d347ea7",
 		type: "item",
 		items: [{
+			id: "minecraft:iron_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:iron_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

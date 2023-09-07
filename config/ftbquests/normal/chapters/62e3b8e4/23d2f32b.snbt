@@ -15,10 +15,10 @@
 		uid: "5cdfe7e3",
 		type: "item",
 		item: {
+			id: "ironchest:diamond_obsidian_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:diamond_obsidian_chest_upgrade"
+			}
 		}
 	}]
 }

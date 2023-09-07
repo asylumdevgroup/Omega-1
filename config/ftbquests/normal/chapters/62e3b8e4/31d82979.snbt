@@ -1,10 +1,10 @@
 {
 	title: "Barrel Upgrades",
 	icon: {
+		id: "yabba:upgrade_star_tier",
 		ForgeCaps: {
 			Parent: {}
-		},
-		id: "yabba:upgrade_star_tier"
+		}
 	},
 	x: -4.5d,
 	y: -0.5d,
@@ -15,40 +15,40 @@
 		uid: "bb4596f2",
 		type: "item",
 		items: [{
+			id: "yabba:upgrade_iron_tier",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "yabba:upgrade_iron_tier"
+			}
 		}]
 	},
 	{
 		uid: "d4c79feb",
 		type: "item",
 		items: [{
+			id: "yabba:upgrade_gold_tier",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "yabba:upgrade_gold_tier"
+			}
 		}]
 	},
 	{
 		uid: "aaed87a6",
 		type: "item",
 		items: [{
+			id: "yabba:upgrade_diamond_tier",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "yabba:upgrade_diamond_tier"
+			}
 		}]
 	},
 	{
 		uid: "4ac161c2",
 		type: "item",
 		items: [{
+			id: "yabba:upgrade_star_tier",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "yabba:upgrade_star_tier"
+			}
 		}]
 	}]
 }

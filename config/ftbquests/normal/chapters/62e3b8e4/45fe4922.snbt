@@ -15,10 +15,10 @@
 		uid: "16f8dcc3",
 		type: "item",
 		item: {
+			id: "ironchest:iron_gold_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:iron_gold_chest_upgrade"
+			}
 		},
 		count: 2
 	},
@@ -26,10 +26,10 @@
 		uid: "3fde86be",
 		type: "item",
 		item: {
+			id: "ironchest:silver_gold_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:silver_gold_chest_upgrade"
+			}
 		},
 		count: 2
 	}]

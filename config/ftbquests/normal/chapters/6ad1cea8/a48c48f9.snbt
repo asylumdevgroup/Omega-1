@@ -11,13 +11,13 @@
 		type: "item",
 		title: "Any logWood",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "logWood",
-					id: "ore"
+					id: "ore",
+					data: "logWood"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 8L
 	},
@@ -26,13 +26,13 @@
 		type: "item",
 		title: "Any plankWood",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "plankWood",
-					id: "ore"
+					id: "ore",
+					data: "plankWood"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 16L
 	},
@@ -47,10 +47,10 @@
 		uid: "2a5616d8",
 		type: "item",
 		items: [{
+			id: "minecraft:wooden_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

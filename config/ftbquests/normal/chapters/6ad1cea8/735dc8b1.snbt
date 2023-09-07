@@ -25,10 +25,10 @@
 		uid: "bed52a9a",
 		type: "item",
 		items: [{
+			id: "minecraft:stone_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -37,10 +37,10 @@
 		uid: "8c457ec4",
 		type: "item",
 		items: [{
+			id: "minecraft:stone_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,10 +49,10 @@
 		uid: "59820190",
 		type: "item",
 		items: [{
+			id: "minecraft:stone_axe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_axe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -61,10 +61,10 @@
 		uid: "a13e4c9f",
 		type: "item",
 		items: [{
+			id: "minecraft:stone_shovel",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_shovel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

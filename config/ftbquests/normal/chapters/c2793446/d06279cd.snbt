@@ -9,11 +9,11 @@
 		uid: "641e9015",
 		type: "item",
 		items: [{
+			id: "prodigytech:heat_capacitor_3",
+			Damage: 12000s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "prodigytech:heat_capacitor_3",
-			Damage: 12000s
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

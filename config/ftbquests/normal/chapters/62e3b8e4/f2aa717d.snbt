@@ -15,10 +15,10 @@
 		uid: "f14ffa50",
 		type: "item",
 		item: {
+			id: "ironchest:diamond_crystal_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:diamond_crystal_chest_upgrade"
+			}
 		}
 	}]
 }

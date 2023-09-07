@@ -8,14 +8,14 @@
 		uid: "50778a1d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalinnovation:magnet",
+			Damage: 32000s,
 			tag: {
 				Energy: 600000
 			},
-			Damage: 32000s
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}],
 		ignore_nbt: 1b
 	}]

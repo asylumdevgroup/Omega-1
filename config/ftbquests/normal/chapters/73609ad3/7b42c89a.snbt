@@ -1,11 +1,11 @@
 {
 	title: "Cooking Books",
 	icon: {
+		id: "cookingforblockheads:recipe_book",
+		Damage: 2s,
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "cookingforblockheads:recipe_book",
-		Damage: 2s
+		}
 	},
 	x: -3.5d,
 	y: -2.0d,
@@ -16,11 +16,11 @@
 		uid: "e10373ec",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:recipe_book",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cookingforblockheads:recipe_book",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -28,11 +28,11 @@
 		uid: "1e9421df",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:recipe_book",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cookingforblockheads:recipe_book",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

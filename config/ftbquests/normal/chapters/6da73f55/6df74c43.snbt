@@ -1,10 +1,10 @@
 {
 	title: "Starting Mystical Agriculture",
 	icon: {
+		id: "mysticalagriculture:infusion_crystal",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "mysticalagriculture:infusion_crystal"
+		}
 	},
 	x: -1.5d,
 	y: -0.5d,
@@ -15,10 +15,10 @@
 		uid: "3204cb29",
 		type: "item",
 		items: [{
+			id: "mysticalagriculture:infusion_crystal",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mysticalagriculture:infusion_crystal"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

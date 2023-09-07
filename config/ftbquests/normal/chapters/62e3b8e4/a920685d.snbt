@@ -17,10 +17,10 @@
 		uid: "7f750f0c",
 		type: "item",
 		item: {
+			id: "ironchest:gold_diamond_chest_upgrade",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ironchest:gold_diamond_chest_upgrade"
+			}
 		},
 		count: 2
 	}]

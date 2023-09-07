@@ -8,13 +8,13 @@
 		uid: "96cae4a0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "simplyjetpacks:itemjetpack",
 			tag: {
 				Energy: 200000,
 				JetpackParticleType: 0
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 1b

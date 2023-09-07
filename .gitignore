@@ -43,3 +43,7 @@ config/brandon3055/ResourceCache/
 crash-reports/
 
 screenshots/
+
+*.dll
+
+vintagefix/

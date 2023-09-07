@@ -1,10 +1,10 @@
 {
 	title: "Portable Vanilla Storage",
 	icon: {
+		id: "minecraft:purple_shulker_box",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "minecraft:purple_shulker_box"
+		}
 	},
 	x: 3.0d,
 	y: -6.0d,
@@ -23,10 +23,10 @@
 		uid: "d2bcbe6e",
 		type: "item",
 		items: [{
+			id: "minecraft:purple_shulker_box",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:purple_shulker_box"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -16,13 +16,13 @@
 		type: "item",
 		title: "Any drawerBasic",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "drawerBasic",
-					id: "ore"
+					id: "ore",
+					data: "drawerBasic"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}]
 	},
 	{
@@ -37,10 +37,10 @@
 		type: "item",
 		item: {
 			id: "storagedrawers:basicdrawers",
+			Damage: 2s,
 			tag: {
 				material: "oak"
-			},
-			Damage: 2s
+			}
 		},
 		count: 4
 	}]

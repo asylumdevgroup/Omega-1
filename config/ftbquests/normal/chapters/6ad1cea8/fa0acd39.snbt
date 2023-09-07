@@ -10,10 +10,10 @@
 		uid: "bcf4b093",
 		type: "item",
 		items: [{
+			id: "minecraft:stone_hoe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_hoe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

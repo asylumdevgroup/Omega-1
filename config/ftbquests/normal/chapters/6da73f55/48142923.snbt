@@ -8,15 +8,15 @@
 		uid: "b4cbc249",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalinnovation:drill",
+			Damage: 32000s,
 			tag: {
 				Energy: 600000,
 				Mode: 4
 			},
-			Damage: 32000s
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}],
 		ignore_nbt: 1b
 	}]

@@ -12,20 +12,20 @@
 		uid: "bdda9ee9",
 		type: "checkmark",
 		icon: {
+			id: "minecraft:lava_bucket",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:lava_bucket"
+			}
 		}
 	}],
 	rewards: [{
 		uid: "a668a6b3",
 		type: "item",
 		item: {
+			id: "minecraft:lava_bucket",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:lava_bucket"
+			}
 		},
 		count: 2
 	}]
