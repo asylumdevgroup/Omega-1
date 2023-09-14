@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 4.5d,
+	dependencies: [
+		"79507c1e"
+	],
+	tasks: [{
+		uid: "c9c2dd7f",
+		type: "item",
+		items: [{
+			item: "simplesponge:creative_sponge"
+		}]
+	}]
+}

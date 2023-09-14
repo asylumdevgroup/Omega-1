@@ -4,8 +4,7 @@
 	x: 1.5d,
 	y: 3.5d,
 	text: [
-		"You've crafted the ADG Core, is this the end of the pack? Well, it can be, but the ADG Core can also be used to craft several creative items.",
-		"(NOTE: Creative Items are not currently craftable yet. That will come in Version 4.3.0, coming Christmas.)"
+		"You've crafted the ADG Core, is this the end of the pack? Well, it can be, but the ADG Core can also be used to craft several creative items."
 	],
 	dependencies: [
 		"b34fc191"

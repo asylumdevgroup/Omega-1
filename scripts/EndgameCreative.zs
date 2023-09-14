@@ -12,11 +12,11 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<contenttweaker:adg_core>, 1
 
 //Creative Essence
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagradditions:stuff:69> * 4, [
-	[<ore:essenceInsanium>, <ore:plateAbyssalnite>, <ore:materialTheUltimate>, <ore:plateAbyssalnite>, <ore:essenceInsanium>], 
-	[<ore:plateAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:plateAbyssalnite>], 
+	[<ore:essenceInsanium>, <ore:crystalAbyssalnite>, <ore:materialTheUltimate>, <ore:crystalAbyssalnite>, <ore:essenceInsanium>], 
+	[<ore:crystalAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:crystalAbyssalnite>], 
 	[<ore:materialTheUltimate>, <projecte:matter_block:1>, <contenttweaker:adg_core>, <projecte:matter_block:1>, <ore:materialTheUltimate>], 
-	[<ore:plateAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:plateAbyssalnite>], 
-	[<ore:essenceInsanium>, <ore:plateAbyssalnite>, <ore:materialTheUltimate>, <ore:plateAbyssalnite>, <ore:essenceInsanium>]
+	[<ore:crystalAbyssalnite>, <ore:ingotMelodicAlloy>, <projecte:matter_block:1>, <ore:ingotMelodicAlloy>, <ore:crystalAbyssalnite>], 
+	[<ore:essenceInsanium>, <ore:crystalAbyssalnite>, <ore:materialTheUltimate>, <ore:crystalAbyssalnite>, <ore:essenceInsanium>]
 ]);
 
 //Creative Modifier
@@ -35,13 +35,4 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <bibliocraft:bookcasecreative>,
 	[<ore:bookshelf>, <ore:blockMagicalWood>, <mysticalagradditions:stuff:69>, <ore:blockMagicalWood>, <ore:bookshelf>], 
 	[<ore:bookshelf>, <tconstruct:materials:18>, <ore:blockMagicalWood>, <tconstruct:materials:18>, <ore:bookshelf>], 
 	[<ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>]
-]);
-
-//Creative Wireless Crafting Terminal
-mods.extendedcrafting.TableCrafting.addShaped(0, <wct:wct_creative>, [
-	[<threng:material:6>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <threng:material:6>], 
-	[<ore:ingotFluixSteel>, <ae2wtlib:infinity_booster_card>, <mysticalagradditions:stuff:69>, <ae2wtlib:infinity_booster_card>, <ore:ingotFluixSteel>], 
-	[<ore:ingotFluixSteel>, <threng:material:14>, <wct:wct>, <threng:material:14>, <ore:ingotFluixSteel>], 
-	[<ore:ingotFluixSteel>, <ae2wtlib:infinity_booster_card>, <mysticalagradditions:stuff:69>, <ae2wtlib:infinity_booster_card>, <ore:ingotFluixSteel>], 
-	[<threng:material:6>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <ore:ingotFluixSteel>, <threng:material:6>]
 ]);
