@@ -36,3 +36,45 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <bibliocraft:bookcasecreative>,
 	[<ore:bookshelf>, <tconstruct:materials:18>, <ore:blockMagicalWood>, <tconstruct:materials:18>, <ore:bookshelf>], 
 	[<ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>, <ore:bookshelf>]
 ]);
+
+//Creative Sponge
+mods.extendedcrafting.TableCrafting.addShaped(0, <simplesponge:creative_sponge>, [
+	[<simplesponge:magmatic_sponge>, <openblocks:sponge>, <openblocks:sponge>, <openblocks:sponge>, <simplesponge:magmatic_sponge>], 
+	[<openblocks:sponge>, <simplesponge:magmatic_sponge>, <minecraft:sponge>, <simplesponge:magmatic_sponge>, <openblocks:sponge>], 
+	[<openblocks:sponge>, <minecraft:sponge>, <mysticalagradditions:stuff:69>, <minecraft:sponge>, <openblocks:sponge>], 
+	[<openblocks:sponge>, <simplesponge:magmatic_sponge>, <minecraft:sponge>, <simplesponge:magmatic_sponge>, <openblocks:sponge>], 
+	[<simplesponge:magmatic_sponge>, <openblocks:sponge>, <openblocks:sponge>, <openblocks:sponge>, <simplesponge:magmatic_sponge>]
+]);
+
+//Creative Model Learner
+mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model_learner>, [
+	[<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_redstone>], 
+	[<deepmoblearning:soot_covered_plate>, <deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:soot_covered_plate>], 
+	[<deepmoblearning:soot_covered_plate>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_blank>, <bibliocraft:bookcasecreative>, <deepmoblearning:data_model_blank>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:soot_covered_plate>], 
+	[<deepmoblearning:soot_covered_plate>, <deepmoblearning:glitch_infused_ingot>, <bibliocraft:bookcasecreative>, <mysticalagradditions:stuff:69>, <bibliocraft:bookcasecreative>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:soot_covered_plate>], 
+	[<deepmoblearning:soot_covered_plate>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:data_model_blank>, <bibliocraft:bookcasecreative>, <deepmoblearning:data_model_blank>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:soot_covered_plate>], 
+	[<deepmoblearning:soot_covered_plate>, <deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:glitch_infused_ingot>, <deepmoblearning:living_matter_extraterrestrial>, <deepmoblearning:soot_covered_plate>], 
+	[<deepmoblearning:soot_covered_redstone>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_plate>, <deepmoblearning:soot_covered_redstone>]
+]);
+
+// Creative Spikes
+mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:spike_creative>, [
+	[null, null, null, <draconicevolution:draconic_staff_of_power>, null, null, null], 
+	[null, null, <projecte:item.pe_rm_morning_star>, <ore:ingotEvilMetal>, <projecte:item.pe_rm_katar>, null, null], 
+	[null, <ore:dustLunar>, <ore:ingotEvilMetal>, <tconstruct:materials:50>, <ore:ingotEvilMetal>, <ore:dustLunar>, null], 
+	[<ore:dustLunar>, <ore:ingotEvilMetal>, <tconstruct:materials:50>, <mysticalagradditions:stuff:69>, <tconstruct:materials:50>, <ore:ingotEvilMetal>, <ore:dustLunar>], 
+	[<ore:dustLunar>, <ore:ingotDemonicMetal>, <ore:ingotDemonicMetal>, <tconstruct:materials:50>, <ore:ingotDemonicMetal>, <ore:ingotDemonicMetal>, <ore:dustLunar>], 
+	[<ore:dustLunar>, <ore:ingotEnchantedMetal>, <ore:ingotEnchantedMetal>, <ore:ingotEnchantedMetal>, <ore:ingotEnchantedMetal>, <ore:ingotEnchantedMetal>, <ore:dustLunar>], 
+	[<extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>]
+]);
+
+// Creative /dank/null
+mods.extendedcrafting.TableCrafting.addShaped(0, <danknull:dank_null_6>, [
+	[<danknull:danknull_dock>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <danknull:danknull_dock>], 
+	[<ore:blockGlassPurple>, <danknull:dank_null_panel_4>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_4>, <ore:blockGlassPurple>], 
+	[<ore:blockGlassPurple>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_3>, <simplesponge:creative_sponge>, <danknull:dank_null_panel_3>, <danknull:dank_null_panel_5>, <ore:blockGlassPurple>], 
+	[<ore:blockGlassPurple>, <danknull:dank_null_panel_5>, <simplesponge:creative_sponge>, <mysticalagradditions:stuff:69>, <simplesponge:creative_sponge>, <danknull:dank_null_panel_5>, <ore:blockGlassPurple>], 
+	[<ore:blockGlassPurple>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_3>, <simplesponge:creative_sponge>, <danknull:dank_null_panel_3>, <danknull:dank_null_panel_5>, <ore:blockGlassPurple>], 
+	[<ore:blockGlassPurple>, <danknull:dank_null_panel_4>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_4>, <ore:blockGlassPurple>], 
+	[<danknull:danknull_dock>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <danknull:danknull_dock>]
+]);
