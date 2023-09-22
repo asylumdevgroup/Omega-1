@@ -12,9 +12,6 @@
 			tag: {
 				mana: 500000,
 				creative: 1b
-			},
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

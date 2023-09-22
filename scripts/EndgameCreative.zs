@@ -5,7 +5,7 @@
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<contenttweaker:adg_core>, 100000000, <draconicevolution:chaotic_core>,
  [<astralsorcery:itemcraftingcomponent:4>, <bloodarsenal:blood_diamond:2>, <extrautils2:opinium:8>, <projecte:item.pe_klein_star:5>, <botania:manaresource:14>, 
-  <extracells:storage.component:3>, <danknull:dank_null_panel_5>, <mekanism:atomicalloy>, <armorplus:material:4>, 
+  <aeadditions:storage.component:3>, <danknull:dank_null_panel_5>, <mekanism:atomicalloy>, <armorplus:material:4>, 
   <simplyjetpacks:metaitemmods:11>, <simplyjetpacks:metaitemmods:30>, <quark:biotite_block>, <mysticalagradditions:storage:1>, <stevescarts:blockmetalstorage:2>,
   <actuallyadditions:block_crystal_empowered:4>, <enderio:block_alloy_endergy:3>, <prodigytech:zorrasteel_block>, <bigreactors:blockludicrite>, <calculator:material:8>, 
   <plustic:osgloglasblock>, <plustic:osmiridiumblock>, <plustic:mirionblock>, <extendedcrafting:storage:4>]);
@@ -58,7 +58,7 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <deepmoblearning:creative_model
 ]);
 
 // Creative Spikes
-mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:spike_creative>, [
+mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:spike_creative> * 4, [
 	[null, null, null, <draconicevolution:draconic_staff_of_power>, null, null, null], 
 	[null, null, <projecte:item.pe_rm_morning_star>, <ore:ingotEvilMetal>, <projecte:item.pe_rm_katar>, null, null], 
 	[null, <ore:dustLunar>, <ore:ingotEvilMetal>, <tconstruct:materials:50>, <ore:ingotEvilMetal>, <ore:dustLunar>, null], 
@@ -77,4 +77,26 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <danknull:dank_null_6>, [
 	[<ore:blockGlassPurple>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_3>, <simplesponge:creative_sponge>, <danknull:dank_null_panel_3>, <danknull:dank_null_panel_5>, <ore:blockGlassPurple>], 
 	[<ore:blockGlassPurple>, <danknull:dank_null_panel_4>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_4>, <ore:blockGlassPurple>], 
 	[<danknull:danknull_dock>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <ore:blockGlassPurple>, <danknull:danknull_dock>]
+]);
+
+// Creative Destruction Wand
+mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:itemcreativedestructionwand>, [
+	[null, null, null, <extrautils2:spike_creative>, null, <ore:ingotUnstable>, <extrautils2:itemdestructionwand>], 
+	[null, null, null, <extrautils2:spike_creative>, <ore:dustLunar>, <ore:stickEnderium>, <ore:ingotUnstable>], 
+	[null, null, null, <ore:dustLunar>, <ore:stickEnderium>, <ore:dustLunar>, null], 
+	[null, null, <ore:dustLunar>, <ore:stickEnderium>, <ore:dustLunar>, <extrautils2:spike_creative>, <extrautils2:spike_creative>], 
+	[null, <ore:coalPowered>, <ore:stickEnderium>, <ore:dustLunar>, null, null, null], 
+	[<ore:coalPowered>, <ore:stickEnderium>, <ore:coalPowered>, null, null, null, null], 
+	[<danknull:dank_null_6>, <ore:coalPowered>, null, null, null, null, null]
+]);
+
+// Creative Builders Wand
+mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:itemcreativebuilderswand>, [
+	[null, null, null, <extrautils2:spike_creative>, <extrautils2:spike_creative>, <ore:ingotUnstable>, <extrautils2:itembuilderswand>], 
+	[null, null, null, null, <ore:dustLunar>, <ore:stickEnderium>, <ore:ingotUnstable>], 
+	[null, null, null, <ore:dustLunar>, <ore:stickEnderium>, <ore:dustLunar>, <extrautils2:spike_creative>], 
+	[null, null, <ore:dustLunar>, <ore:stickEnderium>, <ore:dustLunar>, null, <extrautils2:spike_creative>], 
+	[null, <ore:coalPowered>, <ore:stickEnderium>, <ore:dustLunar>, null, null, null], 
+	[<ore:coalPowered>, <ore:stickEnderium>, <ore:coalPowered>, null, null, null, null], 
+	[<danknull:dank_null_6>, <ore:coalPowered>, null, null, null, null, null]
 ]);
