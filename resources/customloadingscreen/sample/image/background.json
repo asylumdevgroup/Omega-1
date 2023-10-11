@@ -1,6 +1,6 @@
 {
     "parent": "builtin/image",
-    "image": "mainmenu:bg-load.png",
+    "image": "mainmenu:bg_loading.png",
     "position_type": "TOP_LEFT",
     "offset_pos": "TOP_LEFT",
     "colour": "0xFF_60_60_60",
