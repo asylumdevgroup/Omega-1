@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "6fac1959",
+		type: "checkmark",
+		title: "Mid Game Tech",
+		icon: "thermalexpansion:frame"
+	}]
+}

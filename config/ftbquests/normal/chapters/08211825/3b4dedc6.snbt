@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "a3b26a79",
+		type: "checkmark",
+		title: "Late Game Tech",
+		icon: "mekanism:basicblock 1 8"
+	}]
+}

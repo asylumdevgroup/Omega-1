@@ -100,3 +100,64 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:itemcreativebuilde
 	[<ore:coalPowered>, <ore:stickEnderium>, <ore:coalPowered>, null, null, null, null], 
 	[<danknull:dank_null_6>, <ore:coalPowered>, null, null, null, null, null]
 ]);
+
+// Creative Ember Source
+mods.extendedcrafting.TableCrafting.addShaped(0, <embers:creative_ember_source>, [
+	[<ore:plateDawnstone>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <ore:plateDawnstone>], 
+	[<embers:archaic_bricks>, <embers:copper_cell>, <embers:ember_cluster>, <embers:ember_cluster>, <embers:ember_cluster>, <embers:copper_cell>, <embers:archaic_bricks>], 
+	[<embers:archaic_bricks>, <embers:ember_cluster>, <ore:plateDawnstone>, <mysticalagradditions:stuff:69>, <ore:plateDawnstone>, <embers:ember_cluster>, <embers:archaic_bricks>], 
+	[<embers:archaic_bricks>, <embers:ember_cluster>, <mysticalagradditions:stuff:69>, <embers:wildfire_core>, <mysticalagradditions:stuff:69>, <embers:ember_cluster>, <embers:archaic_bricks>], 
+	[<embers:archaic_bricks>, <embers:ember_cluster>, <ore:plateDawnstone>, <mysticalagradditions:stuff:69>, <ore:plateDawnstone>, <embers:ember_cluster>, <embers:archaic_bricks>], 
+	[<embers:archaic_bricks>, <embers:copper_cell>, <embers:ember_cluster>, <embers:ember_cluster>, <embers:ember_cluster>, <embers:copper_cell>, <embers:archaic_bricks>], 
+	[<ore:plateDawnstone>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <embers:archaic_bricks>, <ore:plateDawnstone>]
+]);
+
+// Creative Compressor
+mods.extendedcrafting.TableCrafting.addShaped(0, <pneumaticcraft:creative_compressor>, [
+	[<pneumaticcraft:advanced_pcb>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <pneumaticcraft:advanced_pcb>], 
+	[<ore:plateIronCompressed>, <pneumaticcraft:advanced_air_compressor>, <pneumaticcraft:advanced_pressure_tube>, <pneumaticcraft:advanced_liquid_compressor>, <pneumaticcraft:advanced_pressure_tube>, <pneumaticcraft:advanced_air_compressor>, <ore:plateIronCompressed>], 
+	[<ore:plateIronCompressed>, <pneumaticcraft:advanced_pressure_tube>, <mysticalagradditions:stuff:69>, <ore:gearIronCompressed>, <mysticalagradditions:stuff:69>, <pneumaticcraft:advanced_pressure_tube>, <ore:plateIronCompressed>], 
+	[<ore:plateIronCompressed>, <pneumaticcraft:advanced_liquid_compressor>, <ore:gearIronCompressed>, <pneumaticcraft:flux_compressor>, <ore:gearIronCompressed>, <pneumaticcraft:advanced_liquid_compressor>, <ore:plateIronCompressed>], 
+	[<ore:plateIronCompressed>, <pneumaticcraft:advanced_pressure_tube>, <mysticalagradditions:stuff:69>, <ore:gearIronCompressed>, <mysticalagradditions:stuff:69>, <pneumaticcraft:advanced_pressure_tube>, <ore:plateIronCompressed>], 
+	[<ore:plateIronCompressed>, <pneumaticcraft:advanced_air_compressor>, <pneumaticcraft:advanced_pressure_tube>, <pneumaticcraft:advanced_liquid_compressor>, <pneumaticcraft:advanced_pressure_tube>, <pneumaticcraft:advanced_air_compressor>, <ore:plateIronCompressed>], 
+	[<pneumaticcraft:advanced_pcb>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <ore:plateIronCompressed>, <pneumaticcraft:advanced_pcb>]
+]);
+
+// Everlasting Guilty Pool
+mods.extendedcrafting.TableCrafting.addShaped(0, <botania:pool:1>, [
+	[<botania:pylon:2>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <botania:pylon:2>], 
+	[<ore:plateElvenElementium>, <mysticalagradditions:stuff:69>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <mysticalagradditions:stuff:69>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <ore:blockQuartzMana>, <botania:pool:3>, <botania:dreamwood:5>, <botania:dreamwood:5>, <botania:dreamwood:5>, <botania:pool:3>, <ore:blockQuartzMana>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <ore:blockQuartzMana>, <botania:dreamwood:5>, <botania:pool:3>, <ore:gearGaia>, <botania:pool:3>, <botania:dreamwood:5>, <ore:blockQuartzMana>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <ore:blockQuartzMana>, <botania:dreamwood:5>, <ore:gearGaia>, <embers:creative_ember_source>, <ore:gearGaia>, <botania:dreamwood:5>, <ore:blockQuartzMana>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <ore:blockQuartzMana>, <botania:dreamwood:5>, <botania:pool:3>, <ore:gearGaia>, <botania:pool:3>, <botania:dreamwood:5>, <ore:blockQuartzMana>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <ore:blockQuartzMana>, <botania:pool:3>, <botania:dreamwood:5>, <botania:dreamwood:5>, <botania:dreamwood:5>, <botania:pool:3>, <ore:blockQuartzMana>, <ore:plateElvenElementium>], 
+	[<ore:plateElvenElementium>, <mysticalagradditions:stuff:69>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <ore:blockQuartzElven>, <mysticalagradditions:stuff:69>, <ore:plateElvenElementium>], 
+	[<botania:pylon:2>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <ore:plateTerrasteel>, <botania:pylon:2>]
+]);
+
+// Creative Mill
+mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:passivegenerator:6>, [
+	[<ore:gemMoon>, <ore:coalPowered>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <ore:coalPowered>, <ore:gemMoon>], 
+	[<ore:coalPowered>, <extrautils2:passivegenerator:2>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:4>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:2>, <ore:coalPowered>], 
+	[<extrautils2:decorativesolid:8>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:2>, <mysticalagradditions:stuff:69>, <extrautils2:decorativesolid:8>], 
+	[<extrautils2:decorativesolid:8>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:4>, <extrautils2:decorativesolid:8>], 
+	[<extrautils2:decorativesolid:8>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:8>, <extrautils2:suncrystal>, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:4>, <extrautils2:decorativesolid:8>], 
+	[<extrautils2:decorativesolid:8>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:8>, <extrautils2:passivegenerator:5>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:4>, <extrautils2:decorativesolid:8>], 
+	[<extrautils2:decorativesolid:8>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:2>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:3>, <extrautils2:passivegenerator:2>, <mysticalagradditions:stuff:69>, <extrautils2:decorativesolid:8>], 
+	[<ore:coalPowered>, <extrautils2:passivegenerator:2>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:4>, <extrautils2:passivegenerator:4>, <mysticalagradditions:stuff:69>, <extrautils2:passivegenerator:2>, <ore:coalPowered>], 
+	[<ore:gemMoon>, <ore:coalPowered>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <extrautils2:decorativesolid:8>, <ore:coalPowered>, <ore:gemMoon>]
+]);
+
+// Creative Conversion Kit
+mods.extendedcrafting.TableCrafting.addShaped(0, <thermalfoundation:upgrade:256>, [
+	[<thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>], 
+	[<mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>, <bibliocraft:bookcasecreative>, <tconstruct:materials:50>, <simplesponge:creative_sponge>, <tconstruct:materials:50>, <bibliocraft:bookcasecreative>, <thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <bibliocraft:bookcasecreative>, <thermalfoundation:upgrade:35>, <embers:creative_ember_source>, <extrautils2:spike_creative>, <embers:creative_ember_source>, <thermalfoundation:upgrade:35>, <bibliocraft:bookcasecreative>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <tconstruct:materials:50>, <extrautils2:itemcreativebuilderswand>, <thermalfoundation:upgrade:35>, <danknull:dank_null_6>, <thermalfoundation:upgrade:35>, <botania:pool:1>, <tconstruct:materials:50>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <simplesponge:creative_sponge>, <extrautils2:spike_creative>, <deepmoblearning:creative_model_learner>, <extrautils2:passivegenerator:6>, <deepmoblearning:creative_model_learner>, <extrautils2:spike_creative>, <simplesponge:creative_sponge>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <tconstruct:materials:50>, <extrautils2:itemcreativedestructionwand>, <thermalfoundation:upgrade:35>, <danknull:dank_null_6>, <thermalfoundation:upgrade:35>, <botania:pool:1>, <tconstruct:materials:50>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <bibliocraft:bookcasecreative>, <thermalfoundation:upgrade:35>, <pneumaticcraft:creative_compressor>, <extrautils2:spike_creative>, <pneumaticcraft:creative_compressor>, <thermalfoundation:upgrade:35>, <bibliocraft:bookcasecreative>, <mysticalagradditions:stuff:69>], 
+	[<mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>, <bibliocraft:bookcasecreative>, <tconstruct:materials:50>, <simplesponge:creative_sponge>, <tconstruct:materials:50>, <bibliocraft:bookcasecreative>, <thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>], 
+	[<thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>]
+]);

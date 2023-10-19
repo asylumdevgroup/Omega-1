@@ -1,14 +1,14 @@
 {
-	x: 5.5d,
+	x: 4.5d,
 	y: 5.5d,
 	dependencies: [
 		"79507c1e"
 	],
 	tasks: [{
-		uid: "18765e6f",
+		uid: "7ce6ad5c",
 		type: "item",
 		items: [{
-			item: "pneumaticcraft:creative_compressor"
+			item: "extrautils2:passivegenerator 1 6"
 		}]
 	}]
 }

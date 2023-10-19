@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "b0aac79a",
+		type: "checkmark",
+		title: "Magic and Magitech",
+		icon: {
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Mid Tech",
+	icon: "thermalexpansion:frame",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
