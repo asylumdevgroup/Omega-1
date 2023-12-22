@@ -1,6 +1,8 @@
 //EndgameCreative.zs
 //By MCAdventureCity
 
+import crafttweaker.item.IItemStack;
+
 //ADG Core
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<contenttweaker:adg_core>, 100000000, <draconicevolution:chaotic_core>,
@@ -161,3 +163,30 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <thermalfoundation:upgrade:256>
 	[<mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>, <bibliocraft:bookcasecreative>, <tconstruct:materials:50>, <simplesponge:creative_sponge>, <tconstruct:materials:50>, <bibliocraft:bookcasecreative>, <thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>], 
 	[<thermalfoundation:upgrade:35>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <mysticalagradditions:stuff:69>, <thermalfoundation:upgrade:35>]
 ]);
+
+// Bonus Items
+val creative_bonuses = [
+	<simplyjetpacks:itemjetpack>.withTag({Energy: 200000, JetpackParticleType: 0}),
+	<simplyjetpacks:itemfluxpack>.withTag({Energy: 200000}),
+	<thermalinnovation:quiver:32000>.withTag({}),
+	<thermalinnovation:injector:32000>.withTag({}),
+	<thermalinnovation:magnet:32000>.withTag({Energy: 600000}),
+	<thermalinnovation:saw:32000>.withTag({Energy: 600000, Mode: 4}),
+	<thermalcultivation:watering_can:32000>.withTag({Water: 60000, Mode: 4}),
+	<thermalinnovation:drill:32000>.withTag({Energy: 600000, Mode: 4})
+] as IItemStack[];
+
+val creative_bonus_ingredients = [
+	<simplyjetpacks:itemjetpack:24>.withTag({Energy: 0, JetpackParticle: 0}),
+	<simplyjetpacks:itemfluxpack:10>.withTag({Energy: 0}),
+	<thermalinnovation:quiver:4>.withTag({}),
+	<thermalinnovation:injector:4>.withTag({}),
+	<thermalinnovation:magnet:4>.withTag({Energy: 600000}),
+	<thermalinnovation:saw:4>.withTag({Energy: 600000, Mode: 4}),
+	<thermalcultivation:watering_can:4>.withTag({Water: 60000, Mode: 4}),
+	<thermalinnovation:drill:4>.withTag({Energy: 600000, Mode: 4})
+] as IItemStack[];
+
+for i, item in creative_bonuses {
+	recipes.addShapeless("creative_bonus_" + i,item,[<thermalfoundation:upgrade:256>,creative_bonus_ingredients[i]]);
+}

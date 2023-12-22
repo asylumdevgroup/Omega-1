@@ -1,0 +1,16 @@
+{
+	title: "Refining Oil",
+	x: 2.0d,
+	y: 5.0d,
+	dependencies: [
+		"be3f2c93",
+		"e3a1f03a"
+	],
+	tasks: [{
+		uid: "5b027d82",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_fermenting_barrel"
+		}]
+	}]
+}

@@ -1,6 +1,12 @@
 {
-	x: 7.5d,
+	x: 8.0d,
 	y: 4.0d,
+	text: [
+		"The Most Challenging Creative Item! This enables infinite energy, fluids, and items! You will want to make two, so you can duplicate it in the Creative Strongbox first.",
+		"Congratulations on Completing ADG Omega 1!",
+		"",
+		"NOTE: This also unlocks a few bonus creative items, visible in the quests to the right."
+	],
 	dependencies: [
 		"de306ab1",
 		"4e3693a4",
@@ -13,11 +19,17 @@
 		"91cb78f2",
 		"33063a0c"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "7df8e80f",
 		type: "item",
 		items: [{
 			item: "thermalfoundation:upgrade 1 256"
 		}]
+	}],
+	rewards: [{
+		uid: "fa18f602",
+		type: "command",
+		command: "/say @p has crafted their first Creative Conversion Kit! Congratulations!"
 	}]
 }

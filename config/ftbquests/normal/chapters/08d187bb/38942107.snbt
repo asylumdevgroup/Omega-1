@@ -1,0 +1,50 @@
+{
+	title: "Empowered Crystals",
+	x: 1.0d,
+	y: 8.0d,
+	dependencies: [
+		"b43da77a"
+	],
+	tasks: [{
+		uid: "5d0de900",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered"
+		}]
+	},
+	{
+		uid: "f765f163",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 1"
+		}]
+	},
+	{
+		uid: "b95c380b",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 5"
+		}]
+	},
+	{
+		uid: "cffc76f8",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 3"
+		}]
+	},
+	{
+		uid: "eb3b46eb",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 2"
+		}]
+	},
+	{
+		uid: "96b47131",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 4"
+		}]
+	}]
+}

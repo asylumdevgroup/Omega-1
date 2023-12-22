@@ -1,0 +1,25 @@
+{
+	title: "More Lasers",
+	x: -2.0d,
+	y: 5.0d,
+	text: [
+		"I'ma firin mah lazor!"
+	],
+	dependencies: [
+		"6671bbd0"
+	],
+	tasks: [{
+		uid: "33428bbd",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay_fluids"
+		}]
+	},
+	{
+		uid: "3dcf65f9",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay_item"
+		}]
+	}]
+}

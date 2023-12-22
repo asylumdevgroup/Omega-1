@@ -1,0 +1,12 @@
+{
+	icon: "actuallyadditions:block_misc 1 9",
+	x: 0.5d,
+	y: 0.5d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "a47c4318",
+		type: "checkmark",
+		title: "Unlock Actually Additions"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Early Power from Coal",
+	x: 0.0d,
+	y: 4.0d,
+	text: [
+		"Generates 60 FE/t by burning furnace fuels."
+	],
+	dependencies: [
+		"ffddc480"
+	],
+	tasks: [{
+		uid: "21870656",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_coal_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "1504d75a",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 8
+	}]
+}

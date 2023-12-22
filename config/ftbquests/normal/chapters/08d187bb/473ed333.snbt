@@ -1,0 +1,34 @@
+{
+	title: "More Machine Components",
+	x: 0.0d,
+	y: 5.0d,
+	dependencies: [
+		"f7622281"
+	],
+	tasks: [{
+		uid: "09463af5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 7"
+		}]
+	},
+	{
+		uid: "64915caf",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "4c87eeaf",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 2
+	},
+	{
+		uid: "31dbedea",
+		type: "item",
+		item: "actuallyadditions:item_crystal",
+		count: 4
+	}]
+}

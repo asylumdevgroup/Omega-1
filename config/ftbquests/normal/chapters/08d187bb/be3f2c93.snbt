@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"48564b36"
+	],
+	tasks: [{
+		uid: "fde311a8",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "c8fbae02",
+		type: "item",
+		item: "minecraft:log",
+		count: 16
+	}]
+}

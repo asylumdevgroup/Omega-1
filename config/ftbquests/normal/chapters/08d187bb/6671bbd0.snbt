@@ -1,0 +1,20 @@
+{
+	title: "Transferring Power with Lasers",
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"473ed333"
+	],
+	tasks: [{
+		uid: "cacbfcb7",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay"
+		}]
+	}],
+	rewards: [{
+		uid: "857c3251",
+		type: "item",
+		item: "actuallyadditions:item_laser_wrench"
+	}]
+}

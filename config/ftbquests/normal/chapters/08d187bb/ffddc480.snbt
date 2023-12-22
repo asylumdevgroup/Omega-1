@@ -1,0 +1,23 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	text: [
+		"The base component of many Actually Additions machines."
+	],
+	dependencies: [
+		"dab10557"
+	],
+	tasks: [{
+		uid: "f44b37ad",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 9"
+		}]
+	}],
+	rewards: [{
+		uid: "6e15189d",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	}]
+}

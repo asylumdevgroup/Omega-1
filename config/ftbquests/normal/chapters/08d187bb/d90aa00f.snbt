@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"b071835c",
+		"473ed333",
+		"44947b9b"
+	],
+	tasks: [{
+		uid: "5e775964",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_canola_press"
+		}]
+	}]
+}

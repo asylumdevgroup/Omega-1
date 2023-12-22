@@ -1,0 +1,42 @@
+{
+	title: "Actually Seeds",
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"48564b36"
+	],
+	tasks: [{
+		uid: "e0fc5a6c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_canola_seed"
+		}]
+	},
+	{
+		uid: "01c4adc5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_flax_seed"
+		}]
+	},
+	{
+		uid: "2cd8da57",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_coffee_seed"
+		}]
+	},
+	{
+		uid: "8c533d1f",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_rice_seed"
+		}]
+	}],
+	rewards: [{
+		uid: "934dc4ae",
+		type: "item",
+		item: "actuallyadditions:item_food 1 17",
+		count: 8
+	}]
+}

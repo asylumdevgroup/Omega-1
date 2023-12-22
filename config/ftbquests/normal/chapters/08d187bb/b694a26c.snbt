@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 9.0d,
+	dependencies: [
+		"38942107"
+	],
+	tasks: [{
+		uid: "5ea79773",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 8"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "The Largest Crate",
+	x: -1.0d,
+	y: 8.0d,
+	dependencies: [
+		"c7edfed5",
+		"cffc76f8"
+	],
+	tasks: [{
+		uid: "68ef5454",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest_large"
+		}]
+	}]
+}

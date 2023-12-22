@@ -1,0 +1,29 @@
+{
+	icon: "actuallyadditions:block_atomic_reconstructor",
+	x: 1.0d,
+	y: 4.0d,
+	text: [
+		"This machine is used to turn Vanilla Materials into unique Actually Additions versions.",
+		"It is recommended to use a Redstone torch to switch the mode to pulse, then place a pressure plate in front of the Reconstructor. That way it will only use power when an item is thrown in front of it."
+	],
+	dependencies: [
+		"ffddc480"
+	],
+	tasks: [{
+		uid: "5180665f",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}],
+	rewards: [{
+		uid: "25058d4e",
+		type: "item",
+		item: "minecraft:redstone_torch"
+	},
+	{
+		uid: "e67699b8",
+		type: "item",
+		item: "minecraft:wooden_pressure_plate"
+	}]
+}

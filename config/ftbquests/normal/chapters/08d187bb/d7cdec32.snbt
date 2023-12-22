@@ -1,0 +1,32 @@
+{
+	title: "Crystallizing Oil",
+	icon: "actuallyadditions:item_misc 1 23",
+	x: 2.0d,
+	y: 6.0d,
+	text: [
+		"To make Crystallized Oil, place a bucket of Refined Canola Oil on the ground and drop in a crystallized seed."
+	],
+	dependencies: [
+		"a8118356"
+	],
+	tasks: [{
+		uid: "5c1502ef",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 23"
+		}]
+	},
+	{
+		uid: "30c26b6c",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "crystaloil",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

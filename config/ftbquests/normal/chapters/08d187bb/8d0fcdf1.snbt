@@ -1,0 +1,24 @@
+{
+	title: "Easy Mass Storage",
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"All it takes is a bit of wood, and you have lots of space! Beats a Diamond Chest, doesn't it?"
+	],
+	dependencies: [
+		"be3f2c93"
+	],
+	tasks: [{
+		uid: "58979021",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "31d3e724",
+		type: "item",
+		item: "minecraft:chest",
+		count: 4
+	}]
+}

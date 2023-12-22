@@ -1,0 +1,23 @@
+{
+	title: "Simple Ore Doubling",
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"7c165a92",
+		"473ed333"
+	],
+	tasks: [{
+		uid: "1520ac7d",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_grinder"
+		}]
+	},
+	{
+		uid: "42f0e5c5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_furnace_double"
+		}]
+	}]
+}

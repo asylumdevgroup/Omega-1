@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 7.0d,
+	dependencies: [
+		"d7d02420"
+	],
+	tasks: [{
+		uid: "47bd73bc",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	},
+	{
+		uid: "577ad19b",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}],
+		count: 4L
+	}]
+}

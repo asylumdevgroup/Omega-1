@@ -1,0 +1,23 @@
+{
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"This is the base resource for everything in Actually Additions."
+	],
+	dependencies: [
+		"48564b36"
+	],
+	tasks: [{
+		uid: "3e2101e6",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "11bc345a",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 5",
+		count: 4
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Powered by FREEDOM",
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"d90aa00f"
+	],
+	tasks: [{
+		uid: "43e0a290",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_oil_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "fa191a2b",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 13",
+		count: 16
+	}]
+}
