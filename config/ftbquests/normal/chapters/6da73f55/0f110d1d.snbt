@@ -13,5 +13,11 @@
 			item: "extendedcrafting:material"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "73926e7d",
+		type: "item",
+		item: "extendedcrafting:material",
+		count: 4
 	}]
 }

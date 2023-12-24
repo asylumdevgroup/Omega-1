@@ -8,5 +8,10 @@
 		uid: "a47c4318",
 		type: "checkmark",
 		title: "Unlock Actually Additions"
+	}],
+	rewards: [{
+		uid: "4c735327",
+		type: "xp_levels",
+		xp_levels: 4
 	}]
 }

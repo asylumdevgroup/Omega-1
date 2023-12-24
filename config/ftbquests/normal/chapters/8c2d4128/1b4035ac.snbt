@@ -13,5 +13,10 @@
 				astralsorcery: {}
 			}
 		}
+	}],
+	rewards: [{
+		uid: "f18671cb",
+		type: "xp_levels",
+		xp_levels: 2
 	}]
 }

@@ -18,5 +18,11 @@
 		items: [{
 			item: "actuallyadditions:block_testifi_bucks_green_wall"
 		}]
+	}],
+	rewards: [{
+		uid: "03d7d385",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 16
 	}]
 }

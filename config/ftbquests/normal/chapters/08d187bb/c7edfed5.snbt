@@ -12,5 +12,11 @@
 		items: [{
 			item: "actuallyadditions:block_giant_chest_medium"
 		}]
+	}],
+	rewards: [{
+		uid: "a6b3d7ba",
+		type: "item",
+		item: "actuallyadditions:item_crystal 1 3",
+		count: 8
 	}]
 }

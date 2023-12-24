@@ -30,11 +30,5 @@
 		uid: "8b4076ad",
 		type: "xp_levels",
 		xp_levels: 5
-	},
-	{
-		uid: "a33a7981",
-		type: "command",
-		auto: "invisible",
-		command: "/say @p has started the Vanilla Questline!"
 	}]
 }

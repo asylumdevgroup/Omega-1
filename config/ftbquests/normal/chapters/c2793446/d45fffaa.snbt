@@ -26,5 +26,11 @@
 		items: [{
 			item: "prodigytech:dispersing_extractor"
 		}]
+	}],
+	rewards: [{
+		uid: "d1d38501",
+		type: "item",
+		item: "prodigytech:ferramic_ingot",
+		count: 4
 	}]
 }

@@ -11,5 +11,11 @@
 		items: [{
 			item: "prodigytech:magnetic_reassembler"
 		}]
+	}],
+	rewards: [{
+		uid: "14fde5e7",
+		type: "item",
+		item: "prodigytech:inferno_fuel",
+		count: 4
 	}]
 }

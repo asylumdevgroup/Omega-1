@@ -12,5 +12,11 @@
 		items: [{
 			item: "actuallyadditions:block_canola_press"
 		}]
+	}],
+	rewards: [{
+		uid: "4bb2bd24",
+		type: "item",
+		item: "actuallyadditions:item_canola_seed",
+		count: 8
 	}]
 }

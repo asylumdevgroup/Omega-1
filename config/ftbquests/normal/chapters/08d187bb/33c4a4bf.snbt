@@ -1,0 +1,40 @@
+{
+	title: "Empowering Oil",
+	icon: "actuallyadditions:item_misc 1 24",
+	x: 2.0d,
+	y: 7.0d,
+	text: [
+		"To create Empowered Oil, drop an Empowered Canola Seed into Crystallized Oil.",
+		"This is the highest tier of Actually Additions Oil, and gives the most FE/t in the Oil Generator."
+	],
+	dependencies: [
+		"b43da77a",
+		"d7cdec32"
+	],
+	tasks: [{
+		uid: "ba982664",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 24"
+		}]
+	},
+	{
+		uid: "201d9356",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "empoweredoil",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f21a7182",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 24",
+		count: 4
+	}]
+}

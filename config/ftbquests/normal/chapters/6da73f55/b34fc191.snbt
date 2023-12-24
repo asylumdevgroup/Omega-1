@@ -20,5 +20,11 @@
 		items: [{
 			item: "extendedcrafting:pedestal"
 		}]
+	}],
+	rewards: [{
+		uid: "25307aab",
+		type: "item",
+		item: "extendedcrafting:pedestal",
+		count: 8
 	}]
 }

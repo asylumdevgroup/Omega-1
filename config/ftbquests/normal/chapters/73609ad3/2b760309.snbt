@@ -19,5 +19,11 @@
 		items: [{
 			item: "cookingforblockheads:kitchen_floor"
 		}]
+	}],
+	rewards: [{
+		uid: "77c1b1f3",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
 	}]
 }

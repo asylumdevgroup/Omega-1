@@ -22,5 +22,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "303c7f04",
+		type: "item",
+		item: "mysticalagriculture:crafting",
+		count: 64
 	}]
 }

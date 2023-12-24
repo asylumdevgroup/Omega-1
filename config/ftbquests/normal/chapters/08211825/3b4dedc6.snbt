@@ -8,5 +8,10 @@
 		type: "checkmark",
 		title: "Late Game Tech",
 		icon: "mekanism:basicblock 1 8"
+	}],
+	rewards: [{
+		uid: "ace604f2",
+		type: "xp_levels",
+		xp_levels: 8
 	}]
 }

@@ -10,5 +10,11 @@
 		items: [{
 			item: "prodigytech:atomic_reshaper"
 		}]
+	}],
+	rewards: [{
+		uid: "8457e1fd",
+		type: "item",
+		item: "prodigytech:inferno_crystal",
+		count: 2
 	}]
 }

@@ -28,5 +28,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0e7cdef8",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 23",
+		count: 8
 	}]
 }

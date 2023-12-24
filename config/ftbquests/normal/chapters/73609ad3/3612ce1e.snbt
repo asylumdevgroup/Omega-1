@@ -8,5 +8,10 @@
 		type: "checkmark",
 		title: "Unlock Food and Farming",
 		icon: "cookingforblockheads:cooking_table"
+	}],
+	rewards: [{
+		uid: "aa8e760f",
+		type: "xp_levels",
+		xp_levels: 1
 	}]
 }

@@ -13,5 +13,11 @@
 		items: [{
 			item: "prodigytech:energion_aeroheater"
 		}]
+	}],
+	rewards: [{
+		uid: "9a5c4604",
+		type: "item",
+		item: "prodigytech:energion_dust",
+		count: 4
 	}]
 }

@@ -3,7 +3,7 @@
 	x: 0.0d,
 	y: 4.0d,
 	text: [
-		"Generates 60 FE/t by burning furnace fuels."
+		"Generates 30 FE/t by burning furnace fuels."
 	],
 	dependencies: [
 		"ffddc480"

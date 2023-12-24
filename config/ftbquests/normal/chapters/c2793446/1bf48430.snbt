@@ -10,5 +10,11 @@
 		items: [{
 			item: "prodigytech:ore_refinery"
 		}]
+	}],
+	rewards: [{
+		uid: "5ef22436",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 4
 	}]
 }

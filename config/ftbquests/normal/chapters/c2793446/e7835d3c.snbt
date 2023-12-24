@@ -13,5 +13,11 @@
 		items: [{
 			item: "prodigytech:magmatic_aeroheater"
 		}]
+	}],
+	rewards: [{
+		uid: "5309cbbd",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 4
 	}]
 }

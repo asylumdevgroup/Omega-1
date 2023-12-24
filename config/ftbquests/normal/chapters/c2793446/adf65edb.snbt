@@ -11,5 +11,11 @@
 		items: [{
 			item: "prodigytech:air_funnel"
 		}]
+	}],
+	rewards: [{
+		uid: "7325d064",
+		type: "item",
+		item: "prodigytech:air_funnel",
+		count: 2
 	}]
 }

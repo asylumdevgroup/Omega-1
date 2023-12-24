@@ -2,7 +2,7 @@
 	x: 0.5d,
 	y: 2.0d,
 	text: [
-		"This is the base resource for everything in Actually Additions."
+		"This is the base resource for almost everything in Actually Additions."
 	],
 	dependencies: [
 		"48564b36"

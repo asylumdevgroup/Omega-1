@@ -12,5 +12,11 @@
 		items: [{
 			item: "extendedcrafting:table_advanced"
 		}]
+	}],
+	rewards: [{
+		uid: "2b25ff47",
+		type: "item",
+		item: "minecraft:gold_block",
+		count: 8
 	}]
 }

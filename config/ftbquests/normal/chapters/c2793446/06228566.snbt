@@ -10,5 +10,11 @@
 		items: [{
 			item: "prodigytech:incinerator"
 		}]
+	}],
+	rewards: [{
+		uid: "44ce2efb",
+		type: "item",
+		item: "prodigytech:ash",
+		count: 8
 	}]
 }

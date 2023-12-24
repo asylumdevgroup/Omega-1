@@ -29,5 +29,11 @@
 		items: [{
 			item: "prodigytech:automatic_crystal_cutter"
 		}]
+	}],
+	rewards: [{
+		uid: "c962632e",
+		type: "item",
+		item: "prodigytech:energion_crystal_seed",
+		count: 2
 	}]
 }

@@ -41,5 +41,11 @@
 		items: [{
 			item: "prodigytech:zorra_altar"
 		}]
+	}],
+	rewards: [{
+		uid: "4ef76ebc",
+		type: "item",
+		item: "prodigytech:zorrasteel_ingot",
+		count: 8
 	}]
 }

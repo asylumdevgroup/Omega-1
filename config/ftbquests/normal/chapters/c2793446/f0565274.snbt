@@ -10,5 +10,11 @@
 		items: [{
 			item: "prodigytech:primordialis_reactor"
 		}]
+	}],
+	rewards: [{
+		uid: "df2b5b77",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 8
 	}]
 }

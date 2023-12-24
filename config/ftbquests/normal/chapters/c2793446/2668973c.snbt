@@ -11,5 +11,10 @@
 		type: "checkmark",
 		title: "First Hot Air Machines",
 		icon: "prodigytech:rotary_grinder"
+	}],
+	rewards: [{
+		uid: "ca8efa4c",
+		type: "xp_levels",
+		xp_levels: 1
 	}]
 }

@@ -12,5 +12,10 @@
 		items: [{
 			item: "extendedcrafting:singularity_ultimate"
 		}]
+	}],
+	rewards: [{
+		uid: "b7502258",
+		type: "item",
+		item: "extendedcrafting:singularity_ultimate"
 	}]
 }

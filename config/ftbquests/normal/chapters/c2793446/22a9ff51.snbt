@@ -21,5 +21,11 @@
 			item: "prodigytech:zorra_leaf"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "f93b89e1",
+		type: "item",
+		item: "prodigytech:primordium",
+		count: 8
 	}]
 }

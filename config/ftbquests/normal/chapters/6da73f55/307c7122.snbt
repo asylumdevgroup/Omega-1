@@ -24,5 +24,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "08b0ccf0",
+		type: "item",
+		item: "projecte:item.pe_fuel 1 2",
+		count: 4
 	}]
 }

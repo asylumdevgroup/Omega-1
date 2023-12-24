@@ -11,5 +11,10 @@
 		items: [{
 			item: "packagedexcrafting:elite_crafter"
 		}]
+	}],
+	rewards: [{
+		uid: "f40ee00f",
+		type: "item",
+		item: "extendedcrafting:table_elite"
 	}]
 }

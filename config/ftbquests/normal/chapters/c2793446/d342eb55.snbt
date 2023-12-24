@@ -8,5 +8,20 @@
 		uid: "069758bc",
 		type: "checkmark",
 		icon: "prodigytech:explosion_furnace"
+	}],
+	rewards: [{
+		uid: "d68a806e",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "prodigytech:guide"
+			}
+		}
+	},
+	{
+		uid: "7f588e2a",
+		type: "xp_levels",
+		xp_levels: 2
 	}]
 }

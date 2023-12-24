@@ -11,5 +11,10 @@
 		uid: "60c57fbe",
 		type: "checkmark",
 		title: "Early Game Tech"
+	}],
+	rewards: [{
+		uid: "b6cb0652",
+		type: "xp_levels",
+		xp_levels: 2
 	}]
 }

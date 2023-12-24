@@ -19,5 +19,11 @@
 		items: [{
 			item: "prodigytech:zorrasteel_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "65df18b9",
+		type: "item",
+		item: "prodigytech:ferramic_ingot",
+		count: 16
 	}]
 }

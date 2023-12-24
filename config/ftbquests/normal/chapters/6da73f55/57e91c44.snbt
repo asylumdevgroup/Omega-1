@@ -11,5 +11,10 @@
 		items: [{
 			item: "packagedexcrafting:combination_crafter"
 		}]
+	}],
+	rewards: [{
+		uid: "31e1129a",
+		type: "item",
+		item: "extendedcrafting:crafting_core"
 	}]
 }

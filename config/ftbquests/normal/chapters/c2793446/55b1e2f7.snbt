@@ -26,5 +26,11 @@
 		items: [{
 			item: "prodigytech:circuit_perfected"
 		}]
+	}],
+	rewards: [{
+		uid: "c1776731",
+		type: "item",
+		item: "prodigytech:circuit_plate",
+		count: 6
 	}]
 }

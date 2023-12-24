@@ -19,5 +19,11 @@
 		items: [{
 			item: "actuallyadditions:block_furnace_double"
 		}]
+	}],
+	rewards: [{
+		uid: "fbc3743c",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 8
 	}]
 }

@@ -11,5 +11,10 @@
 		items: [{
 			item: "extendedcrafting:material 1 24"
 		}]
+	}],
+	rewards: [{
+		uid: "2d126588",
+		type: "item",
+		item: "minecraft:nether_star"
 	}]
 }

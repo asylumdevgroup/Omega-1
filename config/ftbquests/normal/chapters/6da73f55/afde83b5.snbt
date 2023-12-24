@@ -12,5 +12,11 @@
 		items: [{
 			item: "extendedcrafting:table_ultimate"
 		}]
+	}],
+	rewards: [{
+		uid: "cfbf25ef",
+		type: "item",
+		item: "extendedcrafting:table_elite",
+		count: 2
 	}]
 }

@@ -11,5 +11,10 @@
 		type: "checkmark",
 		title: "Mid Game Tech",
 		icon: "thermalexpansion:frame"
+	}],
+	rewards: [{
+		uid: "5f6c228d",
+		type: "xp_levels",
+		xp_levels: 4
 	}]
 }

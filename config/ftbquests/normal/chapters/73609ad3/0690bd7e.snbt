@@ -75,5 +75,11 @@
 		items: [{
 			item: "cookingforblockheads:counter"
 		}]
+	}],
+	rewards: [{
+		uid: "f3743d10",
+		type: "item",
+		item: "harvestcraft:koreandinneritem",
+		count: 2
 	}]
 }

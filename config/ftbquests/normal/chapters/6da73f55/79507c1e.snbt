@@ -15,5 +15,11 @@
 		items: [{
 			item: "mysticalagradditions:stuff 1 69"
 		}]
+	}],
+	rewards: [{
+		uid: "f9fd92c4",
+		type: "item",
+		item: "mysticalagradditions:stuff 1 69",
+		count: 2
 	}]
 }

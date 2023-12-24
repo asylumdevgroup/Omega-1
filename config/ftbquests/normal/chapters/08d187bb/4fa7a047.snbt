@@ -10,5 +10,11 @@
 		items: [{
 			item: "actuallyadditions:block_grinder_double"
 		}]
+	}],
+	rewards: [{
+		uid: "86c62114",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 4
 	}]
 }

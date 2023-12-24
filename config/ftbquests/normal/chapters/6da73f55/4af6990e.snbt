@@ -11,5 +11,17 @@
 		items: [{
 			item: "extendedcrafting:table_elite"
 		}]
+	}],
+	rewards: [{
+		uid: "2d3901c6",
+		type: "item",
+		item: "minecraft:diamond_block",
+		count: 8
+	},
+	{
+		uid: "bbd74b17",
+		type: "item",
+		item: "extendedcrafting:table_advanced",
+		count: 2
 	}]
 }

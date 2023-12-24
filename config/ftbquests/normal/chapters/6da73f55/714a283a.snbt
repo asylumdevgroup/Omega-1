@@ -12,5 +12,11 @@
 		items: [{
 			item: "extendedcrafting:compressor"
 		}]
+	}],
+	rewards: [{
+		uid: "68235f96",
+		type: "item",
+		item: "appliedenergistics2:material 1 48",
+		count: 4
 	}]
 }

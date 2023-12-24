@@ -11,5 +11,17 @@
 		items: [{
 			item: "cookingforblockheads:cow_jar"
 		}]
+	}],
+	rewards: [{
+		uid: "47658a5e",
+		type: "item",
+		item: "harvestcraft:mintchocolatechipicecreamitem",
+		count: 4
+	},
+	{
+		uid: "331f0046",
+		type: "item",
+		item: "harvestcraft:cherryyogurtitem",
+		count: 4
 	}]
 }

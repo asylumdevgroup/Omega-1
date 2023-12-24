@@ -20,5 +20,10 @@
 		uid: "b6c0ad90",
 		type: "command",
 		command: "/say @p has crafted their first ADG Core! Congratulations!"
+	},
+	{
+		uid: "60475e68",
+		type: "xp_levels",
+		xp_levels: 20
 	}]
 }

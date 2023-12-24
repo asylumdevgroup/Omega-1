@@ -12,5 +12,11 @@
 			item: "prodigytech:primordium"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "8471df19",
+		type: "item",
+		item: "prodigytech:primordium",
+		count: 4
 	}]
 }

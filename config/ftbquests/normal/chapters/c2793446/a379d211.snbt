@@ -10,5 +10,11 @@
 		items: [{
 			item: "prodigytech:food_enricher"
 		}]
+	}],
+	rewards: [{
+		uid: "9c74e5a5",
+		type: "item",
+		item: "minecraft:rotten_flesh",
+		count: 8
 	}]
 }
