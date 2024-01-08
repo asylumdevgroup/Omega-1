@@ -1,0 +1,31 @@
+{
+	title: "Organic Dyes",
+	x: 1.0d,
+	y: 3.5d,
+	text: [
+		"No Red40 allowed here!"
+	],
+	dependencies: [
+		"0d3bf85d"
+	],
+	tasks: [{
+		uid: "eb30ae7a",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 48"
+		}]
+	},
+	{
+		uid: "b0efa120",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 50"
+		}]
+	}],
+	rewards: [{
+		uid: "2902ff91",
+		type: "item",
+		item: "enderio:item_material 1 48",
+		count: 4
+	}]
+}

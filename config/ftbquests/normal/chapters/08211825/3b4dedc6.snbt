@@ -2,6 +2,10 @@
 	x: 0.0d,
 	y: 0.0d,
 	shape: "gear",
+	text: [
+		"This group of chapters focuses on the Tech mods that are the most powerful, with the most advanced features and flexibility.",
+		"These include Ender IO, Mekanism, AE2, and More!"
+	],
 	size: 2.0d,
 	tasks: [{
 		uid: "a3b26a79",

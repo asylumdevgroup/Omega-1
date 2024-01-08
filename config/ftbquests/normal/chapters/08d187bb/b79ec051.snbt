@@ -1,0 +1,39 @@
+{
+	x: 2.0d,
+	y: 8.0d,
+	text: [
+		"Phantomfaces allow you to access additional \"Faces\" of the block they are connected to.",
+		"Phantomfaces exist for Energy, Fluid, and Item storage, as well as Redstone signals."
+	],
+	dependencies: [
+		"b43da77a"
+	],
+	tasks: [{
+		uid: "f624ccd5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantomface"
+		}]
+	},
+	{
+		uid: "d878c93c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantom_liquiface"
+		}]
+	},
+	{
+		uid: "c3a9805e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantom_energyface"
+		}]
+	},
+	{
+		uid: "25fca038",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantom_redstoneface"
+		}]
+	}]
+}

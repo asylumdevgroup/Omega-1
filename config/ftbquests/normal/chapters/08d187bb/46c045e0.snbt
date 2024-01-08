@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	dependencies: [
+		"b071835c",
+		"44947b9b"
+	],
+	tasks: [{
+		uid: "ffb45910",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_farmer"
+		}]
+	}],
+	rewards: [{
+		uid: "c1b60e76",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 16
+	}]
+}

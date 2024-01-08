@@ -1,0 +1,62 @@
+{
+	title: "Drill Upgrades",
+	x: 0.0d,
+	y: 9.0d,
+	text: [
+		"The AA Drill has lots of upgrades! Here are some of them."
+	],
+	dependencies: [
+		"b694a26c",
+		"c6f8786c"
+	],
+	tasks: [{
+		uid: "63e4db30",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_drill_upgrade_speed_iii"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "19e2e4e2",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_drill_upgrade_silk_touch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1f654b4e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_drill_upgrade_fortune_ii"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a84379b5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_drill_upgrade_three_by_three"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "638d1c47",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_drill_upgrade_five_by_five"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28441e31",
+		type: "item",
+		item: "actuallyadditions:item_drill_upgrade_block_placing"
+	}]
+}

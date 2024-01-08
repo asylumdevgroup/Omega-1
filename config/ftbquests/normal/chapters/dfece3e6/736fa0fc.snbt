@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		"The third \"s\" is silent."
+	],
+	dependencies: [
+		"5361153a"
+	],
+	tasks: [{
+		uid: "4ddd3ec9",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}],
+	rewards: [{
+		uid: "4117be44",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
+	}]
+}

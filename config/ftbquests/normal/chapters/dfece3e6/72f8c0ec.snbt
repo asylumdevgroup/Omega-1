@@ -1,0 +1,50 @@
+{
+	title: "Ender IO Crystals",
+	x: 3.0d,
+	y: 5.5d,
+	dependencies: [
+		"c5e3652d"
+	],
+	tasks: [{
+		uid: "4cb3046f",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 14"
+		}]
+	},
+	{
+		uid: "ee66f34b",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 15"
+		}]
+	},
+	{
+		uid: "10f5edbc",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 16"
+		}]
+	},
+	{
+		uid: "d6368260",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 17"
+		}]
+	},
+	{
+		uid: "074096bd",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 18"
+		}]
+	},
+	{
+		uid: "a6c12d3e",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 19"
+		}]
+	}]
+}

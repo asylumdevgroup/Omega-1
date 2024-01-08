@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: 7.0d,
+	dependencies: [
+		"473ed333"
+	],
+	tasks: [{
+		uid: "a63da4c2",
+		type: "item",
+		items: [{
+			id: "actuallyadditions:item_drill",
+			Damage: 3s,
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e0c5e91",
+		type: "item",
+		item: {
+			id: "actuallyadditions:item_battery_triple",
+			tag: {
+				Energy: 600000
+			}
+		}
+	}]
+}

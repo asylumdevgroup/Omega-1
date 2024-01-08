@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"When placed on Farmland, occasionally causes a Bonemeal effect, boosting crop growth."
+	],
+	dependencies: [
+		"44947b9b"
+	],
+	tasks: [{
+		uid: "d78bb39b",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_worm"
+		}]
+	}]
+}

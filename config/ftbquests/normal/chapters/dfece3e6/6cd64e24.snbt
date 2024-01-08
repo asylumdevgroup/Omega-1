@@ -1,0 +1,22 @@
+{
+	title: "Tier 2 Alloys",
+	x: 2.0d,
+	y: 6.5d,
+	dependencies: [
+		"c5e3652d"
+	],
+	tasks: [{
+		uid: "32001de6",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 2"
+		}]
+	},
+	{
+		uid: "8cb17be4",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 8"
+		}]
+	}]
+}

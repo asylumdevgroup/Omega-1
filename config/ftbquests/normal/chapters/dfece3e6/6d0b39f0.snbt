@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	text: [
+		"Yes, you could still use a Pulverizer or Crusher for metal/mineral dusts, but some things may require the SAG Mill specifically."
+	],
+	dependencies: [
+		"736fa0fc"
+	],
+	tasks: [{
+		uid: "b3f6a789",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	}]
+}

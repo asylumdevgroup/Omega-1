@@ -18,5 +18,10 @@
 			item: "actuallyadditions:block_display_stand"
 		}],
 		count: 4L
+	}],
+	rewards: [{
+		uid: "224b8946",
+		type: "item",
+		item: "actuallyadditions:block_battery_box"
 	}]
 }

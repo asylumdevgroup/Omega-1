@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 4.5d,
+	text: [
+		"Smells like Mulch."
+	],
+	dependencies: [
+		"4cb70e50"
+	],
+	tasks: [{
+		uid: "896269b5",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 49"
+		}]
+	}]
+}

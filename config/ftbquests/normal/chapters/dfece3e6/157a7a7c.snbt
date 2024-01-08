@@ -1,0 +1,25 @@
+{
+	title: "Chassis Upgrade Mk1.5",
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"Used in \"Soul-related\" Machines."
+	],
+	dependencies: [
+		"72f42616"
+	],
+	tasks: [{
+		uid: "7a7e6344",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 52"
+		}]
+	},
+	{
+		uid: "82dc867c",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 53"
+		}]
+	}]
+}

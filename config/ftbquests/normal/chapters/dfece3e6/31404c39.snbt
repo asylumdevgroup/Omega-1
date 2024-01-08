@@ -1,0 +1,17 @@
+{
+	icon: "enderio:item_material 1 1",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "760274c8",
+		type: "checkmark",
+		title: "Unlock Ender IO"
+	}],
+	rewards: [{
+		uid: "e4c4fd9a",
+		type: "xp_levels",
+		xp_levels: 6
+	}]
+}

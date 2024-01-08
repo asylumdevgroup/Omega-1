@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	text: [
+		"Accelerates crops when placed above."
+	],
+	dependencies: [
+		"46c045e0"
+	],
+	tasks: [{
+		uid: "7443b0b6",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_greenhouse_glass"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Chassis Upgrade Mk2",
+	x: 3.0d,
+	y: 8.5d,
+	dependencies: [
+		"4cb3046f",
+		"ca817c7f"
+	],
+	tasks: [{
+		uid: "74a42a87",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 67"
+		}]
+	},
+	{
+		uid: "16215950",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 54"
+		}]
+	}]
+}
