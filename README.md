@@ -1,5 +1,9 @@
-# Omega-1
+# ADG Omega 1
 ADG's Flagship Kitchen Sink Pack for 1.12.2.
+
+## Credits
+
+* EndangeredNayla (ADG Developer) for creating the Logo and Menu.
 
 ## Modlist
 
