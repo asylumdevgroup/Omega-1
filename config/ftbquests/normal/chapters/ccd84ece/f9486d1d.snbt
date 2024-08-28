@@ -1,0 +1,44 @@
+{
+	title: "Coke Oven",
+	icon: "immersiveengineering:stone_decoration",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Right-click the center block of any side with the Engineer's Hammer to form the Multiblock."
+	],
+	dependencies: [
+		"69e67f14"
+	],
+	tasks: [{
+		uid: "ee1aaaab",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	},
+	{
+		uid: "78770f0d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any fuelCoke"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "fuelCoke"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c5d12b3f",
+		type: "item",
+		item: "immersiveengineering:material 1 6",
+		count: 8
+	}]
+}

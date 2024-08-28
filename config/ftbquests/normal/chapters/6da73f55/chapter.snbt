@@ -1,6 +1,6 @@
 {
 	title: "Endgame",
-	icon: "contenttweaker:adg_core",
+	icon: "adgomega:adg_core",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

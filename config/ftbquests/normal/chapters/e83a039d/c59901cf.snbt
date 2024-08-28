@@ -1,0 +1,22 @@
+{
+	icon: "appliedenergistics2:controller",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "a990d7df",
+		type: "checkmark",
+		title: "Unlock Applied Energistics 2"
+	}],
+	rewards: [{
+		uid: "6e2b14ed",
+		type: "item",
+		item: "appliedenergistics2:certus_quartz_wrench"
+	},
+	{
+		uid: "2f6ec187",
+		type: "xp_levels",
+		xp_levels: 6
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	title: "Welcome to ADG Omega!",
-	icon: "contenttweaker:adg_core",
+	icon: "adgomega:adg_core",
 	x: -6.5d,
 	y: -3.0d,
 	shape: "gear",

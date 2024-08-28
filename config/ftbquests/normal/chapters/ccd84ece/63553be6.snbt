@@ -1,0 +1,44 @@
+{
+	title: "Crude Blast Furnace",
+	icon: "immersiveengineering:stone_decoration 1 1",
+	x: 1.0d,
+	y: 1.5d,
+	text: [
+		"Right-click the center block of any side with the Engineer's Hammer to form the multiblock."
+	],
+	dependencies: [
+		"f9486d1d"
+	],
+	tasks: [{
+		uid: "db776546",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	},
+	{
+		uid: "c739878d",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotSteel"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d6819da7",
+		type: "item",
+		item: "thermalfoundation:material 1 160",
+		count: 4
+	}]
+}

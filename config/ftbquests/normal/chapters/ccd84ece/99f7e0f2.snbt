@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	dependencies: [
+		"ba36dbc7",
+		"b7ec7f03"
+	],
+	tasks: [{
+		uid: "7b1dc23e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "6bc3817e",
+		type: "item",
+		item: "minecraft:lava_bucket"
+	},
+	{
+		uid: "be68acbb",
+		type: "item",
+		item: "minecraft:water_bucket"
+	}]
+}

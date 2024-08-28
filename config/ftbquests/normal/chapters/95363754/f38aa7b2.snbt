@@ -1,0 +1,22 @@
+{
+	icon: "thermalfoundation:wrench",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "80f64546",
+		type: "checkmark",
+		title: "Unlock Thermal Series"
+	}],
+	rewards: [{
+		uid: "4aa8589b",
+		type: "item",
+		item: "thermalfoundation:wrench"
+	},
+	{
+		uid: "8d1b99a7",
+		type: "xp_levels",
+		xp_levels: 4
+	}]
+}

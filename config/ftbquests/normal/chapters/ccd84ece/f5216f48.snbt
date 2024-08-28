@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	dependencies: [
+		"ef2f0d97",
+		"148d1508"
+	],
+	tasks: [{
+		uid: "b58e6b4d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "cfea1dcd",
+		type: "item",
+		item: "minecraft:water_bucket"
+	}]
+}

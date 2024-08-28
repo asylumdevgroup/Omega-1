@@ -1,0 +1,23 @@
+{
+	icon: "tconstruct:smeltery_controller",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "8702ac1e",
+		type: "checkmark",
+		title: "Unlock Tinkers' Construct"
+	}],
+	rewards: [{
+		uid: "927eae3f",
+		type: "item",
+		item: "tconstruct:soil",
+		count: 16
+	},
+	{
+		uid: "47332d19",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

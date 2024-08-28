@@ -1,6 +1,6 @@
 {
 	title: "The Real End?",
-	icon: "contenttweaker:adg_core",
+	icon: "adgomega:adg_core",
 	x: 1.5d,
 	y: 3.5d,
 	text: [
@@ -13,7 +13,7 @@
 		uid: "12ac3b33",
 		type: "item",
 		items: [{
-			item: "contenttweaker:adg_core"
+			item: "adgomega:adg_core"
 		}]
 	}],
 	rewards: [{

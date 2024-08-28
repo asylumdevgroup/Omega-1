@@ -1,0 +1,36 @@
+{
+	title: "Treated Wood and Creosote",
+	icon: "immersiveengineering:treated_wood",
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"f9486d1d"
+	],
+	tasks: [{
+		uid: "86c1485e",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "creosote",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c32642e4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "62f2b692",
+		type: "item",
+		item: "immersiveengineering:treated_wood",
+		count: 16
+	}]
+}

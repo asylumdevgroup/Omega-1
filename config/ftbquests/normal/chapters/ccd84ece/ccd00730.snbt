@@ -1,0 +1,31 @@
+{
+	title: "Industrial Hemp",
+	icon: "immersiveengineering:material 1 4",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"This seed can be found by breaking grass, and can be planted on farmland."
+	],
+	dependencies: [
+		"69e67f14"
+	],
+	tasks: [{
+		uid: "a3eee313",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:seed"
+		}]
+	},
+	{
+		uid: "48938b5e",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "0dc5f595",
+		type: "item",
+		item: "immersiveengineering:material 1 5"
+	}]
+}

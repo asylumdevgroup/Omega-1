@@ -3,7 +3,7 @@
 	y: 0.0d,
 	shape: "gear",
 	text: [
-		"This group of chapters focuses on tech mods that are not too powerful, but not too weak either. These include Actually Additions, Thermal Series, and potentially more!"
+		"This group of chapters focuses on tech mods that are not too powerful, but not too weak either. These include Actually Additions, Thermal Series, and more!"
 	],
 	size: 2.0d,
 	tasks: [{

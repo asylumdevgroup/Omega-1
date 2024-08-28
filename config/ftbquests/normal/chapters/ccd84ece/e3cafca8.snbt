@@ -1,0 +1,68 @@
+{
+	title: "Refinery",
+	icon: "immersiveengineering:metal_multiblock 1 9",
+	x: 3.0d,
+	y: 3.5d,
+	dependencies: [
+		"afa667f6",
+		"a55f320e"
+	],
+	tasks: [{
+		uid: "4d167bd6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "2998ac3f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 5L
+	},
+	{
+		uid: "45e1eb21",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "6602e9d6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "d550efe8",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 5"
+		}],
+		count: 2L
+	},
+	{
+		uid: "1f55429a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "241a5599",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "biodiesel",
+				Amount: 1000
+			}
+		}
+	}]
+}

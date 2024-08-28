@@ -1,0 +1,23 @@
+{
+	icon: "astralsorcery:blockaltar",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "43c972ea",
+		type: "checkmark",
+		title: "Unlock Astral Sorcery"
+	}],
+	rewards: [{
+		uid: "9349841d",
+		type: "item",
+		item: "astralsorcery:blockmarble",
+		count: 64
+	},
+	{
+		uid: "c387965c",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

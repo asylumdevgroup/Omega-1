@@ -1,0 +1,40 @@
+{
+	icon: "immersiveengineering:wooden_device0 1 2",
+	x: 1.0d,
+	y: 2.5d,
+	text: [
+		"Used to make IE crafting components more cheaply, or at all (in some cases)."
+	],
+	dependencies: [
+		"148d1508"
+	],
+	tasks: [{
+		uid: "66c78b29",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	},
+	{
+		uid: "67245463",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "components"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2c8b19bf",
+		type: "item",
+		item: {
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "molds"
+			}
+		}
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Alloy Kiln",
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"69e67f14"
+	],
+	tasks: [{
+		uid: "a664ee96",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 10"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "fb63b028",
+		type: "item",
+		item: "thermalfoundation:material 1 128",
+		count: 4
+	},
+	{
+		uid: "57bbcf6a",
+		type: "item",
+		item: "thermalfoundation:material 1 133",
+		count: 4
+	}]
+}

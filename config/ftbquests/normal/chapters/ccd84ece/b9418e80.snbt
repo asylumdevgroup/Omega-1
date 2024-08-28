@@ -1,0 +1,17 @@
+{
+	title: "Windmill Upgrade",
+	x: -2.0d,
+	y: 3.5d,
+	dependencies: [
+		"ccd00730",
+		"53ae8f38"
+	],
+	tasks: [{
+		uid: "a7d6830d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 12"
+		}],
+		count: 8L
+	}]
+}

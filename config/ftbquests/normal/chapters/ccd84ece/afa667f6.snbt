@@ -1,0 +1,69 @@
+{
+	title: "Industrial Squeezer",
+	icon: "immersiveengineering:metal_multiblock 1 7",
+	x: 3.0d,
+	y: 2.5d,
+	dependencies: [
+		"63553be6"
+	],
+	tasks: [{
+		uid: "349b69e1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1 1 1"
+		}],
+		count: 6L
+	},
+	{
+		uid: "a289518b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 6"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c6c7ed59",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 3"
+		}]
+	},
+	{
+		uid: "1925bb46",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration0 1 4"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e566c9f2",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 1"
+		}],
+		count: 4L
+	},
+	{
+		uid: "84e89370",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}]
+	},
+	{
+		uid: "e4cd60db",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_decoration1"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "fb760a9d",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 8
+	}]
+}

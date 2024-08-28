@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: 2.5d,
+	text: [
+		"Stores 100000 FE."
+	],
+	dependencies: [
+		"b7ec7f03"
+	],
+	tasks: [{
+		uid: "7cf7ccef",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0"
+		}]
+	}],
+	rewards: [{
+		uid: "2866cc19",
+		type: "item",
+		item: "thermalfoundation:material 1 128",
+		count: 4
+	}]
+}

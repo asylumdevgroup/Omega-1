@@ -1,0 +1,25 @@
+{
+	icon: "ic2:resource 1 12",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"Welcome to the IC2 and Tech Reborn chapter! IC2 in this pack has been configured in \"classic mode\", which means recipes are slightly easier. In addition, Tech Reborn has been configured to work together in progression with IC2."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e37681e2",
+		type: "checkmark",
+		title: "Unlock IC2 and Tech Reborn"
+	}],
+	rewards: [{
+		uid: "bc2c27db",
+		type: "item",
+		item: "ic2:wrench"
+	},
+	{
+		uid: "0b009018",
+		type: "xp_levels",
+		xp_levels: 4
+	}]
+}

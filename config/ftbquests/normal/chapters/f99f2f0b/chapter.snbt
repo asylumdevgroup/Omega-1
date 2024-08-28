@@ -1,0 +1,7 @@
+{
+	title: "Botania",
+	icon: "botania:pool",
+	always_invisible: false,
+	group: -1943191256,
+	default_quest_shape: ""
+}

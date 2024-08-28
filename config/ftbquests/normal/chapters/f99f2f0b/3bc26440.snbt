@@ -1,0 +1,38 @@
+{
+	icon: "botania:pool",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "58b18879",
+		type: "checkmark",
+		title: "Unlock Botania"
+	}],
+	rewards: [{
+		uid: "9d998e9d",
+		type: "item",
+		item: {
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}
+	},
+	{
+		uid: "05140549",
+		type: "item",
+		item: {
+			id: "botania:flowerbag",
+			ForgeCaps: {
+				Parent: []
+			}
+		}
+	},
+	{
+		uid: "7d5a3448",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

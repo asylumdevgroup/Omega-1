@@ -1,0 +1,7 @@
+{
+	title: "Thermal Series",
+	icon: "thermalfoundation:wrench",
+	always_invisible: false,
+	group: 56496757,
+	default_quest_shape: ""
+}

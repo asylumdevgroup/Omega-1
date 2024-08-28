@@ -1,0 +1,35 @@
+{
+	icon: "immersiveengineering:wirecoil 1 2",
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"deaaabba"
+	],
+	tasks: [{
+		uid: "52db39fa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	},
+	{
+		uid: "cda199ad",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 4"
+		}]
+	},
+	{
+		uid: "0897a0ae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "ed8a1695",
+		type: "item",
+		item: "immersiveengineering:wirecoil 1 2",
+		count: 4
+	}]
+}
