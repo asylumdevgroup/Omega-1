@@ -1,7 +1,7 @@
 {
     "renders": [
         "sample/background",
-        "sample/logorotate",
+        "sample/logo",
         "sample/text_percentage_scrolling",
         {
             "image": {
@@ -13,7 +13,7 @@
         {
             "image": {
                 "parent": "sample/bottom_bar",
-                "colour": "0xFF_F1_5A_24"
+                "colour": "0xFF_AD_D8_E6"
             }
         },
         {
@@ -22,7 +22,7 @@
                 "image": "textures/font/ascii.png",
                 "position_type": "TOP_LEFT",
                 "offset_pos": "TOP_LEFT",
-                "text": "memory_used() + ' MB / ' + memory_total() + ' MB'",
+                "text": "memory_used() + ' MB / ' + memory_max() + ' MB'",
                 "position": {
                     "x": 10, "y": 10
                 }

@@ -1,5 +1,5 @@
 {
   "parent":"sample/logoicon",
-  "position_type":"BOTTOM_RIGHT",
+  "position_type":"TOP_RIGHT",
   "offset_pos":"CENTER"
 }

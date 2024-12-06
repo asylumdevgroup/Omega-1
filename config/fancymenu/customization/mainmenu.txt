@@ -1,0 +1,297 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/mainmenu/bg.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -109
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 223
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/long_button_highlighted.png
+  backgroundnormal = resources/mainmenu/long_button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = 61
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 111
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -110
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 111
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-right
+  x = -22
+  action = movebutton
+  y = 2
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttondescription
+  description = Accessibility Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -109
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 223
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/long_button_highlighted.png
+  backgroundnormal = resources/mainmenu/long_button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -109
+  action = movebutton
+  y = 31
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 111
+  action = resizebutton
+  height = 27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 37
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = a6c9211e-09e9-42c3-91c6-08178db571311733446801019
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 169
+  action = deep_customization_element:title_screen_branding
+  actionid = f48bed8e-296d-4b0d-ab4f-120ad1ec96851733446801049
+  y = 194
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 113
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = a3b16b2b-ef9f-4f16-a751-b6875b998e581733446801049
+  y = 236
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 274
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = ffc7c7c9-a361-4305-b063-fd9ab67f4def1733446801051
+  y = 164
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 34
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 76ce44ee-585c-47fb-9b14-fd55757012d01733446801052
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = aaa66a63-5382-499e-9bcf-b4c0ebd3685d1733446801052
+  y = 0
+  height = 30
+}
+
+customization {
+  path = resources/mainmenu/pack-logo.png
+  orientation = mid-centered
+  x = -142
+  width = 292
+  actionid = 5bd88a06-5b98-4674-9ca7-c8022371d81a1733447199329
+  action = addtexture
+  y = -78
+  height = 42
+}
+
+customization {
+  path = resources/mainmenu/adg.png
+  orientation = top-left
+  x = -1
+  width = 94
+  actionid = 78624108-019b-45db-8526-164c3d4f4de01733447290982
+  action = addtexture
+  y = -32
+  height = 94
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.com/invite/MTTCeZZ%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  label = Discord
+  loopbackgroundanimations = true
+  x = 3
+  width = 111
+  action = addbutton
+  actionid = 5ba40297-685d-402b-8690-65fae61c15231733447667332
+  y = 31
+  backgroundnormal = resources/mainmenu/button.png
+  height = 27
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Forge {"placeholder":"modversion","values":{"modid":"forge"}}%n%Minecraft {"placeholder":"mcversion"}%n%{"placeholder":"loadedmods"} Mods Loaded
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 1
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b04dcb3b-6edf-4fa5-9a7e-81d2d7c1bb2e1733447834383
+  y = 223
+  alignment = left
+  height = 33
+}
+
+customization {
+  orientation = top-right
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHOrderScreen%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/bisect_button_hover.png
+  description = Purchase a server with BisectHosting!
+  label =  
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = -44
+  width = 20
+  action = addbutton
+  actionid = 408a1e4c-c6e4-4249-9179-5a878f44bc7d1733448090836
+  y = 2
+  backgroundnormal = resources/mainmenu/bisect_button.png
+  height = 20
+}
+

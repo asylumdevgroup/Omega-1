@@ -1,3 +1,2 @@
-
 background = addStretchedTexture("top_left", "mainmenu:bg.png")
 background.setRelRender(1, 1)
